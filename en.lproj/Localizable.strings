@@ -16,12 +16,20 @@ The maximum allowed value is one-third of the screen width.
 Adjusting this setting is useful to prevent accidental activation when attempting to minimize or expand the player.</string>
 	<key>ActiveTabs</key>
 	<string>Active tabs</string>
+	<key>AddExplore</key>
+	<string>Add Explore tab</string>
+	<key>AddExploreDesc</key>
+	<string>Adds an Explore tab to the tab bar.</string>
 	<key>AddLibraryTab</key>
 	<string>Restore "You" tab</string>
 	<key>AdjustWithFinger</key>
-	<string>Adjust speed by gestures</string>
+	<string>Brightness/volume gestures</string>
 	<key>AdjustWithFingerDesc</key>
-	<string>Allows adjusting playback speed by long press on player and moving finger up and down.</string>
+	<string>Swipe left side for brightness, right side for volume.</string>
+	<key>Advanced</key>
+	<string>Advanced mode</string>
+	<key>AdvancedDesc</key>
+	<string>Shows additional settings.</string>
 	<key>Arabic</key>
 	<string>Arabic localization</string>
 	<key>Ask</key>
@@ -78,9 +86,9 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<key>ClearCacheAtStartDesc</key>
 	<string>Automatically clears the cache on startup.</string>
 	<key>CommentManager</key>
-	<string>Save comment information</string>
+	<string>Comment manager</string>
 	<key>CommentManagerDesc</key>
-	<string>Allows to copy comment text and save comment as image by long tap.</string>
+	<string>Long press to copy comments.</string>
 	<key>CompactToast</key>
 	<string>Compact toast</string>
 	<key>CompactToastDesc</key>
@@ -135,6 +143,10 @@ By continuing to use the app, you take full responsibility and agree that any co
 	<string>Copy title</string>
 	<key>CopyTranscript</key>
 	<string>Copy transcript</string>
+	<key>CopyVideoInfo</key>
+	<string>Copy video info</string>
+	<key>CopyVideoInfoDesc</key>
+	<string>Adds a button to copy video title and description.</string>
 	<key>CopyWithTimestamp</key>
 	<string>Copy timestamped links</string>
 	<key>CopyWithTimestampDesc</key>
@@ -164,9 +176,9 @@ By continuing to use the app, you take full responsibility and agree that any co
 	<key>Disable</key>
 	<string>Disable</string>
 	<key>DisableAmbientMode</key>
-	<string>Disable ambient mode</string>
+	<string>Disable Ambient Mode</string>
 	<key>DisableAmbientModeDesc</key>
-	<string>Disables ambient mode both in the player and in the area underneath it.</string>
+	<string>Disables cinematic lighting on videos.</string>
 	<key>DisableAutoCaptions</key>
 	<string>Disable auto captions</string>
 	<key>DisableAutoCaptionsDesc</key>
@@ -176,9 +188,9 @@ By continuing to use the app, you take full responsibility and agree that any co
 	<key>DisableAutoplayDesc</key>
 	<string>Prevents video playback after opening.</string>
 	<key>DisableRTL</key>
-	<string>Disable RTL formatting</string>
+	<string>Disable RTL</string>
 	<key>DisableRTLDesc</key>
-	<string>Forcefully displays text in left-to-right (LTR) format for languages that are initially displayed in right-to-left (RTL).</string>
+	<string>Forces left-to-right text direction.</string>
 	<key>Disabled</key>
 	<string>Disabled</string>
 	<key>DonateDesc</key>
@@ -296,9 +308,9 @@ Please try again later.</string>
 	<key>Feed</key>
 	<string>Feed</string>
 	<key>FixAlbums</key>
-	<string>Fix covers</string>
+	<string>Fix album covers</string>
 	<key>FixAlbumsDesc</key>
-	<string>Fixes the display of covers for users from Russia.</string>
+	<string>Fixes album cover display.</string>
 	<key>Floating</key>
 	<string>Floating</string>
 	<key>FollowMe</key>
@@ -335,82 +347,120 @@ Please try again later.</string>
 	<string>Removes Trends button that appears in paused state.</string>
 	<key>HideLibraryFooter</key>
 	<string>Tab settings are also accessible by long-pressing the first tab in the tab bar.</string>
+	<key>HideLibraryTab</key>
+	<string>Hide Library tab</string>
+	<key>HideLibraryTabDesc</key>
+	<string>Hides the Library tab from the tab bar.</string>
 	<key>HidePrevNext</key>
 	<string>Hide Previous and Next buttons</string>
 	<key>HidePrevNextDesc</key>
 	<string>Hides Previous and Next video buttons from overlay.</string>
 	<key>HideShorts</key>
-	<string>Hide Shorts videos</string>
+	<string>Hide Shorts from feed</string>
 	<key>HideShortsAudio</key>
 	<string>No audio indicator</string>
 	<key>HideShortsAudioDesc</key>
 	<string>Removes the line indicating the audio used in the Shorts.</string>
+	<key>HideShortsAudioTrack</key>
+	<string>Hide Shorts audio track</string>
+	<key>HideShortsAudioTrackDesc</key>
+	<string>Hides audio track info in Shorts.</string>
+	<key>HideShortsAvatars</key>
+	<string>Hide Shorts avatars</string>
+	<key>HideShortsAvatarsDesc</key>
+	<string>Hides avatars in Shorts feed.</string>
 	<key>HideShortsCamera</key>
-	<string>Hide Camera button</string>
+	<string>Hide Shorts camera</string>
 	<key>HideShortsCameraDesc</key>
 	<string>Hides Camera button from the Shorts overlay.</string>
+	<key>HideShortsChannelName</key>
+	<string>Hide Shorts channel name</string>
+	<key>HideShortsChannelNameDesc</key>
+	<string>Hides channel name in Shorts.</string>
 	<key>HideShortsComments</key>
-	<string>No Comments button</string>
+	<string>Hide Shorts comments</string>
 	<key>HideShortsCommentsDesc</key>
-	<string>Removes the Comments button from the action bar.</string>
+	<string>Hides the comments button in Shorts.</string>
 	<key>HideShortsDesc</key>
-	<string>Hides Shorts videos from Homepage, Recommended etc.</string>
+	<string>Removes Shorts from the main feed.</string>
 	<key>HideShortsDescription</key>
-	<string>No description</string>
+	<string>Hide Shorts description</string>
 	<key>HideShortsDescriptionDesc</key>
-	<string>Removes the Shorts description.</string>
+	<string>Hides the video description in Shorts.</string>
 	<key>HideShortsDislike</key>
-	<string>No Dislike button</string>
+	<string>Hide Shorts dislike</string>
 	<key>HideShortsDislikeDesc</key>
-	<string>Removes the Dislike button from the action bar.</string>
+	<string>Hides the dislike button in Shorts.</string>
 	<key>HideShortsLike</key>
-	<string>No Like button</string>
+	<string>Hide Shorts like</string>
 	<key>HideShortsLikeDesc</key>
-	<string>Removes the Like button from the action bar.</string>
+	<string>Hides the like button in Shorts.</string>
 	<key>HideShortsLogo</key>
 	<string>Hide Shorts logo</string>
 	<key>HideShortsLogoDesc</key>
-	<string>Hides Shorts logo in the top left corner.</string>
+	<string>Hides the Shorts header title.</string>
 	<key>HideShortsMore</key>
-	<string>Hide More (⋮) button</string>
+	<string>Hide Shorts more</string>
 	<key>HideShortsMoreDesc</key>
-	<string>Hides More (⋮) button from the Shorts overlay. It's also accessible by long-pressing the screen.</string>
+	<string>Hides the more button in Shorts.</string>
 	<key>HideShortsRemix</key>
-	<string>No Remix button</string>
+	<string>Hide Shorts remix</string>
 	<key>HideShortsRemixDesc</key>
-	<string>Removes the Remix button from the action bar.</string>
+	<string>Hides the Remix button in Shorts.</string>
 	<key>HideShortsSearch</key>
-	<string>Hide Search button</string>
+	<string>Hide Shorts search</string>
 	<key>HideShortsSearchDesc</key>
-	<string>Hides Search button from the Shorts overlay.</string>
+	<string>Hides the search button in Shorts.</string>
 	<key>HideShortsShare</key>
-	<string>No Share button</string>
+	<string>Hide Shorts share</string>
 	<key>HideShortsShareDesc</key>
-	<string>Removes the Share button from the action bar.</string>
+	<string>Hides the Share button in Shorts.</string>
 	<key>HideShortsSource</key>
-	<string>No source link button</string>
+	<string>Hide Shorts source</string>
 	<key>HideShortsSourceDesc</key>
-	<string>Removes the button that navigates to the full video or another Short video.</string>
+	<string>Hides the source link in Shorts.</string>
 	<key>HideShortsSubscribe</key>
 	<string>No follow button</string>
 	<key>HideShortsSubscribeDesc</key>
 	<string>Removes the Follow button next to the username.</string>
+	<key>HideShortsSubscriptions</key>
+	<string>Hide Shorts subscriptions</string>
+	<key>HideShortsSubscriptionsDesc</key>
+	<string>Hides subscription carousel in Shorts.</string>
 	<key>HideShortsSuggestion</key>
 	<string>No suggestions</string>
 	<key>HideShortsSuggestionDesc</key>
 	<string>Removes the button with suggestions, such as Add to playlist, Super Thanks, etc.</string>
+	<key>HideShortsTab</key>
+	<string>Hide Shorts tab</string>
+	<key>HideShortsTabDesc</key>
+	<string>Hides the Shorts tab from the tab bar.</string>
+	<key>HideShortsThanks</key>
+	<string>Hide Shorts Thanks</string>
+	<key>HideShortsThanksDesc</key>
+	<string>Hides the Thanks button in Shorts.</string>
 	<key>HideShortsUsername</key>
 	<string>No username</string>
 	<key>HideShortsUsernameDesc</key>
 	<string>Removes the channel name.</string>
+	<key>HideShortsСameraDesc</key>
+	<string>Hides the camera button in Shorts.</string>
 	<key>HideSortComments</key>
-	<string>Hide comments header</string>
+	<string>Hide comment sort buttons</string>
 	<key>HideSortCommentsDesc</key>
-	<string>Hides sort comments header (Top, Newest) so it will never appear.</string>
+	<string>Hides comment sort buttons.</string>
 	<key>HideSubs</key>
 	<string>Hide Subtitles button</string>
 	<key>HideSubsDesc</key>
 	<string>Hides Subtitles button from the overlay.</string>
+	<key>HideSubscriptionsTab</key>
+	<string>Hide Subscriptions tab</string>
+	<key>HideSubscriptionsTabDesc</key>
+	<string>Hides the Subscriptions tab from the tab bar.</string>
+	<key>HideUploadButton</key>
+	<string>Hide Upload button</string>
+	<key>HideUploadButtonDesc</key>
+	<string>Hides the create/upload button.</string>
 	<key>Highlight</key>
 	<string>Highlight</string>
 	<key>HighlightColor</key>
@@ -506,9 +556,9 @@ Please try again later.</string>
 	<key>MuteButtonDesc</key>
 	<string>Displays a button to mute or unmute the volume on the overlay.</string>
 	<key>NativeShare</key>
-	<string>Native share sheet</string>
+	<string>Native share menu</string>
 	<key>NativeShareDesc</key>
-	<string>Uses system share sheet to share media</string>
+	<string>Replaces YouTube share with system share.</string>
 	<key>Navbar</key>
 	<string>Navigation bar</string>
 	<key>No</key>
@@ -521,6 +571,10 @@ Please try again later.</string>
 	<string>Skip content warning</string>
 	<key>NoContentWarningDesc</key>
 	<string>Skips sensitive content warning message.</string>
+	<key>NoContinueWatching</key>
+	<string>Remove Continue Watching</string>
+	<key>NoContinueWatchingDesc</key>
+	<string>Hides the Continue Watching section from the feed.</string>
 	<key>NoDarkBg</key>
 	<string>Remove dark background</string>
 	<key>NoDarkBgDesc</key>
@@ -549,6 +603,18 @@ Please try again later.</string>
 	<string>Disable hints</string>
 	<key>NoHintsDesc</key>
 	<string>Disables hints by author which appears at the top-right corner during playback.</string>
+	<key>NoPlayerClipButton</key>
+	<string>Hide Clip button</string>
+	<key>NoPlayerClipButtonDesc</key>
+	<string>Hides the Clip button below the player.</string>
+	<key>NoPlayerDownloadButton</key>
+	<string>Hide Download button</string>
+	<key>NoPlayerDownloadButtonDesc</key>
+	<string>Hides the Download button below the player.</string>
+	<key>NoPlayerRemixButton</key>
+	<string>Hide Remix button</string>
+	<key>NoPlayerRemixButtonDesc</key>
+	<string>Hides the Remix button below the player.</string>
 	<key>NoPromotionCards</key>
 	<string>Hide Paid Promotion cards</string>
 	<key>NoPromotionCardsDesc</key>
@@ -558,13 +624,13 @@ Please try again later.</string>
 	<key>NoRelatedVidsDesc</key>
 	<string>Removes related videos displayed in the overlay by swiping up.</string>
 	<key>NoRelatedWatchNexts</key>
-	<string>Hide all videos under player</string>
+	<string>Remove related videos</string>
 	<key>NoRelatedWatchNextsDesc</key>
-	<string>Hides all videos below the player, leaving only the video info and comments section.</string>
+	<string>Hides the related videos section.</string>
 	<key>NoSearchHistory</key>
-	<string>Hide search history</string>
+	<string>Remove search history</string>
 	<key>NoSearchHistoryDesc</key>
-	<string>Visually hides search history and suggestions. Note: Your search history will still be accessible in your other YouTube clients.</string>
+	<string>Hides search history suggestions.</string>
 	<key>NoShareChunk</key>
 	<string>Remove share identifier</string>
 	<key>NoShareChunkDesc</key>
@@ -600,9 +666,9 @@ Please try again later.</string>
 	<key>OledKeyboardDesc</key>
 	<string>Applies OLED black theme for dark keyboard</string>
 	<key>OledTheme</key>
-	<string>OLED theme</string>
+	<string>AMOLED theme</string>
 	<key>OledThemeDesc</key>
-	<string>Turns all dark colors to black</string>
+	<string>Enables pure black background for OLED screens.</string>
 	<key>OpenAsRegularVideo</key>
 	<string>Open as regular video</string>
 	<key>OpenLink</key>
@@ -628,9 +694,9 @@ Please try again later.</string>
 	<key>PersistentProgressBarDesc</key>
 	<string>Always shows progress bar in the player.</string>
 	<key>PinchToFullscreenShorts</key>
-	<string>Pinch to Fullscreen</string>
+	<string>Pinch to fullscreen Shorts</string>
 	<key>PinchToFullscreenShortsDesc</key>
-	<string>Manages visibility of the overlay with pinch in and pinch out gestures, displaying Shorts in fullscreen mode.</string>
+	<string>Pinch to zoom Shorts to fullscreen.</string>
 	<key>PlayInExternalPlayer</key>
 	<string>Play in external player</string>
 	<key>PlayInInfuse</key>
@@ -692,7 +758,7 @@ Please try again later.</string>
 	<key>PlaylistOldMinibar</key>
 	<string>Old playlist minibar</string>
 	<key>PlaylistOldMinibarDesc</key>
-	<string>Replaces the new floating playlist panel with the old one.</string>
+	<string>Restores old playlist minibar style.</string>
 	<key>Polish</key>
 	<string>Polish localization</string>
 	<key>PortraitFullscreen</key>
@@ -704,13 +770,11 @@ Please try again later.</string>
 	<key>PostDownloadDesc</key>
 	<string>The selected action will be performed upon successful completion of the video download.</string>
 	<key>PostManager</key>
-	<string>Save post information</string>
+	<string>Post manager</string>
 	<key>PostManagerDesc</key>
-	<string>Allows to copy post text and save post as image by long tap.</string>
+	<string>Long press to copy/save posts.</string>
 	<key>PreImportMessage</key>
-	<string>This action will replace the current preferences with those from the selected file.
-
-Are you sure you want to continue?</string>
+	<string>Apply imported settings? The app will restart.</string>
 	<key>Preferences</key>
 	<string>%@ preferences</string>
 	<key>PreferredAudio</key>
@@ -735,8 +799,20 @@ Are you sure you want to continue?</string>
 	<string>Private UserID</string>
 	<key>ProgressBarStyle</key>
 	<string>Progress bar style</string>
+	<key>ProxyBlockQUIC</key>
+	<string>Block QUIC</string>
+	<key>ProxyBlockQUICDesc</key>
+	<string>Blocks UDP/443 (QUIC) to force TCP connections.</string>
+	<key>ProxyEnabled</key>
+	<string>Enable Proxy</string>
+	<key>ProxyEnabledDesc</key>
+	<string>Routes all YouTube traffic through SOCKS5 proxy.</string>
 	<key>PublicUserID</key>
 	<string>Public UserID</string>
+	<key>ReExplore</key>
+	<string>Replace Shorts with Explore</string>
+	<key>ReExploreDesc</key>
+	<string>Replaces the Shorts tab with the Explore tab.</string>
 	<key>RedProgressBar</key>
 	<string>Red progress bar</string>
 	<key>RedProgressBarDesc</key>
@@ -760,19 +836,19 @@ Are you sure you want to continue?</string>
 	<key>RemoveCommunityPosts</key>
 	<string>Remove community posts</string>
 	<key>RemoveCommunityPostsDesc</key>
-	<string>Removes community posts from the feed.</string>
+	<string>Hides community posts from the feed.</string>
 	<key>RemoveDontRecommendMenu</key>
-	<string>Remove "Don't recommend channel"</string>
+	<string>Remove Don't Recommend</string>
 	<key>RemoveDontRecommendMenuDesc</key>
-	<string>Removes "Don't recommend channel" option from menu.</string>
+	<string>Removes Don't Recommend Channel from context menu.</string>
 	<key>RemoveDownloadMenu</key>
-	<string>Remove "Download"</string>
+	<string>Remove Download from menu</string>
 	<key>RemoveDownloadMenuDesc</key>
-	<string>Removes "Download" option from menu.</string>
+	<string>Removes Download from context menu.</string>
 	<key>RemoveHorizontalFeeds</key>
 	<string>Remove horizontal feeds</string>
 	<key>RemoveHorizontalFeedsDesc</key>
-	<string>Removes all horizontal feeds (News, Continue Watching, Posts collection, etc.) from the Home tab.</string>
+	<string>Hides horizontal video shelves.</string>
 	<key>RemoveIndicators</key>
 	<string>Remove tab indicators</string>
 	<key>RemoveInlineComment</key>
@@ -784,53 +860,53 @@ Are you sure you want to continue?</string>
 	<key>RemoveLibraryTab</key>
 	<string>Remove "You" tab</string>
 	<key>RemoveLiveVids</key>
-	<string>Remove Live videos</string>
+	<string>Remove live streams</string>
 	<key>RemoveLiveVidsDesc</key>
-	<string>Removes Live videos from the Home tab.</string>
+	<string>Hides live streams from the feed.</string>
 	<key>RemoveMixPlaylists</key>
-	<string>Remove mixes</string>
+	<string>Remove mix playlists</string>
 	<key>RemoveMixPlaylistsDesc</key>
-	<string>Removes mix playlist generated by YouTube from the feed.</string>
+	<string>Hides mix playlists from the feed.</string>
 	<key>RemoveMoreTopics</key>
 	<string>Remove "More topics"</string>
 	<key>RemoveMoreTopicsDesc</key>
 	<string>Removes "More topics" from the feed.</string>
 	<key>RemoveNotInterestedMenu</key>
-	<string>Remove "Not interested"</string>
+	<string>Remove Not Interested</string>
 	<key>RemoveNotInterestedMenuDesc</key>
-	<string>Removes "Not interested" option from menu.</string>
+	<string>Removes Not Interested from context menu.</string>
 	<key>RemoveNotifications</key>
 	<string>Hide Notifications button</string>
 	<key>RemoveNotificationsDesc</key>
 	<string>Hides Notifications button from the Navigation bar.</string>
 	<key>RemovePlayNext</key>
-	<string>Remove "Play next in queue"</string>
+	<string>Remove Play Next</string>
 	<key>RemovePlayNextDesc</key>
-	<string>Removes "Play next in queue" option from menu.</string>
+	<string>Removes Play Next from menu.</string>
 	<key>RemovePlayables</key>
-	<string>Remove playables</string>
+	<string>Remove Playables</string>
 	<key>RemovePlayablesDesc</key>
-	<string>Removes playables (mini-games) from the feed.</string>
+	<string>Hides Playables content from the feed.</string>
 	<key>RemoveRemixMenu</key>
 	<string>Remove "Remix"</string>
 	<key>RemoveRemixMenuDesc</key>
 	<string>Removes "Remix" option from menu.</string>
 	<key>RemoveReportMenu</key>
-	<string>Remove "Report"</string>
+	<string>Remove Report</string>
 	<key>RemoveReportMenuDesc</key>
-	<string>Removes "Report" option from menu.</string>
+	<string>Removes Report from context menu.</string>
 	<key>RemoveSaveToPlaylistMenu</key>
-	<string>Remove "Save to playlist"</string>
+	<string>Remove Save to Playlist</string>
 	<key>RemoveSaveToPlaylistMenuDesc</key>
-	<string>Removes "Save to playlist" option from menu.</string>
+	<string>Removes Save to Playlist from context menu.</string>
 	<key>RemoveSearch</key>
 	<string>Hide Search button</string>
 	<key>RemoveSearchDesc</key>
 	<string>Hides Search button from the Navigation bar.</string>
 	<key>RemoveShareMenu</key>
-	<string>Remove "Share"</string>
+	<string>Remove Share from menu</string>
 	<key>RemoveShareMenuDesc</key>
-	<string>Removes "Share" option from menu.</string>
+	<string>Removes Share from context menu.</string>
 	<key>RemoveShortsLive</key>
 	<string>Remove live videos</string>
 	<key>RemoveShortsLiveDesc</key>
@@ -840,9 +916,9 @@ Are you sure you want to continue?</string>
 	<key>RemoveVoiceSearchDesc</key>
 	<string>Hides Voice search button from the Navigation bar.</string>
 	<key>RemoveWatchLaterMenu</key>
-	<string>Remove "Save to Watch Later"</string>
+	<string>Remove Watch Later from menu</string>
 	<key>RemoveWatchLaterMenuDesc</key>
-	<string>Removes "Save to Watch Later" option from menu.</string>
+	<string>Removes Watch Later from context menu.</string>
 	<key>RemoveYTMMenu</key>
 	<string>Remove "YouTube Music"</string>
 	<key>RemoveYTMMenuDesc</key>
@@ -863,6 +939,10 @@ Are you sure you want to continue?</string>
 	<string>Limit Shorts</string>
 	<key>RestrictShortsDesc</key>
 	<string>Limits the number of Shorts in the feed to 10-15. Useful if you want to avoid the habit of endlessly scrolling through the feed.</string>
+	<key>ResumeShorts</key>
+	<string>Resume Shorts</string>
+	<key>ResumeShortsDesc</key>
+	<string>Resumes Shorts from last viewed.</string>
 	<key>RetryLogin</key>
 	<string>Workaround activated.
 
@@ -882,9 +962,9 @@ Please try again.</string>
 	<key>SavePostAsImage</key>
 	<string>Save post as image</string>
 	<key>SaveProfilePhoto</key>
-	<string>Save profile picture</string>
+	<string>Save profile photo</string>
 	<key>SaveProfilePhotoDesc</key>
-	<string>Saves profile picture to the Photos app by long tap.</string>
+	<string>Long press avatar to save.</string>
 	<key>SaveProfilePicture</key>
 	<string>Save profile picture</string>
 	<key>SaveToPhotos</key>
@@ -990,7 +1070,7 @@ Unpaid:The creator will not receive any payment in exchange for this promotion</
 	<key>ShortsOnlyMode</key>
 	<string>Shorts only mode</string>
 	<key>ShortsOnlyModeDesc</key>
-	<string>Limits YouTube functionality to viewing Shorts only.</string>
+	<string>Launches YouTube in Shorts-only mode.</string>
 	<key>ShortsOnlyWarning</key>
 	<string>Are you sure you want to activate this mode?
 
@@ -998,13 +1078,13 @@ In this mode, you will only be able to watch Shorts videos and won't be able to 
 
 You can disable Shorts Only Mode by long pressing with two fingers in the Shorts player.</string>
 	<key>ShortsProgress</key>
-	<string>Enable progress bar</string>
+	<string>Shorts progress bar</string>
 	<key>ShortsProgressDesc</key>
-	<string>Displays progress bar in the Shorts overlay.</string>
+	<string>Shows progress bar in Shorts.</string>
 	<key>ShortsToRegular</key>
-	<string>Shorts to regular videos</string>
+	<string>Open Shorts as regular video</string>
 	<key>ShortsToRegularDesc</key>
-	<string>Opens Shorts videos as regular videos.</string>
+	<string>Opens Shorts as a regular video.</string>
 	<key>Show</key>
 	<string>Show</string>
 	<key>ShowCurrentImage</key>
@@ -1056,13 +1136,13 @@ You can disable Shorts Only Mode by long pressing with two fingers in the Shorts
 	<key>Startup</key>
 	<string>Startup page</string>
 	<key>StartupAnimation</key>
-	<string>Startup animation</string>
+	<string>Disable startup animation</string>
 	<key>StartupAnimationDesc</key>
-	<string>Displays YouTube startup loading animation.</string>
+	<string>Disables the YouTube splash screen.</string>
 	<key>StickSortComments</key>
-	<string>Stick comments header</string>
+	<string>Stick comment sort buttons</string>
 	<key>StickSortCommentsDesc</key>
-	<string>Pins sort comments header (Top, Newest) so that it won't disappear while scrolling.</string>
+	<string>Pins comment sort buttons.</string>
 	<key>StickyNavbar</key>
 	<string>Sticky Navigation bar</string>
 	<key>StickyNavbarDesc</key>
@@ -1118,6 +1198,26 @@ Thanks❤</string>
 	<string>Unskip Alert Duration</string>
 	<key>VLWL</key>
 	<string>Watch Later</string>
+	<key>VOTAudioProxy</key>
+	<string>Audio proxy</string>
+	<key>VOTAudioProxyDesc</key>
+	<string>Routes audio through the translation server.</string>
+	<key>VOTEnabled</key>
+	<string>Enable VOT</string>
+	<key>VOTEnabledDesc</key>
+	<string>Enables Voice Over Translation for videos.</string>
+	<key>VOTLiveVoices</key>
+	<string>Live voices</string>
+	<key>VOTLiveVoicesDesc</key>
+	<string>Use live voices for translation.</string>
+	<key>VOTOriginalVolume</key>
+	<string>Original volume</string>
+	<key>VOTSourceLang</key>
+	<string>Source language</string>
+	<key>VOTTargetLang</key>
+	<string>Target language</string>
+	<key>VOTTranslationVolume</key>
+	<string>Translation volume</string>
 	<key>VideoEndTime</key>
 	<string>Show playback end time</string>
 	<key>VideoEndTimeDesc</key>
@@ -1174,287 +1274,3 @@ Thanks❤</string>
 	<string>Sponsor segment</string>
 </dict>
 </plist>
-
-<!-- GLETube missing keys -->
-<key>NoPlayerRemixButton</key>
-<string>Hide Remix button</string>
-<key>NoPlayerRemixButtonDesc</key>
-<string>Hides the Remix button below the player.</string>
-<key>NoPlayerClipButton</key>
-<string>Hide Clip button</string>
-<key>NoPlayerClipButtonDesc</key>
-<string>Hides the Clip button below the player.</string>
-<key>NoPlayerDownloadButton</key>
-<string>Hide Download button</string>
-<key>NoPlayerDownloadButtonDesc</key>
-<string>Hides the Download button below the player.</string>
-<key>ResumeShorts</key>
-<string>Resume Shorts</string>
-<key>ResumeShortsDesc</key>
-<string>Resumes Shorts from last viewed.</string>
-<key>HideShortsSubscriptions</key>
-<string>Hide Shorts subscriptions</string>
-<key>HideShortsSubscriptionsDesc</key>
-<string>Hides subscription carousel in Shorts.</string>
-<key>HideShortsAvatars</key>
-<string>Hide Shorts avatars</string>
-<key>HideShortsAvatarsDesc</key>
-<string>Hides avatars in Shorts feed.</string>
-<key>HideShortsThanks</key>
-<string>Hide Shorts Thanks</string>
-<key>HideShortsThanksDesc</key>
-<string>Hides the Thanks button in Shorts.</string>
-<key>HideShortsChannelName</key>
-<string>Hide Shorts channel name</string>
-<key>HideShortsChannelNameDesc</key>
-<string>Hides channel name in Shorts.</string>
-<key>HideShortsAudioTrack</key>
-<string>Hide Shorts audio track</string>
-<key>HideShortsAudioTrackDesc</key>
-<string>Hides audio track info in Shorts.</string>
-<key>ReExplore</key>
-<string>Replace Shorts with Explore</string>
-<key>ReExploreDesc</key>
-<string>Replaces the Shorts tab with the Explore tab.</string>
-<key>AddExplore</key>
-<string>Add Explore tab</string>
-<key>AddExploreDesc</key>
-<string>Adds an Explore tab to the tab bar.</string>
-<key>HideShortsTab</key>
-<string>Hide Shorts tab</string>
-<key>HideShortsTabDesc</key>
-<string>Hides the Shorts tab from the tab bar.</string>
-<key>HideSubscriptionsTab</key>
-<string>Hide Subscriptions tab</string>
-<key>HideSubscriptionsTabDesc</key>
-<string>Hides the Subscriptions tab from the tab bar.</string>
-<key>HideUploadButton</key>
-<string>Hide Upload button</string>
-<key>HideUploadButtonDesc</key>
-<string>Hides the create/upload button.</string>
-<key>HideLibraryTab</key>
-<string>Hide Library tab</string>
-<key>HideLibraryTabDesc</key>
-<string>Hides the Library tab from the tab bar.</string>
-<key>CopyVideoInfo</key>
-<string>Copy video info</string>
-<key>CopyVideoInfoDesc</key>
-<string>Adds a button to copy video title and description.</string>
-<key>NoContinueWatching</key>
-<string>Remove Continue Watching</string>
-<key>NoContinueWatchingDesc</key>
-<string>Hides the Continue Watching section from the feed.</string>
-<key>ProxyEnabled</key>
-<string>Enable Proxy</string>
-<key>ProxyEnabledDesc</key>
-<string>Routes all YouTube traffic through SOCKS5 proxy.</string>
-<key>ProxyBlockQUIC</key>
-<string>Block QUIC</string>
-<key>ProxyBlockQUICDesc</key>
-<string>Blocks UDP/443 (QUIC) to force TCP connections.</string>
-<key>VOTEnabled</key>
-<string>Enable VOT</string>
-<key>VOTEnabledDesc</key>
-<string>Enables Voice Over Translation for videos.</string>
-<key>VOTLiveVoices</key>
-<string>Live voices</string>
-<key>VOTLiveVoicesDesc</key>
-<string>Use live voices for translation.</string>
-<key>VOTAudioProxy</key>
-<string>Audio proxy</string>
-<key>VOTAudioProxyDesc</key>
-<string>Routes audio through the translation server.</string>
-<key>VOTSourceLang</key>
-<string>Source language</string>
-<key>VOTTargetLang</key>
-<string>Target language</string>
-<key>VOTTranslationVolume</key>
-<string>Translation volume</string>
-<key>VOTOriginalVolume</key>
-<string>Original volume</string>
-<key>Advanced</key>
-<string>Advanced mode</string>
-<key>AdvancedDesc</key>
-<string>Shows additional settings.</string>
-<key>DisableAmbientMode</key>
-<string>Disable Ambient Mode</string>
-<key>DisableAmbientModeDesc</key>
-<string>Disables cinematic lighting on videos.</string>
-<key>OledTheme</key>
-<string>AMOLED theme</string>
-<key>OledThemeDesc</key>
-<string>Enables pure black background for OLED screens.</string>
-<key>StartupAnimation</key>
-<string>Disable startup animation</string>
-<key>StartupAnimationDesc</key>
-<string>Disables the YouTube splash screen.</string>
-<key>RemoveCommunityPosts</key>
-<string>Remove community posts</string>
-<key>RemoveCommunityPostsDesc</key>
-<string>Hides community posts from the feed.</string>
-<key>RemoveHorizontalFeeds</key>
-<string>Remove horizontal feeds</string>
-<key>RemoveHorizontalFeedsDesc</key>
-<string>Hides horizontal video shelves.</string>
-<key>RemoveLiveVids</key>
-<string>Remove live streams</string>
-<key>RemoveLiveVidsDesc</key>
-<string>Hides live streams from the feed.</string>
-<key>RemoveMixPlaylists</key>
-<string>Remove mix playlists</string>
-<key>RemoveMixPlaylistsDesc</key>
-<string>Hides mix playlists from the feed.</string>
-<key>RemovePlayables</key>
-<string>Remove Playables</string>
-<key>RemovePlayablesDesc</key>
-<string>Hides Playables content from the feed.</string>
-<key>AdjustWithFinger</key>
-<string>Brightness/volume gestures</string>
-<key>AdjustWithFingerDesc</key>
-<string>Swipe left side for brightness, right side for volume.</string>
-<key>ExportPreferences</key>
-<string>Export preferences</string>
-<key>ImportPreferences</key>
-<string>Import preferences</string>
-<key>PreImportMessage</key>
-<string>Apply imported settings? The app will restart.</string>
-<key>ShortsOnlyMode</key>
-<string>Shorts only mode</string>
-<key>ShortsOnlyModeDesc</key>
-<string>Launches YouTube in Shorts-only mode.</string>
-<key>HideShorts</key>
-<string>Hide Shorts from feed</string>
-<key>HideShortsDesc</key>
-<string>Removes Shorts from the main feed.</string>
-<key>ShortsProgress</key>
-<string>Shorts progress bar</string>
-<key>ShortsProgressDesc</key>
-<string>Shows progress bar in Shorts.</string>
-<key>PinchToFullscreenShorts</key>
-<string>Pinch to fullscreen Shorts</string>
-<key>PinchToFullscreenShortsDesc</key>
-<string>Pinch to zoom Shorts to fullscreen.</string>
-<key>ShortsToRegular</key>
-<string>Open Shorts as regular video</string>
-<key>ShortsToRegularDesc</key>
-<string>Opens Shorts as a regular video.</string>
-<key>HideShortsLogo</key>
-<string>Hide Shorts logo</string>
-<key>HideShortsLogoDesc</key>
-<string>Hides the Shorts header title.</string>
-<key>HideShortsSearch</key>
-<string>Hide Shorts search</string>
-<key>HideShortsSearchDesc</key>
-<string>Hides the search button in Shorts.</string>
-<key>HideShortsCamera</key>
-<string>Hide Shorts camera</string>
-<key>HideShortsСameraDesc</key>
-<string>Hides the camera button in Shorts.</string>
-<key>HideShortsMore</key>
-<string>Hide Shorts more</string>
-<key>HideShortsMoreDesc</key>
-<string>Hides the more button in Shorts.</string>
-<key>HideShortsLike</key>
-<string>Hide Shorts like</string>
-<key>HideShortsLikeDesc</key>
-<string>Hides the like button in Shorts.</string>
-<key>HideShortsDislike</key>
-<string>Hide Shorts dislike</string>
-<key>HideShortsDislikeDesc</key>
-<string>Hides the dislike button in Shorts.</string>
-<key>HideShortsComments</key>
-<string>Hide Shorts comments</string>
-<key>HideShortsCommentsDesc</key>
-<string>Hides the comments button in Shorts.</string>
-<key>HideShortsRemix</key>
-<string>Hide Shorts remix</string>
-<key>HideShortsRemixDesc</key>
-<string>Hides the Remix button in Shorts.</string>
-<key>HideShortsShare</key>
-<string>Hide Shorts share</string>
-<key>HideShortsShareDesc</key>
-<string>Hides the Share button in Shorts.</string>
-<key>HideShortsSource</key>
-<string>Hide Shorts source</string>
-<key>HideShortsSourceDesc</key>
-<string>Hides the source link in Shorts.</string>
-<key>HideShortsDescription</key>
-<string>Hide Shorts description</string>
-<key>HideShortsDescriptionDesc</key>
-<string>Hides the video description in Shorts.</string>
-<key>PostManager</key>
-<string>Post manager</string>
-<key>PostManagerDesc</key>
-<string>Long press to copy/save posts.</string>
-<key>SaveProfilePhoto</key>
-<string>Save profile photo</string>
-<key>SaveProfilePhotoDesc</key>
-<string>Long press avatar to save.</string>
-<key>CommentManager</key>
-<string>Comment manager</string>
-<key>CommentManagerDesc</key>
-<string>Long press to copy comments.</string>
-<key>FixAlbums</key>
-<string>Fix album covers</string>
-<key>FixAlbumsDesc</key>
-<string>Fixes album cover display.</string>
-<key>NativeShare</key>
-<string>Native share menu</string>
-<key>NativeShareDesc</key>
-<string>Replaces YouTube share with system share.</string>
-<key>RemovePlayNext</key>
-<string>Remove Play Next</string>
-<key>RemovePlayNextDesc</key>
-<string>Removes Play Next from menu.</string>
-<key>RemoveDownloadMenu</key>
-<string>Remove Download from menu</string>
-<key>RemoveDownloadMenuDesc</key>
-<string>Removes Download from context menu.</string>
-<key>RemoveWatchLaterMenu</key>
-<string>Remove Watch Later from menu</string>
-<key>RemoveWatchLaterMenuDesc</key>
-<string>Removes Watch Later from context menu.</string>
-<key>RemoveSaveToPlaylistMenu</key>
-<string>Remove Save to Playlist</string>
-<key>RemoveSaveToPlaylistMenuDesc</key>
-<string>Removes Save to Playlist from context menu.</string>
-<key>RemoveShareMenu</key>
-<string>Remove Share from menu</string>
-<key>RemoveShareMenuDesc</key>
-<string>Removes Share from context menu.</string>
-<key>RemoveNotInterestedMenu</key>
-<string>Remove Not Interested</string>
-<key>RemoveNotInterestedMenuDesc</key>
-<string>Removes Not Interested from context menu.</string>
-<key>RemoveDontRecommendMenu</key>
-<string>Remove Don't Recommend</string>
-<key>RemoveDontRecommendMenuDesc</key>
-<string>Removes Don't Recommend Channel from context menu.</string>
-<key>RemoveReportMenu</key>
-<string>Remove Report</string>
-<key>RemoveReportMenuDesc</key>
-<string>Removes Report from context menu.</string>
-<key>NoSearchHistory</key>
-<string>Remove search history</string>
-<key>NoSearchHistoryDesc</key>
-<string>Hides search history suggestions.</string>
-<key>NoRelatedWatchNexts</key>
-<string>Remove related videos</string>
-<key>NoRelatedWatchNextsDesc</key>
-<string>Hides the related videos section.</string>
-<key>StickSortComments</key>
-<string>Stick comment sort buttons</string>
-<key>StickSortCommentsDesc</key>
-<string>Pins comment sort buttons.</string>
-<key>HideSortComments</key>
-<string>Hide comment sort buttons</string>
-<key>HideSortCommentsDesc</key>
-<string>Hides comment sort buttons.</string>
-<key>PlaylistOldMinibar</key>
-<string>Old playlist minibar</string>
-<key>PlaylistOldMinibarDesc</key>
-<string>Restores old playlist minibar style.</string>
-<key>DisableRTL</key>
-<string>Disable RTL</string>
-<key>DisableRTLDesc</key>
-<string>Forces left-to-right text direction.</string>
