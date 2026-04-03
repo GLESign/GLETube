@@ -71,6 +71,8 @@
 	<string>Лучшее</string>
 	<key>Both</key>
 	<string>Оба</string>
+	<key>Brightness</key>
+	<string>Яркость</string>
 	<key>Cancel</key>
 	<string>Отмена</string>
 	<key>Cancelled</key>
@@ -689,6 +691,8 @@
 	<string>Включает чисто чёрный фон для OLED экранов.</string>
 	<key>OpenAsRegularVideo</key>
 	<string>Открыть как обычное видео</string>
+	<key>OpenInSafari</key>
+	<string>Открыть в Safari</string>
 	<key>OpenLink</key>
 	<string>Открыть ссылку</string>
 	<key>OpenSourceLibs</key>
@@ -719,6 +723,8 @@
 	<string>Масштабирование Shorts жестом щипка.</string>
 	<key>PlayInExternalPlayer</key>
 	<string>Воспроизвести в стороннем плеере</string>
+	<key>PlayInExternalPlayerDesc</key>
+	<string>Добавляет опцию открытия видео в Safari.</string>
 	<key>PlayInInfuse</key>
 	<string>Воспроизвести в Infuse</string>
 	<key>PlayInSystemPlayer</key>
@@ -1325,6 +1331,8 @@
 	<string>Будьте в курсе последних обновлений приложения</string>
 	<key>VoiceOverTranslation</key>
 	<string>Голосовой перевод</string>
+	<key>Volume</key>
+	<string>Громкость</string>
 	<key>Warning</key>
 	<string>Внимание</string>
 	<key>Welcome.Content</key>

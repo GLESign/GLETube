@@ -71,6 +71,8 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<string>Best</string>
 	<key>Both</key>
 	<string>Both</string>
+	<key>Brightness</key>
+	<string>Brightness</string>
 	<key>Cancel</key>
 	<string>Cancel</string>
 	<key>Cancelled</key>
@@ -689,6 +691,8 @@ Please try again later.</string>
 	<string>Enables pure black background for OLED screens.</string>
 	<key>OpenAsRegularVideo</key>
 	<string>Open as regular video</string>
+	<key>OpenInSafari</key>
+	<string>Open in Safari</string>
 	<key>OpenLink</key>
 	<string>Open link</string>
 	<key>OpenSourceLibs</key>
@@ -719,6 +723,8 @@ Please try again later.</string>
 	<string>Pinch to zoom Shorts to fullscreen.</string>
 	<key>PlayInExternalPlayer</key>
 	<string>Play in external player</string>
+	<key>PlayInExternalPlayerDesc</key>
+	<string>Adds option to open video in Safari.</string>
 	<key>PlayInInfuse</key>
 	<string>Play in Infuse</string>
 	<key>PlayInSystemPlayer</key>
@@ -1322,6 +1328,8 @@ Thanks❤</string>
 	<string>Stay informed about the latest app updates</string>
 	<key>VoiceOverTranslation</key>
 	<string>Voice Over Translation</string>
+	<key>Volume</key>
+	<string>Volume</string>
 	<key>Warning</key>
 	<string>Warning</string>
 	<key>Welcome.Content</key>
