@@ -231,6 +231,8 @@ You can contribute or choose to disable these notifications in the YouTube Plus 
 	<string>Download captions</string>
 	<key>DownloadCompleted</key>
 	<string>Download completed</string>
+	<key>DownloadFailed</key>
+	<string>Download failed</string>
 	<key>DownloadManager</key>
 	<string>Download manager</string>
 	<key>DownloadManagerDesc</key>
@@ -327,6 +329,8 @@ Please try again later.</string>
 	<string>Home</string>
 	<key>Feed</key>
 	<string>Feed</string>
+	<key>FetchingURL</key>
+	<string>Fetching URL...</string>
 	<key>FixAlbums</key>
 	<string>Fix album covers</string>
 	<key>FixAlbumsDesc</key>
@@ -1040,6 +1044,10 @@ Please try again.</string>
 	<key>SaveToPhotos</key>
 	<string>Save to photos</string>
 	<key>Saved</key>
+	<string>Saved to Photos</string>
+	<key>SavedToFiles</key>
+	<string>Saved to Files</string>
+	<key>SavedToPhotos</key>
 	<string>Saved to Photos</string>
 	<key>Sb.Alphabetical</key>
 	<string>Alphabetical (A-Z)</string>

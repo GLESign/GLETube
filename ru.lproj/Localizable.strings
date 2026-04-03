@@ -231,6 +231,8 @@
 	<string>Скачать субтитры</string>
 	<key>DownloadCompleted</key>
 	<string>Загрузка завершена</string>
+	<key>DownloadFailed</key>
+	<string>Ошибка загрузки</string>
 	<key>DownloadManager</key>
 	<string>Менеджер загрузок</string>
 	<key>DownloadManagerDesc</key>
@@ -327,6 +329,8 @@
 	<string>Главная</string>
 	<key>Feed</key>
 	<string>Настройки ленты</string>
+	<key>FetchingURL</key>
+	<string>Получение ссылки...</string>
 	<key>FixAlbums</key>
 	<string>Исправление обложек</string>
 	<key>FixAlbumsDesc</key>
@@ -1044,6 +1048,10 @@
 	<key>SaveToPhotos</key>
 	<string>Сохранить в «Фото»</string>
 	<key>Saved</key>
+	<string>Сохранено в Фото</string>
+	<key>SavedToFiles</key>
+	<string>Сохранено в файлы</string>
+	<key>SavedToPhotos</key>
 	<string>Сохранено в Фото</string>
 	<key>Sb.Alphabetical</key>
 	<string>По возрастанию (A–Я)</string>
