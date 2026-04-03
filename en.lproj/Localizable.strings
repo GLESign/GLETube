@@ -1011,12 +1011,50 @@ Please try again.</string>
 	<string>Added to the whitelist</string>
 	<key>SbAddToWhitelist</key>
 	<string>Add to the whitelist</string>
+	<key>SbCategoryAutoSkip</key>
+	<string>Auto skip</string>
+	<key>SbCategoryDisabled</key>
+	<string>Disabled</string>
+	<key>SbCategoryInteraction</key>
+	<string>Interaction reminder</string>
+	<key>SbCategoryIntro</key>
+	<string>Intro</string>
+	<key>SbCategoryManualSkip</key>
+	<string>Manual skip</string>
+	<key>SbCategoryMusicOfftopic</key>
+	<string>Non-music</string>
+	<key>SbCategoryOutro</key>
+	<string>Outro</string>
+	<key>SbCategoryPreview</key>
+	<string>Preview</string>
+	<key>SbCategorySeekbarOnly</key>
+	<string>Seekbar only</string>
+	<key>SbCategorySelfpromo</key>
+	<string>Self-promotion</string>
+	<key>SbCategorySponsor</key>
+	<string>Sponsor</string>
+	<key>SbMinDuration</key>
+	<string>Minimum duration</string>
+	<key>SbMinDurationDesc</key>
+	<string>Minimum segment duration to skip (in seconds).</string>
 	<key>SbPlayerButton</key>
 	<string>Display button in overlay</string>
 	<key>SbPlayerButtonDesc</key>
 	<string>Adds SponsorBlock button in players overlay.</string>
 	<key>SbRemoveFromWhitelist</key>
 	<string>Remove from the whitelist</string>
+	<key>SbShowInSeekbar</key>
+	<string>Show in seekbar</string>
+	<key>SbShowInSeekbarDesc</key>
+	<string>Shows colored segment markers on the seekbar.</string>
+	<key>SbShowModifiedTime</key>
+	<string>Show modified duration</string>
+	<key>SbShowModifiedTimeDesc</key>
+	<string>Shows video duration without sponsor segments.</string>
+	<key>SbShowNotice</key>
+	<string>Show skip notice</string>
+	<key>SbShowNoticeDesc</key>
+	<string>Shows a notification when a segment is skipped.</string>
 	<key>SbWhitelist</key>
 	<string>Whitelist</string>
 	<key>ScrollToNext</key>
@@ -1141,6 +1179,8 @@ You can disable Shorts Only Mode by long pressing with two fingers in the Shorts
 	<string>Speed locked at %@</string>
 	<key>Sponsor</key>
 	<string>Sponsor</string>
+	<key>SponsorBlock</key>
+	<string>SponsorBlock</string>
 	<key>SponsorColor</key>
 	<string>Sponsor segment color</string>
 	<key>SponsorDesc</key>

@@ -1015,12 +1015,50 @@
 	<string>Добавлено в белый список</string>
 	<key>SbAddToWhitelist</key>
 	<string>Добавить в белый список</string>
+	<key>SbCategoryAutoSkip</key>
+	<string>Автопропуск</string>
+	<key>SbCategoryDisabled</key>
+	<string>Выключено</string>
+	<key>SbCategoryInteraction</key>
+	<string>Напоминание о подписке</string>
+	<key>SbCategoryIntro</key>
+	<string>Вступление</string>
+	<key>SbCategoryManualSkip</key>
+	<string>Ручной пропуск</string>
+	<key>SbCategoryMusicOfftopic</key>
+	<string>Не музыка</string>
+	<key>SbCategoryOutro</key>
+	<string>Заключение</string>
+	<key>SbCategoryPreview</key>
+	<string>Превью</string>
+	<key>SbCategorySeekbarOnly</key>
+	<string>Только полоса</string>
+	<key>SbCategorySelfpromo</key>
+	<string>Самореклама</string>
+	<key>SbCategorySponsor</key>
+	<string>Спонсор</string>
+	<key>SbMinDuration</key>
+	<string>Минимальная длительность</string>
+	<key>SbMinDurationDesc</key>
+	<string>Минимальная длительность сегмента для пропуска (в секундах).</string>
 	<key>SbPlayerButton</key>
 	<string>Отображать кнопку в плеере</string>
 	<key>SbPlayerButtonDesc</key>
 	<string>Добавляет кнопку SponsorBlock в элементы управления плеером.</string>
 	<key>SbRemoveFromWhitelist</key>
 	<string>Удалить из белого списка</string>
+	<key>SbShowInSeekbar</key>
+	<string>Показывать в полосе прокрутки</string>
+	<key>SbShowInSeekbarDesc</key>
+	<string>Отображает цветные маркеры сегментов на полосе прокрутки.</string>
+	<key>SbShowModifiedTime</key>
+	<string>Показывать изменённую длительность</string>
+	<key>SbShowModifiedTimeDesc</key>
+	<string>Показывает длительность видео без спонсорских сегментов.</string>
+	<key>SbShowNotice</key>
+	<string>Уведомление о пропуске</string>
+	<key>SbShowNoticeDesc</key>
+	<string>Показывает уведомление при пропуске сегмента.</string>
 	<key>SbWhitelist</key>
 	<string>Белый список</string>
 	<key>ScrollToNext</key>
@@ -1144,6 +1182,8 @@
 	<string>Сохраненная скорость воспроизведения: %@</string>
 	<key>Sponsor</key>
 	<string>Спонсорская реклама</string>
+	<key>SponsorBlock</key>
+	<string>SponsorBlock</string>
 	<key>SponsorColor</key>
 	<string>Цвет спонсорского сегмента</string>
 	<key>SponsorDesc</key>
