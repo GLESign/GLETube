@@ -125,6 +125,8 @@ By continuing to use the app, you take full responsibility and agree that any co
 	<string>Copy</string>
 	<key>CopyChannelName</key>
 	<string>Copy channel name</string>
+	<key>CopyChannelNameDesc</key>
+	<string>Adds option to copy channel name.</string>
 	<key>CopyCommentAsImage</key>
 	<string>Copy comment as image</string>
 	<key>CopyCommentText</key>
@@ -145,6 +147,8 @@ By continuing to use the app, you take full responsibility and agree that any co
 	<string>Copy thumbnail</string>
 	<key>CopyTimestampedLink</key>
 	<string>Copy link with timestamp</string>
+	<key>CopyTimestampedLinkDesc</key>
+	<string>Adds option to copy link with current time.</string>
 	<key>CopyTitle</key>
 	<string>Copy title</string>
 	<key>CopyTranscript</key>

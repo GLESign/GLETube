@@ -125,6 +125,8 @@
 	<string>Скопировать</string>
 	<key>CopyChannelName</key>
 	<string>Скопировать название канала</string>
+	<key>CopyChannelNameDesc</key>
+	<string>Добавляет опцию копирования имени канала.</string>
 	<key>CopyCommentAsImage</key>
 	<string>Скопировать комментарий как фото</string>
 	<key>CopyCommentText</key>
@@ -145,6 +147,8 @@
 	<string>Скопировать обложку</string>
 	<key>CopyTimestampedLink</key>
 	<string>Скопировать ссылку со временной отметкой</string>
+	<key>CopyTimestampedLinkDesc</key>
+	<string>Добавляет опцию копирования ссылки с текущим временем.</string>
 	<key>CopyTitle</key>
 	<string>Скопировать название видео</string>
 	<key>CopyTranscript</key>
