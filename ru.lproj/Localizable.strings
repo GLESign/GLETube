@@ -30,6 +30,8 @@
 	<string>Расширенный режим</string>
 	<key>AdvancedDesc</key>
 	<string>Показывает дополнительные настройки.</string>
+	<key>AdvancedModeReminder</key>
+	<string>Хотите включить расширенный режим в %@? Он откроет все настройки в разделах %@ и %@.</string>
 	<key>Arabic</key>
 	<string>Арабская локализация</string>
 	<key>Ask</key>
@@ -57,6 +59,8 @@
 	<string>Если выбранные субтитры не найдены, YouTube Plus попытается выбрать либо перевод оригинальных субтитров, либо перевод автоматически сгенерированных субтитров.</string>
 	<key>AutoSkipShorts</key>
 	<string>Автопереход к следующему</string>
+	<key>AutoSkipShortsDesc</key>
+	<string>Автоматически переходит к следующему Shorts.</string>
 	<key>BackgroundPlayback</key>
 	<string>Фоновое воспроизведение</string>
 	<key>BackgroundPlaybackDesc</key>
@@ -599,6 +603,10 @@
 	<string>Отключить панель действий</string>
 	<key>NoFullscreenActionsDesc</key>
 	<string>Отключает панель действий, отображающуюся под прогресс-баром плеера.</string>
+	<key>NoHUDMsgs</key>
+	<string>Без HUD сообщений</string>
+	<key>NoHUDMsgsDesc</key>
+	<string>Скрывает всплывающие HUD сообщения.</string>
 	<key>NoHints</key>
 	<string>Отключить подсказки</string>
 	<key>NoHintsDesc</key>
@@ -851,12 +859,16 @@
 	<string>Скрывает горизонтальные полки с видео.</string>
 	<key>RemoveIndicators</key>
 	<string>Скрыть индикаторы вкладок</string>
+	<key>RemoveIndicatorsDesc</key>
+	<string>Скрывает индикаторы активных вкладок.</string>
 	<key>RemoveInlineComment</key>
 	<string>Убрать секцию с комментарием</string>
 	<key>RemoveInlineCommentDesc</key>
 	<string>Убирает секцию с комментарием под плеером.</string>
 	<key>RemoveLabels</key>
 	<string>Скрыть названия вкладок</string>
+	<key>RemoveLabelsDesc</key>
+	<string>Скрывает текстовые названия вкладок.</string>
 	<key>RemoveLibraryTab</key>
 	<string>Удалить вкладку «Вы»</string>
 	<key>RemoveLiveVids</key>

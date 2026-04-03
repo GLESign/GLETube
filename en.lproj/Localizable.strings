@@ -30,6 +30,8 @@ Adjusting this setting is useful to prevent accidental activation when attemptin
 	<string>Advanced mode</string>
 	<key>AdvancedDesc</key>
 	<string>Shows additional settings.</string>
+	<key>AdvancedModeReminder</key>
+	<string>Would you like to enable advanced mode in %@? It will unlock all settings in %@ and %@ sections.</string>
 	<key>Arabic</key>
 	<string>Arabic localization</string>
 	<key>Ask</key>
@@ -57,6 +59,8 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<string>If the selected captions are not found, YouTube Plus will try to select either a translation of original captions or a translation of auto-generated captions.</string>
 	<key>AutoSkipShorts</key>
 	<string>Auto-skip Shorts</string>
+	<key>AutoSkipShortsDesc</key>
+	<string>Automatically skips to the next Short.</string>
 	<key>BackgroundPlayback</key>
 	<string>Background playback</string>
 	<key>BackgroundPlaybackDesc</key>
@@ -599,6 +603,10 @@ Please try again later.</string>
 	<string>Disable fullscreen actions</string>
 	<key>NoFullscreenActionsDesc</key>
 	<string>Disables actions panel in fullscreen mode.</string>
+	<key>NoHUDMsgs</key>
+	<string>No HUD messages</string>
+	<key>NoHUDMsgsDesc</key>
+	<string>Hides popup HUD messages.</string>
 	<key>NoHints</key>
 	<string>Disable hints</string>
 	<key>NoHintsDesc</key>
