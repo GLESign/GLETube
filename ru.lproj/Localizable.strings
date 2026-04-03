@@ -6,6 +6,8 @@
 	<string>24-часовой формат</string>
 	<key>24hrFormatDesc</key>
 	<string>Отображает время окончания в 24-часовом формате.</string>
+	<key>About</key>
+	<string>О приложении</string>
 	<key>ActivationAreaWidth</key>
 	<string>Ширина активации жестов</string>
 	<key>ActivationAreaWidthDesc</key>
@@ -325,6 +327,8 @@
 	<string>Полноэкранный режим влево</string>
 	<key>FullscreenToTheLeftDesc</key>
 	<string>Переход в полноэкранный режим повернет экран влево, вместо обычного поворота вправо.</string>
+	<key>General</key>
+	<string>Основные</string>
 	<key>Gradient</key>
 	<string>Градиент</string>
 	<key>GradientColor</key>
@@ -1229,6 +1233,8 @@
 	<string>Язык перевода</string>
 	<key>VOTTranslationVolume</key>
 	<string>Громкость перевода</string>
+	<key>Version</key>
+	<string>Версия</string>
 	<key>VideoEndTime</key>
 	<string>Показывать время окончания</string>
 	<key>VideoEndTimeDesc</key>
@@ -1243,6 +1249,8 @@
 	<string>Мой канал в Telegram</string>
 	<key>VisitTelegramDesc</key>
 	<string>Будьте в курсе последних обновлений приложения</string>
+	<key>VoiceOverTranslation</key>
+	<string>Голосовой перевод</string>
 	<key>Warning</key>
 	<string>Внимание</string>
 	<key>Welcome.Content</key>
