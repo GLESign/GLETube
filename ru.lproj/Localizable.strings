@@ -1173,3 +1173,287 @@
 	<string>спонсорский сегмент</string>
 </dict>
 </plist>
+
+<!-- GLETube missing keys -->
+<key>NoPlayerRemixButton</key>
+<string>Скрыть кнопку Remix</string>
+<key>NoPlayerRemixButtonDesc</key>
+<string>Скрывает кнопку Remix под плеером.</string>
+<key>NoPlayerClipButton</key>
+<string>Скрыть кнопку Clip</string>
+<key>NoPlayerClipButtonDesc</key>
+<string>Скрывает кнопку Clip под плеером.</string>
+<key>NoPlayerDownloadButton</key>
+<string>Скрыть кнопку загрузки</string>
+<key>NoPlayerDownloadButtonDesc</key>
+<string>Скрывает кнопку загрузки под плеером.</string>
+<key>ResumeShorts</key>
+<string>Возобновить Shorts</string>
+<key>ResumeShortsDesc</key>
+<string>Запускает Shorts с последнего просмотренного.</string>
+<key>HideShortsSubscriptions</key>
+<string>Скрыть подписки в Shorts</string>
+<key>HideShortsSubscriptionsDesc</key>
+<string>Скрывает карусель подписок в Shorts.</string>
+<key>HideShortsAvatars</key>
+<string>Скрыть аватары в Shorts</string>
+<key>HideShortsAvatarsDesc</key>
+<string>Скрывает аватары в ленте Shorts.</string>
+<key>HideShortsThanks</key>
+<string>Скрыть Thanks в Shorts</string>
+<key>HideShortsThanksDesc</key>
+<string>Скрывает кнопку Thanks в Shorts.</string>
+<key>HideShortsChannelName</key>
+<string>Скрыть имя канала в Shorts</string>
+<key>HideShortsChannelNameDesc</key>
+<string>Скрывает имя канала в Shorts.</string>
+<key>HideShortsAudioTrack</key>
+<string>Скрыть аудиодорожку в Shorts</string>
+<key>HideShortsAudioTrackDesc</key>
+<string>Скрывает информацию об аудиодорожке в Shorts.</string>
+<key>ReExplore</key>
+<string>Заменить Shorts на Explore</string>
+<key>ReExploreDesc</key>
+<string>Заменяет вкладку Shorts на вкладку Обзор.</string>
+<key>AddExplore</key>
+<string>Добавить вкладку Explore</string>
+<key>AddExploreDesc</key>
+<string>Добавляет вкладку Обзор в панель навигации.</string>
+<key>HideShortsTab</key>
+<string>Скрыть вкладку Shorts</string>
+<key>HideShortsTabDesc</key>
+<string>Скрывает вкладку Shorts из панели навигации.</string>
+<key>HideSubscriptionsTab</key>
+<string>Скрыть вкладку Подписки</string>
+<key>HideSubscriptionsTabDesc</key>
+<string>Скрывает вкладку Подписки из панели навигации.</string>
+<key>HideUploadButton</key>
+<string>Скрыть кнопку загрузки</string>
+<key>HideUploadButtonDesc</key>
+<string>Скрывает кнопку создания/загрузки видео.</string>
+<key>HideLibraryTab</key>
+<string>Скрыть вкладку Библиотека</string>
+<key>HideLibraryTabDesc</key>
+<string>Скрывает вкладку Библиотека из панели навигации.</string>
+<key>CopyVideoInfo</key>
+<string>Копировать информацию о видео</string>
+<key>CopyVideoInfoDesc</key>
+<string>Добавляет кнопку копирования названия и описания видео.</string>
+<key>NoContinueWatching</key>
+<string>Убрать «Продолжить просмотр»</string>
+<key>NoContinueWatchingDesc</key>
+<string>Скрывает секцию «Продолжить просмотр» из ленты.</string>
+<key>ProxyEnabled</key>
+<string>Включить прокси</string>
+<key>ProxyEnabledDesc</key>
+<string>Направляет весь трафик YouTube через SOCKS5 прокси.</string>
+<key>ProxyBlockQUIC</key>
+<string>Блокировать QUIC</string>
+<key>ProxyBlockQUICDesc</key>
+<string>Блокирует UDP/443 (QUIC) для принудительного использования TCP.</string>
+<key>VOTEnabled</key>
+<string>Включить VOT</string>
+<key>VOTEnabledDesc</key>
+<string>Включает голосовой перевод видео.</string>
+<key>VOTLiveVoices</key>
+<string>Живые голоса</string>
+<key>VOTLiveVoicesDesc</key>
+<string>Использовать живые голоса для перевода.</string>
+<key>VOTAudioProxy</key>
+<string>Аудио прокси</string>
+<key>VOTAudioProxyDesc</key>
+<string>Проксирует аудио через сервер перевода.</string>
+<key>VOTSourceLang</key>
+<string>Язык оригинала</string>
+<key>VOTTargetLang</key>
+<string>Язык перевода</string>
+<key>VOTTranslationVolume</key>
+<string>Громкость перевода</string>
+<key>VOTOriginalVolume</key>
+<string>Громкость оригинала</string>
+<key>Advanced</key>
+<string>Расширенный режим</string>
+<key>AdvancedDesc</key>
+<string>Показывает дополнительные настройки.</string>
+<key>DisableAmbientMode</key>
+<string>Отключить Ambient Mode</string>
+<key>DisableAmbientModeDesc</key>
+<string>Отключает кинематографическую подсветку видео.</string>
+<key>OledTheme</key>
+<string>AMOLED тема</string>
+<key>OledThemeDesc</key>
+<string>Включает чисто чёрный фон для OLED экранов.</string>
+<key>StartupAnimation</key>
+<string>Убрать анимацию запуска</string>
+<key>StartupAnimationDesc</key>
+<string>Отключает заставку при запуске YouTube.</string>
+<key>RemoveCommunityPosts</key>
+<string>Убрать посты сообщества</string>
+<key>RemoveCommunityPostsDesc</key>
+<string>Скрывает посты сообщества из ленты.</string>
+<key>RemoveHorizontalFeeds</key>
+<string>Убрать горизонтальные ленты</string>
+<key>RemoveHorizontalFeedsDesc</key>
+<string>Скрывает горизонтальные полки с видео.</string>
+<key>RemoveLiveVids</key>
+<string>Убрать прямые трансляции</string>
+<key>RemoveLiveVidsDesc</key>
+<string>Скрывает прямые трансляции из ленты.</string>
+<key>RemoveMixPlaylists</key>
+<string>Убрать миксы</string>
+<key>RemoveMixPlaylistsDesc</key>
+<string>Скрывает микс-плейлисты из ленты.</string>
+<key>RemovePlayables</key>
+<string>Убрать Playables</string>
+<key>RemovePlayablesDesc</key>
+<string>Скрывает Playables контент из ленты.</string>
+<key>AdjustWithFinger</key>
+<string>Жесты яркости/громкости</string>
+<key>AdjustWithFingerDesc</key>
+<string>Свайп по левой стороне — яркость, по правой — громкость.</string>
+<key>ExportPreferences</key>
+<string>Экспорт настроек</string>
+<key>ImportPreferences</key>
+<string>Импорт настроек</string>
+<key>PreImportMessage</key>
+<string>Применить импортированные настройки? Приложение будет перезапущено.</string>
+<key>ShortsOnlyMode</key>
+<string>Режим только Shorts</string>
+<key>ShortsOnlyModeDesc</key>
+<string>Запускает YouTube в режиме только Shorts.</string>
+<key>HideShorts</key>
+<string>Скрыть Shorts из ленты</string>
+<key>HideShortsDesc</key>
+<string>Убирает Shorts из основной ленты.</string>
+<key>ShortsProgress</key>
+<string>Прогресс-бар в Shorts</string>
+<key>ShortsProgressDesc</key>
+<string>Показывает полосу прогресса в Shorts.</string>
+<key>PinchToFullscreenShorts</key>
+<string>Щипок для полного экрана Shorts</string>
+<key>PinchToFullscreenShortsDesc</key>
+<string>Масштабирование Shorts жестом щипка.</string>
+<key>ShortsToRegular</key>
+<string>Shorts как обычное видео</string>
+<key>ShortsToRegularDesc</key>
+<string>Открывает Shorts как обычное видео.</string>
+<key>HideShortsLogo</key>
+<string>Скрыть логотип Shorts</string>
+<key>HideShortsLogoDesc</key>
+<string>Скрывает заголовок Shorts.</string>
+<key>HideShortsSearch</key>
+<string>Скрыть поиск в Shorts</string>
+<key>HideShortsSearchDesc</key>
+<string>Скрывает кнопку поиска в Shorts.</string>
+<key>HideShortsCamera</key>
+<string>Скрыть камеру в Shorts</string>
+<key>HideShortsСameraDesc</key>
+<string>Скрывает кнопку камеры в Shorts.</string>
+<key>HideShortsMore</key>
+<string>Скрыть меню в Shorts</string>
+<key>HideShortsMoreDesc</key>
+<string>Скрывает кнопку «ещё» в Shorts.</string>
+<key>HideShortsLike</key>
+<string>Скрыть лайк в Shorts</string>
+<key>HideShortsLikeDesc</key>
+<string>Скрывает кнопку лайка в Shorts.</string>
+<key>HideShortsDislike</key>
+<string>Скрыть дизлайк в Shorts</string>
+<key>HideShortsDislikeDesc</key>
+<string>Скрывает кнопку дизлайка в Shorts.</string>
+<key>HideShortsComments</key>
+<string>Скрыть комментарии в Shorts</string>
+<key>HideShortsCommentsDesc</key>
+<string>Скрывает кнопку комментариев в Shorts.</string>
+<key>HideShortsRemix</key>
+<string>Скрыть Remix в Shorts</string>
+<key>HideShortsRemixDesc</key>
+<string>Скрывает кнопку Remix в Shorts.</string>
+<key>HideShortsShare</key>
+<string>Скрыть Поделиться в Shorts</string>
+<key>HideShortsShareDesc</key>
+<string>Скрывает кнопку Поделиться в Shorts.</string>
+<key>HideShortsSource</key>
+<string>Скрыть источник в Shorts</string>
+<key>HideShortsSourceDesc</key>
+<string>Скрывает ссылку на источник в Shorts.</string>
+<key>HideShortsDescription</key>
+<string>Скрыть описание в Shorts</string>
+<key>HideShortsDescriptionDesc</key>
+<string>Скрывает описание видео в Shorts.</string>
+<key>PostManager</key>
+<string>Менеджер постов</string>
+<key>PostManagerDesc</key>
+<string>Длительное нажатие для копирования/сохранения постов.</string>
+<key>SaveProfilePhoto</key>
+<string>Сохранение аватаров</string>
+<key>SaveProfilePhotoDesc</key>
+<string>Длительное нажатие на аватар для сохранения.</string>
+<key>CommentManager</key>
+<string>Менеджер комментариев</string>
+<key>CommentManagerDesc</key>
+<string>Длительное нажатие для копирования комментариев.</string>
+<key>FixAlbums</key>
+<string>Исправление обложек</string>
+<key>FixAlbumsDesc</key>
+<string>Исправляет отображение обложек альбомов.</string>
+<key>NativeShare</key>
+<string>Системное меню «Поделиться»</string>
+<key>NativeShareDesc</key>
+<string>Заменяет меню YouTube на системное.</string>
+<key>RemovePlayNext</key>
+<string>Убрать «Воспроизвести следующим»</string>
+<key>RemovePlayNextDesc</key>
+<string>Убирает пункт меню «Воспроизвести следующим».</string>
+<key>RemoveDownloadMenu</key>
+<string>Убрать «Скачать» из меню</string>
+<key>RemoveDownloadMenuDesc</key>
+<string>Убирает пункт меню «Скачать».</string>
+<key>RemoveWatchLaterMenu</key>
+<string>Убрать «Смотреть позже» из меню</string>
+<key>RemoveWatchLaterMenuDesc</key>
+<string>Убирает пункт меню «Смотреть позже».</string>
+<key>RemoveSaveToPlaylistMenu</key>
+<string>Убрать «В плейлист» из меню</string>
+<key>RemoveSaveToPlaylistMenuDesc</key>
+<string>Убирает пункт «Сохранить в плейлист».</string>
+<key>RemoveShareMenu</key>
+<string>Убрать «Поделиться» из меню</string>
+<key>RemoveShareMenuDesc</key>
+<string>Убирает пункт меню «Поделиться».</string>
+<key>RemoveNotInterestedMenu</key>
+<string>Убрать «Не интересно» из меню</string>
+<key>RemoveNotInterestedMenuDesc</key>
+<string>Убирает пункт «Не интересно».</string>
+<key>RemoveDontRecommendMenu</key>
+<string>Убрать «Не рекомендовать» из меню</string>
+<key>RemoveDontRecommendMenuDesc</key>
+<string>Убирает пункт «Не рекомендовать канал».</string>
+<key>RemoveReportMenu</key>
+<string>Убрать «Пожаловаться» из меню</string>
+<key>RemoveReportMenuDesc</key>
+<string>Убирает пункт «Пожаловаться».</string>
+<key>NoSearchHistory</key>
+<string>Убрать историю поиска</string>
+<key>NoSearchHistoryDesc</key>
+<string>Скрывает историю поиска.</string>
+<key>NoRelatedWatchNexts</key>
+<string>Убрать похожие видео</string>
+<key>NoRelatedWatchNextsDesc</key>
+<string>Скрывает секцию похожих видео.</string>
+<key>StickSortComments</key>
+<string>Закрепить сортировку комментариев</string>
+<key>StickSortCommentsDesc</key>
+<string>Закрепляет кнопки сортировки комментариев.</string>
+<key>HideSortComments</key>
+<string>Скрыть сортировку комментариев</string>
+<key>HideSortCommentsDesc</key>
+<string>Скрывает кнопки сортировки комментариев.</string>
+<key>PlaylistOldMinibar</key>
+<string>Старый мини-бар плейлиста</string>
+<key>PlaylistOldMinibarDesc</key>
+<string>Возвращает старый стиль мини-бара плейлиста.</string>
+<key>DisableRTL</key>
+<string>Отключить RTL</string>
+<key>DisableRTLDesc</key>
+<string>Принудительно устанавливает направление текста слева направо.</string>
