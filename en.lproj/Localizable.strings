@@ -83,6 +83,8 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<string>Chinese (Simplified) localization</string>
 	<key>ChineseTraditional</key>
 	<string>Chinese (Traditional) localization</string>
+	<key>Classic</key>
+	<string>Classic</string>
 	<key>ClassicQuality</key>
 	<string>Classic video quality</string>
 	<key>ClassicQualityDesc</key>

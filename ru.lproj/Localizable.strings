@@ -83,6 +83,8 @@
 	<string>Китайская (упрощенная) локализация</string>
 	<key>ChineseTraditional</key>
 	<string>Китайская (традиционная) локализация</string>
+	<key>Classic</key>
+	<string>Классический</string>
 	<key>ClassicQuality</key>
 	<string>Классический выбор качества</string>
 	<key>ClassicQualityDesc</key>
