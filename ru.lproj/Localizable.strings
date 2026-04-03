@@ -667,6 +667,8 @@
 	<string>Скрыть логотип YouTube</string>
 	<key>NoYTLogoDesc</key>
 	<string>Убирает логотип YouTube с панели навигации.</string>
+	<key>Non-Music</key>
+	<string>Не музыка</string>
 	<key>NothingToShowInMenu</key>
 	<string>В данном меню нечего отображать</string>
 	<key>OldYTUI</key>
@@ -691,6 +693,8 @@
 	<string>Оригинальная</string>
 	<key>Other</key>
 	<string>Прочее</string>
+	<key>Outro</key>
+	<string>Заключение</string>
 	<key>Overlay</key>
 	<string>На оверлее</string>
 	<key>ParsingCaptions</key>
@@ -967,6 +971,30 @@
 	<string>Жест для правой части</string>
 	<key>RightSideGestureDesc</key>
 	<string>Регулирует выбранную настройку при вертикальном жесте (свайпе) по правой стороне экрана</string>
+	<key>SBAutoSkip</key>
+	<string>Автопропуск</string>
+	<key>SBEnabled</key>
+	<string>Включить SponsorBlock</string>
+	<key>SBEnabledDesc</key>
+	<string>Пропускает спонсорские сегменты в видео.</string>
+	<key>SBManualSkip</key>
+	<string>Ручной пропуск</string>
+	<key>SBMinDuration</key>
+	<string>Минимальная длительность</string>
+	<key>SBSeekbarOnly</key>
+	<string>Только полоса</string>
+	<key>SBShowInSeekbar</key>
+	<string>Показывать в полосе прокрутки</string>
+	<key>SBShowInSeekbarDesc</key>
+	<string>Отображает цветные маркеры сегментов на полосе прокрутки.</string>
+	<key>SBShowModifiedTime</key>
+	<string>Изменённая длительность</string>
+	<key>SBShowModifiedTimeDesc</key>
+	<string>Показывает длительность видео без спонсорских сегментов.</string>
+	<key>SBShowNotice</key>
+	<string>Уведомление о пропуске</string>
+	<key>SBShowNoticeDesc</key>
+	<string>Показывает уведомление при пропуске сегмента.</string>
 	<key>Save</key>
 	<string>Сохранить</string>
 	<key>SaveCommentAsImage</key>
@@ -1106,6 +1134,8 @@
 	<string>Выберите субтитры</string>
 	<key>Selected</key>
 	<string>Выбранная</string>
+	<key>Self-Promotion</key>
+	<string>Самореклама</string>
 	<key>SelfPromo</key>
 	<string>Безвозмездная или самореклама</string>
 	<key>SelfPromoColor</key>

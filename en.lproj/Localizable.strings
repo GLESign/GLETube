@@ -667,6 +667,8 @@ Please try again later.</string>
 	<string>Remove YouTube logo</string>
 	<key>NoYTLogoDesc</key>
 	<string>Removes YouTube logo in the Navigation bar.</string>
+	<key>Non-Music</key>
+	<string>Non-music</string>
 	<key>NothingToShowInMenu</key>
 	<string>Nothing to show in this context menu</string>
 	<key>OldYTUI</key>
@@ -691,6 +693,8 @@ Please try again later.</string>
 	<string>Original</string>
 	<key>Other</key>
 	<string>Other</string>
+	<key>Outro</key>
+	<string>Outro</string>
 	<key>Overlay</key>
 	<string>Overlay</string>
 	<key>ParsingCaptions</key>
@@ -963,6 +967,30 @@ Please try again.</string>
 	<string>Gesture for the right side</string>
 	<key>RightSideGestureDesc</key>
 	<string>Adjusts the selected setting by swiping vertically on the right side of the screen</string>
+	<key>SBAutoSkip</key>
+	<string>Auto skip</string>
+	<key>SBEnabled</key>
+	<string>Enable SponsorBlock</string>
+	<key>SBEnabledDesc</key>
+	<string>Skips sponsor segments in videos.</string>
+	<key>SBManualSkip</key>
+	<string>Manual skip</string>
+	<key>SBMinDuration</key>
+	<string>Minimum duration</string>
+	<key>SBSeekbarOnly</key>
+	<string>Seekbar only</string>
+	<key>SBShowInSeekbar</key>
+	<string>Show in seekbar</string>
+	<key>SBShowInSeekbarDesc</key>
+	<string>Shows colored segment markers on the seekbar.</string>
+	<key>SBShowModifiedTime</key>
+	<string>Show modified duration</string>
+	<key>SBShowModifiedTimeDesc</key>
+	<string>Shows video duration without sponsor segments.</string>
+	<key>SBShowNotice</key>
+	<string>Show skip notice</string>
+	<key>SBShowNoticeDesc</key>
+	<string>Shows a notification when a segment is skipped.</string>
 	<key>Save</key>
 	<string>Save</string>
 	<key>SaveCommentAsImage</key>
@@ -1102,6 +1130,8 @@ Duration-based: The scrolling strength will depend on the length of the video an
 	<string>Select captions/subtitles</string>
 	<key>Selected</key>
 	<string>Selected</string>
+	<key>Self-Promotion</key>
+	<string>Self-promotion</string>
 	<key>SelfPromo</key>
 	<string>Unpaid/Self promotion</string>
 	<key>SelfPromoColor</key>
