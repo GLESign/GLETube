@@ -69,6 +69,8 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<string>Enables background playback.</string>
 	<key>Best</key>
 	<string>Best</string>
+	<key>Blue</key>
+	<string>Blue</string>
 	<key>Both</key>
 	<string>Both</string>
 	<key>Brightness</key>
@@ -103,6 +105,10 @@ For proper functionality, go to iOS Settings → YouTube → Paste from other ap
 	<string>Compact toast</string>
 	<key>CompactToastDesc</key>
 	<string>Displays a compact-style toast for player gestures</string>
+	<key>ConflictDetected</key>
+	<string>Conflict detected</string>
+	<key>ConflictMessage</key>
+	<string>Conflicting tweaks found: %@. This may cause instability.</string>
 	<key>Conflicts.AcceptRisks</key>
 	<string>I Accept All Risks</string>
 	<key>Conflicts.CloseYT</key>
@@ -341,6 +347,8 @@ Please try again later.</string>
 	<string>Gradient</string>
 	<key>GradientColor</key>
 	<string>Gradient highlight</string>
+	<key>Green</key>
+	<string>Green</string>
 	<key>HideAutoplay</key>
 	<string>Hide Autoplay switch</string>
 	<key>HideAutoplayDesc</key>
@@ -699,6 +707,8 @@ Please try again later.</string>
 	<string>Open link</string>
 	<key>OpenSourceLibs</key>
 	<string>Open source libraries</string>
+	<key>Orange</key>
+	<string>Orange</string>
 	<key>Original</key>
 	<string>Original</string>
 	<key>Other</key>
@@ -723,6 +733,8 @@ Please try again later.</string>
 	<string>Pinch to fullscreen Shorts</string>
 	<key>PinchToFullscreenShortsDesc</key>
 	<string>Pinch to zoom Shorts to fullscreen.</string>
+	<key>Pink</key>
+	<string>Pink</string>
 	<key>PlayInExternalPlayer</key>
 	<string>Play in external player</string>
 	<key>PlayInExternalPlayerDesc</key>
@@ -825,6 +837,8 @@ Please try again later.</string>
 	<string>Collection of clips that show what is coming up in in this video or other videos in a series where all information is repeated later in the video.</string>
 	<key>PrivateUserID</key>
 	<string>Private UserID</string>
+	<key>ProgressBarColor</key>
+	<string>Progress bar color</string>
 	<key>ProgressBarStyle</key>
 	<string>Progress bar style</string>
 	<key>ProxyBlockQUIC</key>
@@ -837,10 +851,14 @@ Please try again later.</string>
 	<string>Routes all YouTube traffic through SOCKS5 proxy.</string>
 	<key>PublicUserID</key>
 	<string>Public UserID</string>
+	<key>Purple</key>
+	<string>Purple</string>
 	<key>ReExplore</key>
 	<string>Replace Shorts with Explore</string>
 	<key>ReExploreDesc</key>
 	<string>Replaces the Shorts tab with the Explore tab.</string>
+	<key>Red</key>
+	<string>Red</string>
 	<key>RedProgressBar</key>
 	<string>Red progress bar</string>
 	<key>RedProgressBarDesc</key>
@@ -1073,6 +1091,20 @@ Please try again.</string>
 	<string>Self-promotion</string>
 	<key>SbCategorySponsor</key>
 	<string>Sponsor</string>
+	<key>SbColorInteraction</key>
+	<string>Color: Interaction</string>
+	<key>SbColorIntro</key>
+	<string>Color: Intro</string>
+	<key>SbColorMusicOfftopic</key>
+	<string>Color: Non-music</string>
+	<key>SbColorOutro</key>
+	<string>Color: Outro</string>
+	<key>SbColorPreview</key>
+	<string>Color: Preview</string>
+	<key>SbColorSelfpromo</key>
+	<string>Color: Self-promo</string>
+	<key>SbColorSponsor</key>
+	<string>Color: Sponsor</string>
 	<key>SbMinDuration</key>
 	<string>Minimum duration</string>
 	<key>SbMinDurationDesc</key>
@@ -1262,6 +1294,8 @@ Thanks❤</string>
 	<string>Only up to six active tabs are allowed</string>
 	<key>TapToReveal</key>
 	<string>Tap to reveal</string>
+	<key>Teal</key>
+	<string>Teal</string>
 	<key>Toast.Brightness</key>
 	<string>Brightness</string>
 	<key>Toast.PlaybackSpeed</key>
@@ -1350,8 +1384,16 @@ Thanks❤</string>
 	<string>Setup Player Behavior</string>
 	<key>Welcome.PlayerDesc</key>
 	<string>Сustomize the player's behavior, auto-select quality and playback speed. Control using gestures</string>
+	<key>WelcomeMessage</key>
+	<string>GLETube enhances YouTube with useful features. Configure the tweak in GLETube section of YouTube settings.</string>
+	<key>WelcomeTitle</key>
+	<string>Welcome to GLETube!</string>
+	<key>White</key>
+	<string>White</string>
 	<key>YTLiteAuthor</key>
 	<string>YTLite author (OpenSource)</string>
+	<key>Yellow</key>
+	<string>Yellow</string>
 	<key>Yes</key>
 	<string>Yes</string>
 	<key>YtlButtonPosition</key>

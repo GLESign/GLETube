@@ -69,6 +69,8 @@
 	<string>Активирует фоновое воспроизведение.</string>
 	<key>Best</key>
 	<string>Лучшее</string>
+	<key>Blue</key>
+	<string>Синий</string>
 	<key>Both</key>
 	<string>Оба</string>
 	<key>Brightness</key>
@@ -103,6 +105,10 @@
 	<string>Компактный тост</string>
 	<key>CompactToastDesc</key>
 	<string>Отображает тост используемых в плеере жестов в компактном режиме</string>
+	<key>ConflictDetected</key>
+	<string>Обнаружен конфликт</string>
+	<key>ConflictMessage</key>
+	<string>Обнаружены конфликтующие твики: %@. Это может вызвать нестабильность.</string>
 	<key>Conflicts.AcceptRisks</key>
 	<string>Я принимаю все риски</string>
 	<key>Conflicts.CloseYT</key>
@@ -341,6 +347,8 @@
 	<string>Градиент</string>
 	<key>GradientColor</key>
 	<string>Дополнительный цвет</string>
+	<key>Green</key>
+	<string>Зелёный</string>
 	<key>HideAutoplay</key>
 	<string>Скрыть «Автовоспроизведение»</string>
 	<key>HideAutoplayDesc</key>
@@ -699,6 +707,8 @@
 	<string>Открыть ссылку</string>
 	<key>OpenSourceLibs</key>
 	<string>Библиотеки с исходным кодом</string>
+	<key>Orange</key>
+	<string>Оранжевый</string>
 	<key>Original</key>
 	<string>Оригинальная</string>
 	<key>Other</key>
@@ -723,6 +733,8 @@
 	<string>Щипок для полного экрана Shorts</string>
 	<key>PinchToFullscreenShortsDesc</key>
 	<string>Масштабирование Shorts жестом щипка.</string>
+	<key>Pink</key>
+	<string>Розовый</string>
 	<key>PlayInExternalPlayer</key>
 	<string>Воспроизвести в стороннем плеере</string>
 	<key>PlayInExternalPlayerDesc</key>
@@ -825,6 +837,8 @@
 	<string>Коллекция клипов, которые показывают, что происходит в этом видео или других эпизодах, все клипы позже повторяются в видео</string>
 	<key>PrivateUserID</key>
 	<string>Приватный UserID</string>
+	<key>ProgressBarColor</key>
+	<string>Цвет прогресс-бара</string>
 	<key>ProgressBarStyle</key>
 	<string>Стиль прогресс-бара</string>
 	<key>ProxyBlockQUIC</key>
@@ -837,10 +851,14 @@
 	<string>Направляет весь трафик YouTube через SOCKS5 прокси.</string>
 	<key>PublicUserID</key>
 	<string>Публичный UserID</string>
+	<key>Purple</key>
+	<string>Фиолетовый</string>
 	<key>ReExplore</key>
 	<string>Заменить Shorts на Explore</string>
 	<key>ReExploreDesc</key>
 	<string>Заменяет вкладку Shorts на вкладку Обзор.</string>
+	<key>Red</key>
+	<string>Красный</string>
 	<key>RedProgressBar</key>
 	<string>Красный прогресс-бар</string>
 	<key>RedProgressBarDesc</key>
@@ -1077,6 +1095,20 @@
 	<string>Самореклама</string>
 	<key>SbCategorySponsor</key>
 	<string>Спонсор</string>
+	<key>SbColorInteraction</key>
+	<string>Цвет: Напоминание</string>
+	<key>SbColorIntro</key>
+	<string>Цвет: Вступление</string>
+	<key>SbColorMusicOfftopic</key>
+	<string>Цвет: Не музыка</string>
+	<key>SbColorOutro</key>
+	<string>Цвет: Заключение</string>
+	<key>SbColorPreview</key>
+	<string>Цвет: Превью</string>
+	<key>SbColorSelfpromo</key>
+	<string>Цвет: Самореклама</string>
+	<key>SbColorSponsor</key>
+	<string>Цвет: Спонсор</string>
 	<key>SbMinDuration</key>
 	<string>Минимальная длительность</string>
 	<key>SbMinDurationDesc</key>
@@ -1265,6 +1297,8 @@
 	<string>Можно добавлять не более шести активных вкладок</string>
 	<key>TapToReveal</key>
 	<string>Нажмите, чтобы просмотреть</string>
+	<key>Teal</key>
+	<string>Бирюзовый</string>
 	<key>Toast.Brightness</key>
 	<string>Яркость</string>
 	<key>Toast.PlaybackSpeed</key>
@@ -1353,8 +1387,16 @@
 	<string>Настройка плеера</string>
 	<key>Welcome.PlayerDesc</key>
 	<string>Кастомизируйте поведение плеера, автовыбор качества и скорости. Управляйте жестами</string>
+	<key>WelcomeMessage</key>
+	<string>GLETube добавляет полезные функции в YouTube. Настройте твик в разделе GLETube в настройках YouTube.</string>
+	<key>WelcomeTitle</key>
+	<string>Добро пожаловать в GLETube!</string>
+	<key>White</key>
+	<string>Белый</string>
 	<key>YTLiteAuthor</key>
 	<string>Автор YTLite (OpenSource)</string>
+	<key>Yellow</key>
+	<string>Жёлтый</string>
 	<key>Yes</key>
 	<string>Да</string>
 	<key>YtlButtonPosition</key>
