@@ -981,6 +981,8 @@
 	<string>Перемотка вместо «След.» и «Пред.»</string>
 	<key>ReplacePrevNextDesc</key>
 	<string>Заменяет переключатели «Следующий» и «Предыдущий» на перемотку на 10 сек. в окне плеера.</string>
+	<key>Reset</key>
+	<string>Сбросить</string>
 	<key>ResetMessage</key>
 	<string>Данное действие вернет настройки YTPlus к значениям по умолчанию.
 
@@ -1071,10 +1073,14 @@
 	<string>Сначала новые</string>
 	<key>Sb.Oldest</key>
 	<string>Сначала старые</string>
+	<key>Sb.RemovedChannel</key>
+	<string>Канал убран из белого списка</string>
 	<key>Sb.Skip</key>
 	<string>Перематывать</string>
 	<key>Sb.SkipTo</key>
 	<string>К началу сегмента</string>
+	<key>Sb.TapToRemove</key>
+	<string>Нажмите чтобы убрать из белого списка</string>
 	<key>Sb.Whitelist</key>
 	<string>Каналы из белого списка</string>
 	<key>Sb.Whitelisted</key>
@@ -1299,6 +1305,18 @@
 	<string>Задонатить</string>
 	<key>SupporterWall</key>
 	<string>Спонсоры</string>
+	<key>TabOrder</key>
+	<string>Порядок вкладок</string>
+	<key>TabOrderDefault</key>
+	<string>По умолчанию</string>
+	<key>TabOrderDesc</key>
+	<string>Изменить порядок вкладок панели навигации.</string>
+	<key>TabOrderLibraryFirst</key>
+	<string>Библиотека первой</string>
+	<key>TabOrderNoShortsFirst</key>
+	<string>Shorts последним</string>
+	<key>TabOrderSubsFirst</key>
+	<string>Подписки первыми</string>
 	<key>Tabbar</key>
 	<string>Панель вкладок</string>
 	<key>TabsCountRestricted</key>
@@ -1401,6 +1419,8 @@
 	<string>Добро пожаловать в GLETube!</string>
 	<key>White</key>
 	<string>Белый</string>
+	<key>WhitelistedChannels</key>
+	<string>Каналы в белом списке</string>
 	<key>YTLiteAuthor</key>
 	<string>Автор YTLite (OpenSource)</string>
 	<key>Yellow</key>

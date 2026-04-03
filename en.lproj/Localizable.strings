@@ -977,6 +977,8 @@ Please try again later.</string>
 	<string>Fast forward and Rewind buttons</string>
 	<key>ReplacePrevNextDesc</key>
 	<string>Replaces Previous and Next video buttons to Fast forward and Rewind buttons in overlay.</string>
+	<key>Reset</key>
+	<string>Reset</string>
 	<key>ResetMessage</key>
 	<string>This action will reset YTPlus settings to default and close YouTube.
 
@@ -1067,10 +1069,14 @@ Please try again.</string>
 	<string>Newest first</string>
 	<key>Sb.Oldest</key>
 	<string>Oldest first</string>
+	<key>Sb.RemovedChannel</key>
+	<string>Channel removed from whitelist</string>
 	<key>Sb.Skip</key>
 	<string>Auto-skip</string>
 	<key>Sb.SkipTo</key>
 	<string>Skip to segment</string>
+	<key>Sb.TapToRemove</key>
+	<string>Tap to remove from whitelist</string>
 	<key>Sb.Whitelist</key>
 	<string>Whitelisted channels</string>
 	<key>Sb.Whitelisted</key>
@@ -1296,6 +1302,18 @@ Thanks❤</string>
 	<string>Support me</string>
 	<key>SupporterWall</key>
 	<string>Supporters</string>
+	<key>TabOrder</key>
+	<string>Tab order</string>
+	<key>TabOrderDefault</key>
+	<string>Default</string>
+	<key>TabOrderDesc</key>
+	<string>Change navigation tab order.</string>
+	<key>TabOrderLibraryFirst</key>
+	<string>Library first</string>
+	<key>TabOrderNoShortsFirst</key>
+	<string>Shorts last</string>
+	<key>TabOrderSubsFirst</key>
+	<string>Subscriptions first</string>
 	<key>Tabbar</key>
 	<string>Tab bar</string>
 	<key>TabsCountRestricted</key>
@@ -1398,6 +1416,8 @@ Thanks❤</string>
 	<string>Welcome to GLETube!</string>
 	<key>White</key>
 	<string>White</string>
+	<key>WhitelistedChannels</key>
+	<string>Whitelisted channels</string>
 	<key>YTLiteAuthor</key>
 	<string>YTLite author (OpenSource)</string>
 	<key>Yellow</key>
