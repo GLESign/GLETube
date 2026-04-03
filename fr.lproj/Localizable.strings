@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24hrFormat</key>
+	<string>Format 24 heures</string>
+	<key>24hrFormatDesc</key>
+	<string>Affiche l'heure de fin au format 24 heures.</string>
+	<key>ActivationAreaWidth</key>
+	<string>Gesture activation width</string>
+	<key>ActivationAreaWidthDesc</key>
+	<string>This value determines the gesture recognition zone in pixels for the left and right sides of the screen.
+
+The maximum allowed value is one-third of the screen width.
+
+Adjusting this setting is useful to prevent accidental activation when attempting to minimize or expand the player.</string>
+	<key>ActiveTabs</key>
+	<string>Onglets actifs</string>
+	<key>AddLibraryTab</key>
+	<string>Restaurer l'onglet "Vous"</string>
+	<key>AdjustWithFinger</key>
+	<string>Ajuster la vitesse par gestes</string>
+	<key>AdjustWithFingerDesc</key>
+	<string>Permet d'ajuster la vitesse de lecture par un appui long sur le lecteur et en déplaçant le doigt vers le haut et le bas</string>
+	<key>Arabic</key>
+	<string>Localisation arabe</string>
+	<key>Ask</key>
+	<string>Demander</string>
+	<key>AtLeastOneTab</key>
+	<string>At least one tab must remain active</string>
+	<key>AudioDRC</key>
+	<string>Prefer stable volume</string>
+	<key>AudioDRCDesc</key>
+	<string>The download manager will prioritize audio with stable volume (Dynamic Range Compression) if such audio is available.</string>
+	<key>Audios</key>
+	<string>Audios</string>
+	<key>AutoCheckLinks</key>
+	<string>Auto-check clipboard</string>
+	<key>AutoCheckLinksDesc</key>
+	<string>Check clipboard for YouTube-related links each time the app is opened.
+For proper functionality, go to iOS Settings → YouTube → Paste from other apps and select "Allow"</string>
+	<key>AutoFullscreen</key>
+	<string>Lire les vidéos en plein écran</string>
+	<key>AutoFullscreenDesc</key>
+	<string>Lance automatiquement les vidéos en mode plein écran.</string>
+	<key>AutoGenCaps</key>
+	<string>Sous-titres générés automatiquement</string>
+	<key>AutoGenCapsDesc</key>
+	<string>Si les sous-titres sélectionnés ne sont pas trouvés, YouTube Plus essaiera de sélectionner soit une traduction des sous-titres originaux, soit une traduction des sous-titres générés automatiquement.</string>
+	<key>AutoSkipShorts</key>
+	<string>Auto-skip des Shorts</string>
+	<key>BackgroundPlayback</key>
+	<string>Lecture en arrière-plan</string>
+	<key>BackgroundPlaybackDesc</key>
+	<string>Active la lecture en arrière-plan.</string>
+	<key>Best</key>
+	<string>Meilleure</string>
+	<key>Both</key>
+	<string>Les deux</string>
+	<key>Cancel</key>
+	<string>Annuler</string>
+	<key>Cancelled</key>
+	<string>Annulé</string>
+	<key>CaptionsAndThumbnails</key>
+	<string>Captions and Thumbnails</string>
+	<key>ChineseSimplified</key>
+	<string>Localisation chinoise (simplifiée)</string>
+	<key>ChineseTraditional</key>
+	<string>Localisation chinoise (traditionnelle)</string>
+	<key>ClassicQuality</key>
+	<string>Sélection de qualité classique</string>
+	<key>ClassicQualityDesc</key>
+	<string>Restaure le menu de sélection de qualité vidéo classique.</string>
+	<key>ClearCache</key>
+	<string>Effacer le cache</string>
+	<key>ClearCacheAtStart</key>
+	<string>Effacer le cache au démarrage</string>
+	<key>ClearCacheAtStartDesc</key>
+	<string>Efface automatiquement le cache au démarrage.</string>
+	<key>CommentManager</key>
+	<string>Gestionnaire de commentaires</string>
+	<key>CommentManagerDesc</key>
+	<string>Permet de copier le texte des commentaires et de les sauvegarder en tant qu'image par un appui long.</string>
+	<key>CompactToast</key>
+	<string>Compact toast</string>
+	<key>CompactToastDesc</key>
+	<string>Displays a compact-style toast for player gestures</string>
+	<key>Conflicts.AcceptRisks</key>
+	<string>J'accepte tous les risques</string>
+	<key>Conflicts.CloseYT</key>
+	<string>Fermer YouTube</string>
+	<key>Conflicts.Detected</key>
+	<string>Tweaks incompatibles détectés</string>
+	<key>Conflicts.DetectedDesc</key>
+	<string>Malgré la stabilité apparente de l'application, le développeur de YouTube Plus ne recommande pas de combiner des tweaks ayant des fonctionnalités similaires dans la même application et ne peut garantir une utilisation sûre.
+
+En continuant à utiliser l'application, vous assumez l'entière responsabilité et acceptez que toute plainte concernant les performances sera ignorée.</string>
+	<key>Conflicts.SkipThisVersion</key>
+	<string>Don't Show for This Version</string>
+	<key>ContextMenu</key>
+	<string>Menu contextuel</string>
+	<key>Continue</key>
+	<string>Continuer</string>
+	<key>Contributors</key>
+	<string>Contributeurs</string>
+	<key>Converting</key>
+	<string>Conversion</string>
+	<key>Copied</key>
+	<string>Copié dans le presse-papiers</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>CopyChannelName</key>
+	<string>Copier le nom de la chaîne</string>
+	<key>CopyCommentAsImage</key>
+	<string>Copier le commentaire comme image</string>
+	<key>CopyCommentText</key>
+	<string>Copier le texte du commentaire</string>
+	<key>CopyCurrentImage</key>
+	<string>Copier l'image actuelle</string>
+	<key>CopyDescription</key>
+	<string>Copier la description</string>
+	<key>CopyInformation</key>
+	<string>Copier les informations</string>
+	<key>CopyPostAsImage</key>
+	<string>Copier le post comme image</string>
+	<key>CopyPostText</key>
+	<string>Copier le texte du post</string>
+	<key>CopyProfilePicture</key>
+	<string>Copier la photo de profil</string>
+	<key>CopyThumbnail</key>
+	<string>Copier la miniature</string>
+	<key>CopyTimestampedLink</key>
+	<string>Copier le lien avec horodatage</string>
+	<key>CopyTitle</key>
+	<string>Copier le titre</string>
+	<key>CopyTranscript</key>
+	<string>Copy transcript</string>
+	<key>CopyWithTimestamp</key>
+	<string>Copier les liens avec horodatage</string>
+	<key>CopyWithTimestampDesc</key>
+	<string>Permet de copier les liens avec horodatage dans le presse-papiers en appuyant sur le bouton de pause.</string>
+	<key>Credits</key>
+	<string>Crédits</string>
+	<key>Custom</key>
+	<string>Sélectionner manuellement</string>
+	<key>CustomAudioTrack</key>
+	<string>Piste audio sélectionnée</string>
+	<key>CustomAudioTrackDesc</key>
+	<string>Specifies the preferred audio track language to use for playback, if available</string>
+	<key>CustomCaptions</key>
+	<string>Sous-titres sélectionnés</string>
+	<key>CustomCaptionsDesc</key>
+	<string>Specifies the preferred captions language to display, if available</string>
+	<key>Default</key>
+	<string>Par défaut</string>
+	<key>DefaultPlaybackRate</key>
+	<string>Vitesse de lecture par défaut</string>
+	<key>DefaultPlaybackRateDesc</key>
+	<string>Overrides the default playback speed</string>
+	<key>DevContribution</key>
+	<string>Contribution au développement</string>
+	<key>Developer</key>
+	<string>Développeur</string>
+	<key>Disable</key>
+	<string>Désactiver</string>
+	<key>DisableAmbientMode</key>
+	<string>Disable ambient mode</string>
+	<key>DisableAmbientModeDesc</key>
+	<string>Disables ambient mode both in the player and in the area underneath it.</string>
+	<key>DisableAutoCaptions</key>
+	<string>Désactiver les sous-titres automatiques</string>
+	<key>DisableAutoCaptionsDesc</key>
+	<string>Empêche l'activation des sous-titres automatique.</string>
+	<key>DisableAutoplay</key>
+	<string>Désactiver la lecture automatique des vidéos</string>
+	<key>DisableAutoplayDesc</key>
+	<string>Empêche la lecture des vidéos après ouverture.</string>
+	<key>DisableRTL</key>
+	<string>Désactiver le formatage de droite à gauche</string>
+	<key>DisableRTLDesc</key>
+	<string>Affiche le texte de force en format de gauche à droite (LTR) pour les langues qui sont initialement affichées de droite à gauche (RTL).</string>
+	<key>Disabled</key>
+	<string>Désactivé</string>
+	<key>DonateDesc</key>
+	<string>Votre soutien compte beaucoup pour moi</string>
+	<key>DonationReminder</key>
+	<string>Votre soutien aide à rendre YouTube Plus encore meilleur.
+
+Vous pouvez contribuer ou choisir de désactiver ces notifications dans les paramètres de YouTube Plus. Merci💜</string>
+	<key>Done</key>
+	<string>Terminé</string>
+	<key>DontSnap2Chapter</key>
+	<string>Désactiver le saut au chapitre</string>
+	<key>DontSnap2ChapterDesc</key>
+	<string>Désactive le passage au chapitre suivant en double-tapant.</string>
+	<key>DownloadAudio</key>
+	<string>Télécharger l'audio</string>
+	<key>DownloadCaptions</key>
+	<string>Télécharger les sous-titres</string>
+	<key>DownloadCompleted</key>
+	<string>Téléchargement terminé</string>
+	<key>DownloadManager</key>
+	<string>Gestionnaire de téléchargement</string>
+	<key>DownloadManagerDesc</key>
+	<string>Remplace l'action du bouton 'Télécharger' sous le lecteur par un Gestionnaire de téléchargement, permettant de télécharger la vidéo, l'audio, l'image miniature et de copier les informations de la vidéo.</string>
+	<key>DownloadThumbnail</key>
+	<string>Enregistrer la miniature</string>
+	<key>DownloadVideo</key>
+	<string>Télécharger la vidéo</string>
+	<key>Downloading</key>
+	<string>Téléchargement</string>
+	<key>DownloadingAudio</key>
+	<string>Téléchargement de l'audio</string>
+	<key>DownloadingVideo</key>
+	<string>Téléchargement de la vidéo</string>
+	<key>DurationBased</key>
+	<string>Basé sur la durée</string>
+	<key>DurationWithoutSegments</key>
+	<string>Afficher la nouvelle durée</string>
+	<key>DurationWithoutSegmentsDesc</key>
+	<string>Affiche la durée totale sans les segments.</string>
+	<key>EmbedAutoGenCaps</key>
+	<string>Auto-generated/translated captions</string>
+	<key>EmbedAutoGenCapsDesc</key>
+	<string>Adds auto-generated, translated, and auto-translated captions to the captions/subtitles list.</string>
+	<key>EmbedCapsToVideos</key>
+	<string>Intégrer les sous-titres</string>
+	<key>EmbedCapsToVideosDesc</key>
+	<string>Intègre les sous-titres sélectionnés dans les vidéos.</string>
+	<key>EmbedThumbnailsToVideos</key>
+	<string>Embed thumbnails</string>
+	<key>EmbedThumbnailsToVideosDesc</key>
+	<string>Embeds the video's thumbnail as its metadata thumbnail.</string>
+	<key>EnableSponsorBlock</key>
+	<string>Activer</string>
+	<key>EnableSponsorBlockDesc</key>
+	<string>Active l'extension SponsorBlock.</string>
+	<key>Endcards</key>
+	<string>Cartes de fin/Crédits</string>
+	<key>EndcardsColor</key>
+	<string>Couleur du segment cartes de fin</string>
+	<key>EndcardsDesc</key>
+	<string>Généralement près ou à la fin de la vidéo lorsque les crédits apparaissent et/ou les cartes de fin sont affichées.</string>
+	<key>English</key>
+	<string>Anglais</string>
+	<key>EnglishNotFound</key>
+	<string>Piste audio anglaise non trouvée</string>
+	<key>Error</key>
+	<string>Erreur</string>
+	<key>Error.Clipboard</key>
+	<string>Erreur. Vérifiez le presse-papiers pour plus d'infos</string>
+	<key>Error.FailedToImport</key>
+	<string>Échec de l'importation des préférences</string>
+	<key>Error.Multidownloading</key>
+	<string>Téléchargement multiple non disponible pour le moment.</string>
+	<key>Error.NoSpace</key>
+	<string>Espace insuffisant sur l'appareil.
+
+Au moins %@ d'espace libre supplémentaire est requis. Espace libre disponible : %@</string>
+	<key>Error.PathIssue</key>
+	<string>Erreur. Problème de génération du chemin final. Problème avec le titre du média ?</string>
+	<key>Error.SbPrivateID</key>
+	<string>The private (local) user ID must contain at least 32 characters</string>
+	<key>Error.SbPublicID</key>
+	<string>The public user ID must contain exactly 64 characters</string>
+	<key>Error.TryLater</key>
+	<string>Le média est en direct ou en cours de traitement sur le serveur Google.
+
+Veuillez réessayer plus tard.</string>
+	<key>ExitFullscreen</key>
+	<string>Quitter le mode plein écran à la fin</string>
+	<key>ExitFullscreenDesc</key>
+	<string>Quitte le mode plein écran à la fin de la lecture de la vidéo.</string>
+	<key>ExportPreferences</key>
+	<string>Exporter les préférences</string>
+	<key>ExtraSpeedOptions</key>
+	<string>Options de vitesse supplémentaires</string>
+	<key>ExtraSpeedOptionsDesc</key>
+	<string>Ajoute des options de vitesse de lecture supplémentaires au menu de vitesse.</string>
+	<key>FEexplore</key>
+	<string>Explorer</string>
+	<key>FEhistory</key>
+	<string>Historique</string>
+	<key>FElibrary</key>
+	<string>Bibliothèque</string>
+	<key>FEpost_home</key>
+	<string>Posts</string>
+	<key>FEshorts</key>
+	<string>Shorts</string>
+	<key>FEsubscriptions</key>
+	<string>Abonnements</string>
+	<key>FEuploads</key>
+	<string>Créer</string>
+	<key>FEwhat_to_watch</key>
+	<string>Accueil</string>
+	<key>Feed</key>
+	<string>Feed</string>
+	<key>FixAlbums</key>
+	<string>Réparer les miniatures</string>
+	<key>FixAlbumsDesc</key>
+	<string>Répare l'affichage des miniatures pour les utilisateurs russes.</string>
+	<key>Floating</key>
+	<string>Flottant</string>
+	<key>FollowMe</key>
+	<string>Me suivre sur X</string>
+	<key>French</key>
+	<string>Localisation française</string>
+	<key>FullscreenToTheLeft</key>
+	<string>Plein écran en rotation vers la gauche</string>
+	<key>FullscreenToTheLeftDesc</key>
+	<string>Fullscreen mode will rotate the device to the left orientation instead of the usual right.</string>
+	<key>Gradient</key>
+	<string>Gradient</string>
+	<key>GradientColor</key>
+	<string>Gradient highlight</string>
+	<key>HideAutoplay</key>
+	<string>Masquer le bouton de lecture automatique</string>
+	<key>HideAutoplayDesc</key>
+	<string>Masque le bouton de lecture automatique de l'overlay.</string>
+	<key>HideCarouselLive</key>
+	<string>Hide Live</string>
+	<key>HideCarouselLiveDesc</key>
+	<string>Removes Live button that appears in paused state.</string>
+	<key>HideCarouselShop</key>
+	<string>Hide Shop</string>
+	<key>HideCarouselShopDesc</key>
+	<string>Removes Shop button that appears in paused state.</string>
+	<key>HideCarouselSub</key>
+	<string>Hide Subscriptions</string>
+	<key>HideCarouselSubDesc</key>
+	<string>Removes Subscriptions button that appears in paused state.</string>
+	<key>HideCarouselTrends</key>
+	<string>Hide Trends</string>
+	<key>HideCarouselTrendsDesc</key>
+	<string>Removes Trends button that appears in paused state.</string>
+	<key>HideLibraryFooter</key>
+	<string>Tab settings are also accessible by long-pressing the first tab in the tab bar.</string>
+	<key>HidePrevNext</key>
+	<string>Masquer les boutons Précédent et Suivant</string>
+	<key>HidePrevNextDesc</key>
+	<string>Masque les boutons vidéo Précédent et Suivant de l'overlay.</string>
+	<key>HideShorts</key>
+	<string>Masquer les Shorts</string>
+	<key>HideShortsAudio</key>
+	<string>No audio indicator</string>
+	<key>HideShortsAudioDesc</key>
+	<string>Removes the line indicating the audio used in the Shorts.</string>
+	<key>HideShortsCamera</key>
+	<string>Masquer le bouton de l'appareil photo</string>
+	<key>HideShortsCameraDesc</key>
+	<string>Masque le bouton de l'appareil photo de l'overlay Shorts.</string>
+	<key>HideShortsComments</key>
+	<string>No Comments button</string>
+	<key>HideShortsCommentsDesc</key>
+	<string>Removes the Comments button from the action bar.</string>
+	<key>HideShortsDesc</key>
+	<string>Masque les vidéos Shorts de la page d'accueil, des recommandations, etc. (Non appliqué à l'historique de visionnage)</string>
+	<key>HideShortsDescription</key>
+	<string>No description</string>
+	<key>HideShortsDescriptionDesc</key>
+	<string>Removes the Shorts description.</string>
+	<key>HideShortsDislike</key>
+	<string>No Dislike button</string>
+	<key>HideShortsDislikeDesc</key>
+	<string>Removes the Dislike button from the action bar.</string>
+	<key>HideShortsLike</key>
+	<string>No Like button</string>
+	<key>HideShortsLikeDesc</key>
+	<string>Removes the Like button from the action bar.</string>
+	<key>HideShortsLogo</key>
+	<string>Masquer le logo Shorts</string>
+	<key>HideShortsLogoDesc</key>
+	<string>Masque le logo Shorts dans le coin supérieur gauche.</string>
+	<key>HideShortsMore</key>
+	<string>Masquer le bouton Plus (⋮)</string>
+	<key>HideShortsMoreDesc</key>
+	<string>Masque le bouton Plus (⋮) de l'overlay Shorts. Il est également accessible en appuyant longuement sur l'écran.</string>
+	<key>HideShortsRemix</key>
+	<string>No Remix button</string>
+	<key>HideShortsRemixDesc</key>
+	<string>Removes the Remix button from the action bar.</string>
+	<key>HideShortsSearch</key>
+	<string>Masquer le bouton de recherche</string>
+	<key>HideShortsSearchDesc</key>
+	<string>Masque le bouton de recherche de l'overlay Shorts.</string>
+	<key>HideShortsShare</key>
+	<string>No Share button</string>
+	<key>HideShortsShareDesc</key>
+	<string>Removes the Share button from the action bar.</string>
+	<key>HideShortsSource</key>
+	<string>No source link button</string>
+	<key>HideShortsSourceDesc</key>
+	<string>Removes the button that navigates to the full video or another Short video.</string>
+	<key>HideShortsSubscribe</key>
+	<string>No follow button</string>
+	<key>HideShortsSubscribeDesc</key>
+	<string>Removes the Follow button next to the username.</string>
+	<key>HideShortsSuggestion</key>
+	<string>No suggestions</string>
+	<key>HideShortsSuggestionDesc</key>
+	<string>Removes the button with suggestions, such as Add to playlist, Super Thanks, etc.</string>
+	<key>HideShortsUsername</key>
+	<string>No username</string>
+	<key>HideShortsUsernameDesc</key>
+	<string>Removes the channel name.</string>
+	<key>HideSortComments</key>
+	<string>Masquer l'en-tête des commentaires</string>
+	<key>HideSortCommentsDesc</key>
+	<string>Masque l'en-tête de tri des commentaires (Meilleurs, Plus récents) pour qu'il n'apparaisse jamais.</string>
+	<key>HideSubs</key>
+	<string>Masquer le bouton Sous-titres</string>
+	<key>HideSubsDesc</key>
+	<string>Masque le bouton Sous-titres de l'overlay.</string>
+	<key>Highlight</key>
+	<string>Point fort</string>
+	<key>HighlightColor</key>
+	<string>Couleur du segment point fort</string>
+	<key>HighlightDesc</key>
+	<string>Utilisé pour arriver au point ou au moment fort d'une vidéo.</string>
+	<key>HoldToSpeed</key>
+	<string>Maintenir pour accélérer</string>
+	<key>HoldToSpeedDesc</key>
+	<string>Sets the playback speed triggered by a long press on the player</string>
+	<key>ImportPreferences</key>
+	<string>Importer les préférences</string>
+	<key>InactiveTabs</key>
+	<string>Onglets inactifs</string>
+	<key>Independent</key>
+	<string>Indépendant</string>
+	<key>Interaction</key>
+	<string>Rappels d'interaction</string>
+	<key>InteractionColor</key>
+	<string>Couleur du segment interaction</string>
+	<key>InteractionDesc</key>
+	<string>Rappels explicites pour aimer, s'abonner ou interagir avec eux sur n'importe quelle plateforme payante ou gratuite (par exemple, cliquer sur une vidéo)</string>
+	<key>Interface</key>
+	<string>Interface</string>
+	<key>InterfaceStyle</key>
+	<string>Style d'interface</string>
+	<key>Intro</key>
+	<string>Intermission/Animation d'intro</string>
+	<key>IntroColor</key>
+	<string>Couleur du segment intro</string>
+	<key>IntroDesc</key>
+	<string>Segments généralement trouvés au début d'une vidéo qui incluent une animation, une image fixe ou un clip également vus dans d'autres vidéos du même créateur.</string>
+	<key>Italian</key>
+	<string>Italian localization</string>
+	<key>Japanese</key>
+	<string>Localisation japonaise</string>
+	<key>Jokes</key>
+	<string>Blagues/Digressions</string>
+	<key>JokesColor</key>
+	<string>Couleur du segment blagues</string>
+	<key>JokesDesc</key>
+	<string>Les blagues/digressions sont uniquement pour les scènes tangentielles ajoutées pour du remplissage ou de l'humour qui ne sont pas nécessaires pour comprendre le contenu principal de la vidéo.</string>
+	<key>KeepSubsShorts</key>
+	<string>Garder les Shorts dans Abonnements</string>
+	<key>KeepSubsShortsDesc</key>
+	<string>Empêche la suppression des Shorts de l'onglet Abonnements.</string>
+	<key>Korean</key>
+	<string>Korean localization</string>
+	<key>LeftSideGesture</key>
+	<string>Geste pour le côté gauche</string>
+	<key>LeftSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the left side of the screen</string>
+	<key>LibraryAdded</key>
+	<string>L'onglet "Vous" a été restauré</string>
+	<key>LibraryRemoved</key>
+	<string>L'onglet "Vous" a été supprimé</string>
+	<key>LinkDetected</key>
+	<string>A YouTube-related link was detected. Would you like to open it in YouTube?</string>
+	<key>Localizations</key>
+	<string>Auteurs des traductions</string>
+	<key>LockButton</key>
+	<string>Lock button</string>
+	<key>LockButtonDesc</key>
+	<string>Displays a button to quickly lock the overlay screen and switch to fullscreen mode.</string>
+	<key>LoginInfo</key>
+	<string>Redémarrage de l'app requis après la connexion réussie au compte Google</string>
+	<key>Loop</key>
+	<string>Loop</string>
+	<key>Main</key>
+	<string>Principal</string>
+	<key>MainColor</key>
+	<string>Main color</string>
+	<key>ManageCache</key>
+	<string>Gestion du cache</string>
+	<key>ManagePreferences</key>
+	<string>Gestion des préférences</string>
+	<key>Miniplayer</key>
+	<string>Activer le mini-lecteur</string>
+	<key>MiniplayerDesc</key>
+	<string>Active le mini-lecteur pour les vidéos qui n'étaient pas initialement conçues pour cela, comme les vidéos destinées aux enfants.</string>
+	<key>MiniplayerStyle</key>
+	<string>Style du mini-lecteur</string>
+	<key>MiniplayerStyleDesc</key>
+	<string>Le passage au/du mode flottant nécessite de redémarrer l'application.</string>
+	<key>MusicOfftopic</key>
+	<string>Musique : Section hors sujet</string>
+	<key>MusicOfftopicColor</key>
+	<string>Couleur du segment hors sujet</string>
+	<key>MusicOfftopicDesc</key>
+	<string>À utiliser uniquement sur les vidéos dont la musique est le contenu principal.</string>
+	<key>MuteButton</key>
+	<string>Mute button</string>
+	<key>MuteButtonDesc</key>
+	<string>Displays a button to mute or unmute the volume on the overlay.</string>
+	<key>NativeShare</key>
+	<string>Feuille de partage native</string>
+	<key>NativeShareDesc</key>
+	<string>Utilise la feuille de partage du système pour partager les médias</string>
+	<key>Navbar</key>
+	<string>Barre de navigation</string>
+	<key>No</key>
+	<string>Non</string>
+	<key>NoAutonavEndScreenCards</key>
+	<string>Masquer l'écran de lecture automatique</string>
+	<key>NoAutonavEndScreenCardsDesc</key>
+	<string>Masque l'écran qui montre ce que vous pouvez lire ensuite après la fin de la lecture. Désactiver cette option désactive également la lecture automatique</string>
+	<key>NoContentWarning</key>
+	<string>Passer l'avertissement de contenu</string>
+	<key>NoContentWarningDesc</key>
+	<string>Ignore le message d'avertissement de contenu sensible.</string>
+	<key>NoDarkBg</key>
+	<string>Supprimer l'arrière-plan sombre</string>
+	<key>NoDarkBgDesc</key>
+	<string>Supprime l'arrière-plan sombre de l'overlay.</string>
+	<key>NoDonationReminder</key>
+	<string>Désactiver le rappel de don</string>
+	<key>NoDonationReminderDesc</key>
+	<string>Désactive le rappel de don rarement affiché.</string>
+	<key>NoDoubleTap2Seek</key>
+	<string>Désactiver le double tap pour chercher</string>
+	<key>NoDoubleTap2SeekDesc</key>
+	<string>Désactive le geste de double tap pour chercher.</string>
+	<key>NoEndScreenCards</key>
+	<string>Masquer les cartes de fin d'écran</string>
+	<key>NoEndScreenCardsDesc</key>
+	<string>Masque les cartes de fin d'écran (miniatures) à la fin des vidéos.</string>
+	<key>NoFreeZoom</key>
+	<string>Désactiver le zoom libre</string>
+	<key>NoFreeZoomDesc</key>
+	<string>Désactive les nouveaux gestes de zoom libre.</string>
+	<key>NoFullscreenActions</key>
+	<string>Désactiver les actions en plein écran</string>
+	<key>NoFullscreenActionsDesc</key>
+	<string>Désactive le panneau d'actions en mode plein écran.</string>
+	<key>NoHints</key>
+	<string>Désactiver les indices</string>
+	<key>NoHintsDesc</key>
+	<string>Désactive les indices de l'auteur qui apparaissent dans le coin supérieur droit pendant la lecture.</string>
+	<key>NoPromotionCards</key>
+	<string>Masquer les cartes de promotion payante</string>
+	<key>NoPromotionCardsDesc</key>
+	<string>Masque la carte "Inclut des promotions payantes" dans les vidéos avec promotions.</string>
+	<key>NoRelatedVids</key>
+	<string>Pas de vidéos associées dans l'overlay</string>
+	<key>NoRelatedVidsDesc</key>
+	<string>Supprime les vidéos associées affichées dans l'overlay en glissant vers le haut.</string>
+	<key>NoRelatedWatchNexts</key>
+	<string>Masquer toutes les vidéos sous le lecteur</string>
+	<key>NoRelatedWatchNextsDesc</key>
+	<string>Masque toutes les vidéos sous le lecteur, ne laissant que les informations sur la vidéo et la section des commentaires.</string>
+	<key>NoSearchHistory</key>
+	<string>Masquer l'historique de recherche</string>
+	<key>NoSearchHistoryDesc</key>
+	<string>Masque visuellement l'historique de recherche et les suggestions. Note : Votre historique de recherche sera toujours accessible dans vos autres clients YouTube.</string>
+	<key>NoShareChunk</key>
+	<string>Remove share identifier</string>
+	<key>NoShareChunkDesc</key>
+	<string>Removes the "si=identifier" parameter from shared links. A good alternative to the "Native share sheet" option as YouTube continues to improve its sharing menu.</string>
+	<key>NoSubUnderPlayer</key>
+	<string>Remove "Subscribe" button</string>
+	<key>NoSubUnderPlayerDesc</key>
+	<string>Removes "Subscribe" button under player.</string>
+	<key>NoSubbar</key>
+	<string>Masquer la sous-barre</string>
+	<key>NoSubbarDesc</key>
+	<string>Masque la sous-barre (Tous, Nouveautés, En direct, etc.) sous la barre de navigation.</string>
+	<key>NoTwoFingerSnapToChapter</key>
+	<string>Désactiver le double tap à deux doigts</string>
+	<key>NoTwoFingerSnapToChapterDesc</key>
+	<string>Désactive le geste de double tap à deux doigts pour sauter au chapitre.</string>
+	<key>NoWatermarks</key>
+	<string>Masquer les filigranes</string>
+	<key>NoWatermarksDesc</key>
+	<string>Masque les filigranes de chaîne dans le lecteur.</string>
+	<key>NoYTLogo</key>
+	<string>Supprimer le logo YouTube</string>
+	<key>NoYTLogoDesc</key>
+	<string>Supprime le logo YouTube de la barre de navigation.</string>
+	<key>NothingToShowInMenu</key>
+	<string>Nothing to show in this context menu</string>
+	<key>OldYTUI</key>
+	<string>Ancienne interface</string>
+	<key>OldYTUIDesc</key>
+	<string>Usurpe la version de YouTube pour revenir à l'ancienne interface</string>
+	<key>OledKeyboard</key>
+	<string>OLED keyboard</string>
+	<key>OledKeyboardDesc</key>
+	<string>Applies OLED black theme for dark keyboard</string>
+	<key>OledTheme</key>
+	<string>Thème OLED</string>
+	<key>OledThemeDesc</key>
+	<string>Change toutes les couleurs sombres en noir OLED</string>
+	<key>OpenAsRegularVideo</key>
+	<string>Ouvrir comme vidéo normale</string>
+	<key>OpenLink</key>
+	<string>Open link</string>
+	<key>OpenSourceLibs</key>
+	<string>Bibliothèques Open Source</string>
+	<key>Original</key>
+	<string>Original</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Overlay</key>
+	<string>Overlay</string>
+	<key>ParsingCaptions</key>
+	<string>Parsing captions</string>
+	<key>ParsingTranscript</key>
+	<string>Parsing the transcript</string>
+	<key>PauseOnOverlay</key>
+	<string>Pause quand overlay</string>
+	<key>PauseOnOverlayDesc</key>
+	<string>Met la lecture en pause si l'overlay apparaît.</string>
+	<key>PersistentProgressBar</key>
+	<string>Barre de progression persistante</string>
+	<key>PersistentProgressBarDesc</key>
+	<string>Affiche toujours la barre de progression dans le lecteur</string>
+	<key>PinchToFullscreenShorts</key>
+	<string>Pincer pour le plein écran</string>
+	<key>PinchToFullscreenShortsDesc</key>
+	<string>Gère la visibilité de l'overlay avec les gestes de pincement, affichant les Shorts en mode plein écran.</string>
+	<key>PlayInExternalPlayer</key>
+	<string>Lire dans un lecteur externe</string>
+	<key>PlayInInfuse</key>
+	<string>Lire dans Infuse</string>
+	<key>PlayInSystemPlayer</key>
+	<string>Lire dans le lecteur système</string>
+	<key>PlayInVLC</key>
+	<string>Lire dans VLC</string>
+	<key>PlaybackMode</key>
+	<string>Playback completion action</string>
+	<key>PlaybackQualityOnCellular</key>
+	<string>Qualité de lecture sur réseau cellulaire</string>
+	<key>PlaybackQualityOnCellularDesc</key>
+	<string>Automatically applies the selected quality when streaming over mobile data</string>
+	<key>PlaybackQualityOnWiFi</key>
+	<string>Qualité de lecture sur WiFi</string>
+	<key>PlaybackQualityOnWiFiDesc</key>
+	<string>Automatically applies the selected quality when streaming over Wi-Fi</string>
+	<key>PlaybackSpeed</key>
+	<string>Vitesse de lecture</string>
+	<key>Player</key>
+	<string>Lecteur</string>
+	<key>Player.Actions</key>
+	<string>Actions</string>
+	<key>Player.Gestures</key>
+	<string>Gestes</string>
+	<key>Player.Interface</key>
+	<string>Interface</string>
+	<key>PlayerNoClip</key>
+	<string>Remove "Clip" button</string>
+	<key>PlayerNoClipDesc</key>
+	<string>Removes "Clip" button under player.</string>
+	<key>PlayerNoDownload</key>
+	<string>Remove "Download" button</string>
+	<key>PlayerNoDownloadDesc</key>
+	<string>Removes "Download" button under player.</string>
+	<key>PlayerNoRemix</key>
+	<string>Remove "Remix" button</string>
+	<key>PlayerNoRemixDesc</key>
+	<string>Removes "Remix" button under player.</string>
+	<key>PlayerNoReport</key>
+	<string>Remove "Report" button</string>
+	<key>PlayerNoReportDesc</key>
+	<string>Removes "Report" button under player.</string>
+	<key>PlayerNoSave</key>
+	<string>Remove "Save" button</string>
+	<key>PlayerNoSaveDesc</key>
+	<string>Removes "Save" button under player.</string>
+	<key>PlayerNoShare</key>
+	<string>Remove "Share" button</string>
+	<key>PlayerNoShareDesc</key>
+	<string>Removes "Share" button under player.</string>
+	<key>PlayerNoThanks</key>
+	<string>Remove "Thanks" button</string>
+	<key>PlayerNoThanksDesc</key>
+	<string>Removes "Thanks" button under player.</string>
+	<key>PlayerNotFound</key>
+	<string>Lecteur non trouvé</string>
+	<key>PlaylistOldMinibar</key>
+	<string>Ancienne barre latérale de lecture</string>
+	<key>PlaylistOldMinibarDesc</key>
+	<string>Remplace le nouveau panneau de lecture flottant par l'ancien.</string>
+	<key>Polish</key>
+	<string>Polish localization</string>
+	<key>PortraitFullscreen</key>
+	<string>Mode plein écran en portrait</string>
+	<key>PortraitFullscreenDesc</key>
+	<string>Active la prise en charge du plein écran en mode portrait.</string>
+	<key>PostDownloadAction</key>
+	<string>Action post-téléchargement</string>
+	<key>PostDownloadDesc</key>
+	<string>L'action sélectionnée sera effectuée une fois le téléchargement de la vidéo terminé.</string>
+	<key>PostManager</key>
+	<string>Gestionnaire de publications</string>
+	<key>PostManagerDesc</key>
+	<string>Permet de copier le texte de la publication et de la sauvegarder en tant qu'image par un appui long.</string>
+	<key>PreImportMessage</key>
+	<string>Cette action remplacera les préférences actuelles par celles du fichier sélectionné.
+
+Êtes-vous sûr de vouloir continuer ?</string>
+	<key>Preferences</key>
+	<string>Préférences de %@</string>
+	<key>PreferredAudio</key>
+	<string>Piste audio préférée</string>
+	<key>PreferredCaptions</key>
+	<string>Sous-titres préférés</string>
+	<key>PremiumYTLogo</key>
+	<string>Afficher le logo YouTube Premium</string>
+	<key>PremiumYTLogoDesc</key>
+	<string>Affiche le logo YouTube Premium dans la barre de navigation.</string>
+	<key>PreserveSpeed</key>
+	<string>Lock speed</string>
+	<key>PreserveSpeedDesc</key>
+	<string>Locks at adjusted speed after gesture completion.</string>
+	<key>Preview</key>
+	<string>Aperçu</string>
+	<key>PreviewColor</key>
+	<string>Couleur du segment aperçu</string>
+	<key>PreviewDesc</key>
+	<string>Collection d'extraits montrant ce qui va suivre dans cette vidéo ou d'autres vidéos d'une série où toutes les informations sont répétées plus tard dans la vidéo.</string>
+	<key>PrivateUserID</key>
+	<string>Private UserID</string>
+	<key>ProgressBarStyle</key>
+	<string>Progress bar style</string>
+	<key>PublicUserID</key>
+	<string>Public UserID</string>
+	<key>RedProgressBar</key>
+	<string>Barre de progression rouge</string>
+	<key>RedProgressBarDesc</key>
+	<string>Restaure la barre de progression rouge.</string>
+	<key>RememberLoopMode</key>
+	<string>Mémoriser le mode de lecture en boucle</string>
+	<key>RememberLoopModeDesc</key>
+	<string>Mémorise le dernier mode de lecture en boucle sélectionné dans le menu du lecteur.</string>
+	<key>RemoveAds</key>
+	<string>Supprimer les publicités</string>
+	<key>RemoveAdsDesc</key>
+	<string>Supprime les publicités intégrées.</string>
+	<key>RemoveCast</key>
+	<string>Masquer le bouton Cast</string>
+	<key>RemoveCastDesc</key>
+	<string>Masque le bouton Cast de la barre de navigation.</string>
+	<key>RemoveCommentGuidelines</key>
+	<string>Remove guidelines</string>
+	<key>RemoveCommentGuidelinesDesc</key>
+	<string>Removes pinned guidelines from the comments section.</string>
+	<key>RemoveCommunityPosts</key>
+	<string>Supprimer les publications communautaires</string>
+	<key>RemoveCommunityPostsDesc</key>
+	<string>Supprime les publications communautaires du fil d'actualité.</string>
+	<key>RemoveDontRecommendMenu</key>
+	<string>Supprimer "Ne pas recommander la chaîne"</string>
+	<key>RemoveDontRecommendMenuDesc</key>
+	<string>Supprime l'option "Ne pas recommander la chaîne" du menu.</string>
+	<key>RemoveDownloadMenu</key>
+	<string>Supprimer "Télécharger"</string>
+	<key>RemoveDownloadMenuDesc</key>
+	<string>Supprime l'option "Télécharger" du menu.</string>
+	<key>RemoveHorizontalFeeds</key>
+	<string>Supprimer les fils horizontaux</string>
+	<key>RemoveHorizontalFeedsDesc</key>
+	<string>Supprime tous les fils horizontaux (Actualités, Continuer à regarder, Collections de publications, etc.) de l'onglet Accueil.</string>
+	<key>RemoveIndicators</key>
+	<string>Supprimer les indicateurs</string>
+	<key>RemoveInlineComment</key>
+	<string>Supprimer le commentaire en ligne</string>
+	<key>RemoveInlineCommentDesc</key>
+	<string>Supprime la section des commentaires sous le lecteur.</string>
+	<key>RemoveLabels</key>
+	<string>Supprimer les sous-titres</string>
+	<key>RemoveLibraryTab</key>
+	<string>Supprimer l'onglet "Vous"</string>
+	<key>RemoveLiveVids</key>
+	<string>Supprimer les vidéos en direct</string>
+	<key>RemoveLiveVidsDesc</key>
+	<string>Supprime les vidéos en direct de l'onglet Accueil.</string>
+	<key>RemoveMixPlaylists</key>
+	<string>Supprimer les mix</string>
+	<key>RemoveMixPlaylistsDesc</key>
+	<string>Supprime les playlists de mix générées par YouTube du fil d'actualité.</string>
+	<key>RemoveMoreTopics</key>
+	<string>Supprimer "Plus de sujets"</string>
+	<key>RemoveMoreTopicsDesc</key>
+	<string>Supprime "Plus de sujets" du fil d'actualité.</string>
+	<key>RemoveNotInterestedMenu</key>
+	<string>Supprimer "Pas intéressé"</string>
+	<key>RemoveNotInterestedMenuDesc</key>
+	<string>Supprime l'option "Pas intéressé" du menu.</string>
+	<key>RemoveNotifications</key>
+	<string>Masquer le bouton Notifications</string>
+	<key>RemoveNotificationsDesc</key>
+	<string>Masque le bouton Notifications de la barre de navigation.</string>
+	<key>RemovePlayNext</key>
+	<string>Supprimer "Placer en première position dans la file d'attente"</string>
+	<key>RemovePlayNextDesc</key>
+	<string>Supprime l'option "Placer en première position dans la file d'attente" du menu.</string>
+	<key>RemovePlayables</key>
+	<string>Remove playables</string>
+	<key>RemovePlayablesDesc</key>
+	<string>Removes playables (mini-games) from the feed.</string>
+	<key>RemoveRemixMenu</key>
+	<string>Remove "Remix"</string>
+	<key>RemoveRemixMenuDesc</key>
+	<string>Removes "Remix" option from menu.</string>
+	<key>RemoveReportMenu</key>
+	<string>Supprimer "Signaler"</string>
+	<key>RemoveReportMenuDesc</key>
+	<string>Supprime l'option "Signaler" du menu.</string>
+	<key>RemoveSaveToPlaylistMenu</key>
+	<string>Supprimer "Enregistrer dans une playlist"</string>
+	<key>RemoveSaveToPlaylistMenuDesc</key>
+	<string>Supprime l'option "Enregistrer dans une playlist" du menu.</string>
+	<key>RemoveSearch</key>
+	<string>Masquer le bouton Recherche</string>
+	<key>RemoveSearchDesc</key>
+	<string>Masque le bouton Recherche de la barre de navigation.</string>
+	<key>RemoveShareMenu</key>
+	<string>Supprimer "Partager"</string>
+	<key>RemoveShareMenuDesc</key>
+	<string>Supprime l'option "Partager" du menu.</string>
+	<key>RemoveShortsLive</key>
+	<string>Remove live videos</string>
+	<key>RemoveShortsLiveDesc</key>
+	<string>Removes live videos from the feed.</string>
+	<key>RemoveVoiceSearch</key>
+	<string>Masquer le bouton Recherche vocale</string>
+	<key>RemoveVoiceSearchDesc</key>
+	<string>Masque le bouton Recherche vocale de la barre de navigation.</string>
+	<key>RemoveWatchLaterMenu</key>
+	<string>Supprimer "Enregistrer pour plus tard"</string>
+	<key>RemoveWatchLaterMenuDesc</key>
+	<string>Supprime l'option "Enregistrer pour plus tard" du menu.</string>
+	<key>RemoveYTMMenu</key>
+	<string>Remove "YouTube Music"</string>
+	<key>RemoveYTMMenuDesc</key>
+	<string>Removes "Listen with YouTube Music" option from menu.</string>
+	<key>ReplacePrevNext</key>
+	<string>Boutons Avance rapide et Retour rapide</string>
+	<key>ReplacePrevNextDesc</key>
+	<string>Remplace les boutons vidéo Précédent et Suivant par des boutons Avance rapide et Retour rapide dans l'overlay.</string>
+	<key>ResetMessage</key>
+	<string>Cette option réinitialisera les paramètres YTLite par défaut et fermera YouTube.
+
+Êtes-vous sûr de vouloir continuer ?</string>
+	<key>ResetSettings</key>
+	<string>Réinitialiser les paramètres YTLite</string>
+	<key>ResetSpeed</key>
+	<string>Réinitialiser</string>
+	<key>RestrictShorts</key>
+	<string>Limit Shorts</string>
+	<key>RestrictShortsDesc</key>
+	<string>Limits the number of Shorts in the feed to 10-15. Useful if you want to avoid the habit of endlessly scrolling through the feed.</string>
+	<key>RetryLogin</key>
+	<string>Solution de contournement activée.
+
+Veuillez réessayer.</string>
+	<key>RightSideGesture</key>
+	<string>Geste pour le côté droit</string>
+	<key>RightSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the right side of the screen</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>SaveCommentAsImage</key>
+	<string>Enregistrer le commentaire comme image</string>
+	<key>SaveCurrentImage</key>
+	<string>Enregistrer l'image actuelle</string>
+	<key>SaveImage</key>
+	<string>Enregistrer l'image</string>
+	<key>SavePostAsImage</key>
+	<string>Enregistrer le post comme image</string>
+	<key>SaveProfilePhoto</key>
+	<string>Enregistrer la photo de profil</string>
+	<key>SaveProfilePhotoDesc</key>
+	<string>Enregistre la photo de profil dans l'application Photos par un appui long.</string>
+	<key>SaveProfilePicture</key>
+	<string>Enregistrer la photo de profil</string>
+	<key>SaveToPhotos</key>
+	<string>Enregistrer dans Photos</string>
+	<key>Saved</key>
+	<string>Enregistré dans Photos</string>
+	<key>Sb.Alphabetical</key>
+	<string>Alphabetical (A-Z)</string>
+	<key>Sb.AlphabeticalRev</key>
+	<string>Reverse (Z-A)</string>
+	<key>Sb.Ask</key>
+	<string>Demander</string>
+	<key>Sb.Channels</key>
+	<string>Channels</string>
+	<key>Sb.ChannelsHere</key>
+	<string>Whitelisted channels appear here</string>
+	<key>Sb.Disable</key>
+	<string>Désactiver</string>
+	<key>Sb.Display</key>
+	<string>Afficher dans le lecteur</string>
+	<key>Sb.Newest</key>
+	<string>Newest first</string>
+	<key>Sb.Oldest</key>
+	<string>Oldest first</string>
+	<key>Sb.Skip</key>
+	<string>Saut automatique</string>
+	<key>Sb.SkipTo</key>
+	<string>Sauter au segment</string>
+	<key>Sb.Whitelist</key>
+	<string>Whitelisted channels</string>
+	<key>Sb.Whitelisted</key>
+	<string>Added to the whitelist</string>
+	<key>SbAddToWhitelist</key>
+	<string>Add to the whitelist</string>
+	<key>SbPlayerButton</key>
+	<string>Display button in overlay</string>
+	<key>SbPlayerButtonDesc</key>
+	<string>Adds SponsorBlock button in players overlay.</string>
+	<key>SbRemoveFromWhitelist</key>
+	<string>Remove from the whitelist</string>
+	<key>SbWhitelist</key>
+	<string>Whitelist</string>
+	<key>ScrollToNext</key>
+	<string>Scroll to next</string>
+	<key>ScrubberColor</key>
+	<string>Scrubber color</string>
+	<key>SeekAnywhere</key>
+	<string>Glisser pour chercher</string>
+	<key>SeekAnywhereDesc</key>
+	<string>Permet de contrôler la recherche de lecture en glissant vers la gauche et la droite.</string>
+	<key>SeekMethod</key>
+	<string>Méthode de recherche</string>
+	<key>SeekMethodDesc</key>
+	<string>Independent: Free fast scrolling across the entire video duration. Only the seek sensitivity is respected.
+
+Duration-based: The scrolling strength will depend on the length of the video and the seek sensitivity. This can be useful for long videos to prevent scrolling through large sections of the video.</string>
+	<key>SeekSensitivity</key>
+	<string>Sensibilité de recherche</string>
+	<key>SegmentDetected</key>
+	<string>%@ detected.
+%@</string>
+	<key>SegmentSkipAudio</key>
+	<string>Notification audio</string>
+	<key>SegmentSkipAudioDesc</key>
+	<string>Joue une notification audio lors du saut d'un segment.</string>
+	<key>SegmentSkipped</key>
+	<string>%@ has been skipped</string>
+	<key>Segments</key>
+	<string>Segments</string>
+	<key>SegmentsInFeedPlayer</key>
+	<string>Afficher les segments dans le feed</string>
+	<key>SegmentsInFeedPlayerDesc</key>
+	<string>Affiche les segments colorés sur la barre de progression des lecteurs dans le feed.</string>
+	<key>SegmentsInMiniPlayer</key>
+	<string>Afficher les segments dans le mini-lecteur</string>
+	<key>SegmentsInMiniPlayerDesc</key>
+	<string>Affiche les segments colorés sur la barre de progression du mini-lecteur.</string>
+	<key>Select</key>
+	<string>Sélectionner</string>
+	<key>SelectAction</key>
+	<string>Sélectionner une action</string>
+	<key>SelectAudioTrack</key>
+	<string>Sélectionner la piste audio</string>
+	<key>SelectCaption</key>
+	<string>Sélectionner les sous-titres</string>
+	<key>Selected</key>
+	<string>Sélectionnée</string>
+	<key>SelfPromo</key>
+	<string>Autopromotion non payée</string>
+	<key>SelfPromoColor</key>
+	<string>Couleur du segment autopromotion</string>
+	<key>SelfPromoDesc</key>
+	<string>Autopromotion : Promotion d'un produit ou service directement lié au créateur lui-même. Non payé : Le créateur ne recevra aucun paiement en échange de cette promotion</string>
+	<key>Share</key>
+	<string>Partager</string>
+	<key>Shorts</key>
+	<string>Shorts</string>
+	<key>ShortsInterface</key>
+	<string>Interface</string>
+	<key>ShortsModeTurnedOff</key>
+	<string>Le mode Shorts uniquement a été désactivé</string>
+	<key>ShortsOnlyMode</key>
+	<string>Mode Shorts uniquement</string>
+	<key>ShortsOnlyModeDesc</key>
+	<string>Limite les fonctionnalités de YouTube à la visualisation des Shorts uniquement.</string>
+	<key>ShortsOnlyWarning</key>
+	<string>Êtes-vous sûr de vouloir activer ce mode ?
+
+Dans ce mode, vous ne pourrez regarder que des vidéos Shorts et vous ne pourrez rien faire d'autre.
+
+Vous pouvez désactiver le mode Shorts uniquement en appuyant longuement avec deux doigts dans le lecteur Shorts.</string>
+	<key>ShortsProgress</key>
+	<string>Activer la barre de progression</string>
+	<key>ShortsProgressDesc</key>
+	<string>Affiche la barre de progression dans l'overlay des Shorts.</string>
+	<key>ShortsToRegular</key>
+	<string>Shorts vers vidéos normales</string>
+	<key>ShortsToRegularDesc</key>
+	<string>Ouvre les vidéos Shorts en tant que vidéos normales.</string>
+	<key>Show</key>
+	<string>Afficher</string>
+	<key>ShowCurrentImage</key>
+	<string>Show current image</string>
+	<key>ShowNotifications</key>
+	<string>Show notifications</string>
+	<key>ShowNotificationsDesc</key>
+	<string>Displays notifications for the auto-skipped segments. Notifications for categories that require manual skipping are always shown.</string>
+	<key>ShowProfilePicture</key>
+	<string>Show profile picture</string>
+	<key>ShowThumbnail</key>
+	<string>Show thumbnail</string>
+	<key>SkipAlertDuration</key>
+	<string>Durée de l'alerte de saut</string>
+	<key>SkipSegment</key>
+	<string>Would you like to skip the segment?</string>
+	<key>SkipToSegment</key>
+	<string>Would you like to jump to the highlight?</string>
+	<key>SkippedToSegment</key>
+	<string>Jumped to %@</string>
+	<key>SolidColor</key>
+	<string>Solid color</string>
+	<key>SortType</key>
+	<string>Sort type</string>
+	<key>Spanish</key>
+	<string>Localisation espagnole</string>
+	<key>SpecialThanks</key>
+	<string>Remerciements spéciaux</string>
+	<key>SpecialThanks.Test</key>
+	<string>Contribution inestimable aux tests du tweak</string>
+	<key>SpeedByLongTap</key>
+	<string>Augmenter la vitesse de lecture des Shorts</string>
+	<key>SpeedByLongTapDesc</key>
+	<string>Permet d'accélérer la lecture en appuyant longuement sur une certaine partie de l'écran.</string>
+	<key>SpeedControls</key>
+	<string>Contrôles de la vitesse</string>
+	<key>SpeedControlsDesc</key>
+	<string>Affiche les boutons de contrôle de la vitesse sur l'overlay</string>
+	<key>SpeedLocation</key>
+	<string>Emplacement d'activation</string>
+	<key>SpeedPreserved</key>
+	<string>Speed locked at %@</string>
+	<key>Sponsor</key>
+	<string>Sponsor</string>
+	<key>SponsorColor</key>
+	<string>Couleur du segment sponsor</string>
+	<key>SponsorDesc</key>
+	<string>Partie d'une vidéo promouvant un produit ou un service non directement lié au créateur. Le créateur recevra un paiement ou une compensation sous forme d'argent ou de produits gratuits</string>
+	<key>Startup</key>
+	<string>Page de démarrage</string>
+	<key>StartupAnimation</key>
+	<string>Animation de démarrage</string>
+	<key>StartupAnimationDesc</key>
+	<string>Affiche l'animation de chargement de YouTube au démarrage</string>
+	<key>StickSortComments</key>
+	<string>Épingler l'en-tête des commentaires</string>
+	<key>StickSortCommentsDesc</key>
+	<string>Épingle l'en-tête de tri des commentaires (Meilleurs, Plus récents) pour qu'il ne disparaisse pas pendant le défilement.</string>
+	<key>StickyNavbar</key>
+	<string>Barre de navigation fixe</string>
+	<key>StickyNavbarDesc</key>
+	<string>Fixe la barre de navigation pour qu'elle reste visible lors du défilement.</string>
+	<key>StockVolumeHUD</key>
+	<string>HUD de volume par défaut</string>
+	<key>StockVolumeHUDDesc</key>
+	<string>Affiche le HUD de volume système en plein écran.</string>
+	<key>Stop</key>
+	<string>Stop</string>
+	<key>SupportDevelopment</key>
+	<string>Soutenir le développement</string>
+	<key>SupportDevelopmentDesc</key>
+	<string>Si vous aimez YTLite et souhaitez soutenir son développement, vous pouvez le faire en utilisant l'une des méthodes pratiques ci-dessous.
+Merci❤</string>
+	<key>SupportMe</key>
+	<string>Me soutenir</string>
+	<key>SupporterWall</key>
+	<string>Supporters</string>
+	<key>Tabbar</key>
+	<string>Barre d'onglets</string>
+	<key>TabsCountRestricted</key>
+	<string>Vous ne pouvez pas avoir plus de six onglets actifs</string>
+	<key>TapToReveal</key>
+	<string>Tap to reveal</string>
+	<key>Toast.Brightness</key>
+	<string>Luminosité</string>
+	<key>Toast.PlaybackSpeed</key>
+	<string>Vitesse de lecture</string>
+	<key>Toast.Volume</key>
+	<string>Volume</string>
+	<key>Translated</key>
+	<string>translated</string>
+	<key>TranslatedAutoGen</key>
+	<string>auto-translated</string>
+	<key>TranslucentBar</key>
+	<string>Translucent tab bar</string>
+	<key>Turkish</key>
+	<string>Localisation turque</string>
+	<key>TwoFingerPanToBrightness</key>
+	<string>Ajuster la luminosité</string>
+	<key>TwoFingerPanToBrightnessDesc</key>
+	<string>Permet d'ajuster la luminosité de l'écran en glissant vers le haut/bas avec deux doigts.</string>
+	<key>TwoFingerTapToPause</key>
+	<string>Pause avec deux doigts</string>
+	<key>TwoFingerTapToPauseDesc</key>
+	<string>Met en pause/reprend la lecture en tapant sur l'écran avec deux doigts.</string>
+	<key>UnderPlayer</key>
+	<string>Sous le lecteur</string>
+	<key>Unskip</key>
+	<string>Annuler le saut</string>
+	<key>UnskipAlertDuration</key>
+	<string>Durée de l'alerte d'annulation de saut</string>
+	<key>VLWL</key>
+	<string>À regarder plus tard</string>
+	<key>VideoEndTime</key>
+	<string>Afficher l'heure de fin de lecture</string>
+	<key>VideoEndTimeDesc</key>
+	<string>Ajoute l'heure de fin de lecture de la vidéo à la barre du lecteur.</string>
+	<key>Vietnamese</key>
+	<string>Localisation vietnamienne</string>
+	<key>VisitGithub</key>
+	<string>Github Repository</string>
+	<key>VisitGithubDesc</key>
+	<string>Star the repo, request a feature or report issues</string>
+	<key>VisitTelegram</key>
+	<string>My Telegram Channel</string>
+	<key>VisitTelegramDesc</key>
+	<string>Stay informed about the latest app updates</string>
+	<key>Warning</key>
+	<string>Avertissement</string>
+	<key>Welcome.Content</key>
+	<string>Ajuster l'interface</string>
+	<key>Welcome.ContentDesc</key>
+	<string>Supprimez les contenus et éléments d'interface indésirables. Activez le vrai mode sombre OLED</string>
+	<key>Welcome.Download</key>
+	<string>Télécharger des médias</string>
+	<key>Welcome.DownloadDesc</key>
+	<string>Téléchargez vos contenus préférés, qu'il s'agisse de vidéos, Shorts, audio ou photos de profil. Copiez les posts et commentaires intéressants ou enregistrez-les en tant qu'images</string>
+	<key>Welcome.More</key>
+	<string>Et encore plus...</string>
+	<key>Welcome.MoreDesc</key>
+	<string>YTPlus comprend plus de 50 options différentes, y compris des fonctionnalités comme la sauvegarde des préférences et le nettoyage du cache. Les paramètres sont disponibles dans la section YTPlus des paramètres YouTube</string>
+	<key>Welcome.Player</key>
+	<string>Configurer le comportement du lecteur</string>
+	<key>Welcome.PlayerDesc</key>
+	<string>Personnalisez le comportement du lecteur, sélectionnez automatiquement la qualité et la vitesse de lecture. Contrôlez à l'aide de gestes</string>
+	<key>Yes</key>
+	<string>Oui</string>
+	<key>YtlButtonPosition</key>
+	<string>Position du bouton de téléchargement</string>
+	<key>sb_filler</key>
+	<string>Segment de remplissage</string>
+	<key>sb_interaction</key>
+	<string>Segment interaction</string>
+	<key>sb_intro</key>
+	<string>Segment intro</string>
+	<key>sb_music_offtopic</key>
+	<string>Segment hors sujet</string>
+	<key>sb_outro</key>
+	<string>Segment cartes de fin</string>
+	<key>sb_poi_highlight</key>
+	<string>Highlight</string>
+	<key>sb_preview</key>
+	<string>Segment aperçu</string>
+	<key>sb_selfpromo</key>
+	<string>Segment autopromotion</string>
+	<key>sb_sponsor</key>
+	<string>Segment sponsor</string>
+</dict>
+</plist>

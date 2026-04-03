@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24hrFormat</key>
+	<string>24 saat formatı</string>
+	<key>24hrFormatDesc</key>
+	<string>Bitiş zamanını 24 saat formatında gösterir.</string>
+	<key>ActivationAreaWidth</key>
+	<string>Tanıma bölgesinin genişliği</string>
+	<key>ActivationAreaWidthDesc</key>
+	<string>Bu değer, ekranın sol ve sağ taraflarındaki jest tanıma bölgesinin genişliğini piksel cinsinden belirler.
+
+İzin verilen maksimum değer, ekran genişliğinin üçte biridir.
+
+Bunun ayarlanması, oynatıcıyı küçültmeye veya genişletmeye çalışırken yanlışlıkla etkinleştirmeyi önlemek için yararlıdır.</string>
+	<key>ActiveTabs</key>
+	<string>Aktif sekmeler</string>
+	<key>AddLibraryTab</key>
+	<string>"Siz" sekmesini ekle</string>
+	<key>AdjustWithFinger</key>
+	<string>Hareketlerle hız ayarla</string>
+	<key>AdjustWithFingerDesc</key>
+	<string>Oynatıcıda uzun süre basılı tutarak ve parmağınızı yukarı ve aşağı hareket ettirerek oynatma hızını ayarlamanıza olanak tanır</string>
+	<key>Arabic</key>
+	<string>Arapça yerelleştirme</string>
+	<key>Ask</key>
+	<string>Sor</string>
+	<key>AtLeastOneTab</key>
+	<string>At least one tab must remain active</string>
+	<key>AudioDRC</key>
+	<string>Dengeli ses tercih et</string>
+	<key>AudioDRCDesc</key>
+	<string>İndirme yöneticisi, mevcutsa dengeli ses (Dinamik Aralık Sıkıştırması) olan sesleri önceliklendirecek.</string>
+	<key>Audios</key>
+	<string>Sesler</string>
+	<key>AutoCheckLinks</key>
+	<string>Auto-check clipboard</string>
+	<key>AutoCheckLinksDesc</key>
+	<string>Check clipboard for YouTube-related links each time the app is opened.
+For proper functionality, go to iOS Settings → YouTube → Paste from other apps and select "Allow"</string>
+	<key>AutoFullscreen</key>
+	<string>Videoları tam ekranda oynat</string>
+	<key>AutoFullscreenDesc</key>
+	<string>Videoları otomatik olarak tam ekran modunda oynatır.</string>
+	<key>AutoGenCaps</key>
+	<string>Otomatik oluşturulan altyazılar</string>
+	<key>AutoGenCapsDesc</key>
+	<string>Seçilen altyazılar bulunamazsa, YouTube Plus orijinal altyazıların çevirisini veya otomatik oluşturulan altyazıların çevirisini seçmeye çalışacaktır.</string>
+	<key>AutoSkipShorts</key>
+	<string>Otomatik kaydır</string>
+	<key>BackgroundPlayback</key>
+	<string>Arka planda oynatma</string>
+	<key>BackgroundPlaybackDesc</key>
+	<string>Arka planda oynatmayı etkinleştirir.</string>
+	<key>Best</key>
+	<string>En iyi</string>
+	<key>Both</key>
+	<string>Her ikisi de</string>
+	<key>Cancel</key>
+	<string>İptal</string>
+	<key>Cancelled</key>
+	<string>İptal edildi</string>
+	<key>CaptionsAndThumbnails</key>
+	<string>Captions and Thumbnails</string>
+	<key>ChineseSimplified</key>
+	<string>Çince (Basitleştirilmiş) yerelleştirme</string>
+	<key>ChineseTraditional</key>
+	<string>Çince (Geleneksel) yerelleştirme</string>
+	<key>ClassicQuality</key>
+	<string>Klasik video kalitesi</string>
+	<key>ClassicQualityDesc</key>
+	<string>Klasik video kalitesi seçim menüsünü geri getirir.</string>
+	<key>ClearCache</key>
+	<string>Önbelleği temizle</string>
+	<key>ClearCacheAtStart</key>
+	<string>Başlangıçta önbelleği temizle</string>
+	<key>ClearCacheAtStartDesc</key>
+	<string>Başlangıçta önbelleği otomatik olarak temizler.</string>
+	<key>CommentManager</key>
+	<string>Yorum bilgisini kaydet</string>
+	<key>CommentManagerDesc</key>
+	<string>Uzun basarak yorum metnini kopyalamaya ve yorumları resim olarak kaydetmeye olanak tanır.</string>
+	<key>CompactToast</key>
+	<string>Compact toast</string>
+	<key>CompactToastDesc</key>
+	<string>Displays a compact-style toast for player gestures</string>
+	<key>Conflicts.AcceptRisks</key>
+	<string>Tüm Riskleri Kabul Ediyorum</string>
+	<key>Conflicts.CloseYT</key>
+	<string>YouTube'u Kapat</string>
+	<key>Conflicts.Detected</key>
+	<string>Uyumsuz Tweak'ler Tespit Edildi</string>
+	<key>Conflicts.DetectedDesc</key>
+	<string>Uygulamanın görünürdeki istikrarına rağmen, YouTube Plus geliştiricisi, benzer işlevselliğe sahip tweak'lerin aynı uygulamada birleştirilmesini önermemekte ve güvenli kullanım garantisi vermemektedir.
+
+Uygulamayı kullanmaya devam ederek, tüm sorumluluğu kabul edersiniz ve performansla ilgili şikayetlerin dikkate alınmayacağını kabul edersiniz.</string>
+	<key>Conflicts.SkipThisVersion</key>
+	<string>Don't Show for This Version</string>
+	<key>ContextMenu</key>
+	<string>Bağlam menüsü</string>
+	<key>Continue</key>
+	<string>Devam et</string>
+	<key>Contributors</key>
+	<string>Katkıda bulunanlar</string>
+	<key>Converting</key>
+	<string>Dönüştürülüyor</string>
+	<key>Copied</key>
+	<string>Panoya kopyalandı</string>
+	<key>Copy</key>
+	<string>Kopyala</string>
+	<key>CopyChannelName</key>
+	<string>Kanal adını kopyala</string>
+	<key>CopyCommentAsImage</key>
+	<string>Yorumu görüntü olarak kopyala</string>
+	<key>CopyCommentText</key>
+	<string>Yorum metnini kopyala</string>
+	<key>CopyCurrentImage</key>
+	<string>Mevcut görüntüyü kopyala</string>
+	<key>CopyDescription</key>
+	<string>Açıklamayı kopyala</string>
+	<key>CopyInformation</key>
+	<string>Bilgiyi kopyala</string>
+	<key>CopyPostAsImage</key>
+	<string>Gönderiyi görüntü olarak kopyala</string>
+	<key>CopyPostText</key>
+	<string>Gönderi metnini kopyala</string>
+	<key>CopyProfilePicture</key>
+	<string>Profil resmini kopyala</string>
+	<key>CopyThumbnail</key>
+	<string>Küçük resmi kopyala</string>
+	<key>CopyTimestampedLink</key>
+	<string>Zaman damgalı bağlantıyı kopyala</string>
+	<key>CopyTitle</key>
+	<string>Başlığı kopyala</string>
+	<key>CopyTranscript</key>
+	<string>Transkript kopyala</string>
+	<key>CopyWithTimestamp</key>
+	<string>Zaman damgalı bağlantıları kopyala</string>
+	<key>CopyWithTimestampDesc</key>
+	<string>Duraklat düğmesine basarak zaman damgalı bağlantıyı panoya kopyalamanıza olanak tanır.</string>
+	<key>Credits</key>
+	<string>Katkılar</string>
+	<key>Custom</key>
+	<string>Elle seç</string>
+	<key>CustomAudioTrack</key>
+	<string>Seçilen ses parçası</string>
+	<key>CustomAudioTrackDesc</key>
+	<string>Specifies the preferred audio track language to use for playback, if available</string>
+	<key>CustomCaptions</key>
+	<string>Seçilen altyazılar</string>
+	<key>CustomCaptionsDesc</key>
+	<string>Specifies the preferred captions language to display, if available</string>
+	<key>Default</key>
+	<string>Varsayılan</string>
+	<key>DefaultPlaybackRate</key>
+	<string>Varsayılan oynatma hızı</string>
+	<key>DefaultPlaybackRateDesc</key>
+	<string>Overrides the default playback speed</string>
+	<key>DevContribution</key>
+	<string>Geliştirmeye katkıda bulunanlar</string>
+	<key>Developer</key>
+	<string>Geliştirici</string>
+	<key>Disable</key>
+	<string>Devre dışı bırak</string>
+	<key>DisableAmbientMode</key>
+	<string>Ambiyans modunu devre dışı bırak</string>
+	<key>DisableAmbientModeDesc</key>
+	<string>Oynatıcıda ve altındaki alanda ambient modunu devre dışı bırakır.</string>
+	<key>DisableAutoCaptions</key>
+	<string>Otomatik altyazıları devre dışı bırak</string>
+	<key>DisableAutoCaptionsDesc</key>
+	<string>Altyazıların otomatik olarak etkinleştirilmesini engeller.</string>
+	<key>DisableAutoplay</key>
+	<string>Otomatik oynatmayı devre dışı bırak</string>
+	<key>DisableAutoplayDesc</key>
+	<string>Açıldıktan sonra videonun otomatik olarak oynamasını engeller, duraklatılmış olarak açılır.</string>
+	<key>DisableRTL</key>
+	<string>RTL formatlamayı devre dışı bırak</string>
+	<key>DisableRTLDesc</key>
+	<string>Başlangıçta sağdan sola (RTL) görüntülenen diller için metni zorla soldan sağa (LTR) formatında görüntüler.</string>
+	<key>Disabled</key>
+	<string>Devre dışı</string>
+	<key>DonateDesc</key>
+	<string>Desteğiniz benim için çok önemli</string>
+	<key>DonationReminder</key>
+	<string>Desteğiniz, YouTube Plus'ı daha da iyi hale getirmeme yardımcı oluyor.
+
+Doğrudan katkıda bulunabilir veya bu bildirimleri YouTube Plus ayarlarında devre dışı bırakabilirsiniz. Teşekkürler💜</string>
+	<key>Done</key>
+	<string>Tamamlandı</string>
+	<key>DontSnap2Chapter</key>
+	<string>Bölüme geçişi devre dışı bırak</string>
+	<key>DontSnap2ChapterDesc</key>
+	<string>Çift dokunma hareketiyle bir sonraki bölüme geçişi devre dışı bırakır.</string>
+	<key>DownloadAudio</key>
+	<string>Sesi indir</string>
+	<key>DownloadCaptions</key>
+	<string>Altyazıları indir</string>
+	<key>DownloadCompleted</key>
+	<string>İndirme tamamlandı</string>
+	<key>DownloadManager</key>
+	<string>İndirme yöneticisi</string>
+	<key>DownloadManagerDesc</key>
+	<string>Oynatıcının altındaki 'İndir' düğmesi eylemini, Video, Ses, Küçük Resim Görüntüsü indirmeye ve Video Bilgilerini Kopyalamaya olanak tanıyan bir İndirme Yöneticisi ile değiştirir.</string>
+	<key>DownloadThumbnail</key>
+	<string>Küçük resmi kaydet</string>
+	<key>DownloadVideo</key>
+	<string>Videoyu indir</string>
+	<key>Downloading</key>
+	<string>İndirme</string>
+	<key>DownloadingAudio</key>
+	<string>Ses indiriliyor</string>
+	<key>DownloadingVideo</key>
+	<string>Video indiriliyor</string>
+	<key>DurationBased</key>
+	<string>Süreye dayalı</string>
+	<key>DurationWithoutSegments</key>
+	<string>Yeni süreyi göster</string>
+	<key>DurationWithoutSegmentsDesc</key>
+	<string>Kısımsız toplam süreyi gösterir.</string>
+	<key>EmbedAutoGenCaps</key>
+	<string>Otomatik oluşturulmuş/çeviri</string>
+	<key>EmbedAutoGenCapsDesc</key>
+	<string>Altyazılar listesine otomatik oluşturulmuş, çevrilmiş ve otomatik çevrilmiş altyazıları ekler.</string>
+	<key>EmbedCapsToVideos</key>
+	<string>Altyazıları göm</string>
+	<key>EmbedCapsToVideosDesc</key>
+	<string>Seçilen altyazıları videolara gömer.</string>
+	<key>EmbedThumbnailsToVideos</key>
+	<string>Embed thumbnails</string>
+	<key>EmbedThumbnailsToVideosDesc</key>
+	<string>Embeds the video's thumbnail as its metadata thumbnail.</string>
+	<key>EnableSponsorBlock</key>
+	<string>Etkinleştir</string>
+	<key>EnableSponsorBlockDesc</key>
+	<string>SponsorBlock eklentisini etkinleştirir.</string>
+	<key>Endcards</key>
+	<string>Bitiş Kartları/Jenerik</string>
+	<key>EndcardsColor</key>
+	<string>Jenerik kısmı rengi</string>
+	<key>EndcardsDesc</key>
+	<string>Genellikle videonun sonunda veya yakınında görünen bitiş kartlarının ve/veya jeneriklerin göründüğü kısımlar.</string>
+	<key>English</key>
+	<string>İngilizce</string>
+	<key>EnglishNotFound</key>
+	<string>İngilizce ses parçası bulunamadı</string>
+	<key>Error</key>
+	<string>Hata</string>
+	<key>Error.Clipboard</key>
+	<string>Hata oluştu. Daha fazla bilgi için panoyu kontrol edin</string>
+	<key>Error.FailedToImport</key>
+	<string>Tercihler içe aktarılamadı</string>
+	<key>Error.Multidownloading</key>
+	<string>Çoklu indirme henüz mevcut değil.</string>
+	<key>Error.NoSpace</key>
+	<string>Cihazda yetersiz alan.
+
+En az %@ ek serbest alan gereklidir. Mevcut serbest alan: %@</string>
+	<key>Error.PathIssue</key>
+	<string>Hata oluştu. Son yolun oluşturulmasında sorun. Medya başlığıyla ilgili sorun mu?</string>
+	<key>Error.SbPrivateID</key>
+	<string>The private (local) user ID must contain at least 32 characters</string>
+	<key>Error.SbPublicID</key>
+	<string>The public user ID must contain exactly 64 characters</string>
+	<key>Error.TryLater</key>
+	<string>Canlı yayın yapılıyor veya medya, Google sunucusunda işleme devam ediliyor.
+
+Lütfen daha sonra tekrar deneyin.</string>
+	<key>ExitFullscreen</key>
+	<string>Bitince tam ekran modundan çık</string>
+	<key>ExitFullscreenDesc</key>
+	<string>Video oynatımı sonunda tam ekran modundan çıkar.</string>
+	<key>ExportPreferences</key>
+	<string>Tercihleri dışa aktar</string>
+	<key>ExtraSpeedOptions</key>
+	<string>Ekstra hız seçenekleri</string>
+	<key>ExtraSpeedOptionsDesc</key>
+	<string>Oynatıcı menüsüne daha fazla video oynatma hızı seçeneği ekler.</string>
+	<key>FEexplore</key>
+	<string>Keşfet</string>
+	<key>FEhistory</key>
+	<string>Geçmiş</string>
+	<key>FElibrary</key>
+	<string>Siz/Kütüphane</string>
+	<key>FEpost_home</key>
+	<string>Posts</string>
+	<key>FEshorts</key>
+	<string>Shorts</string>
+	<key>FEsubscriptions</key>
+	<string>Abonelikler</string>
+	<key>FEuploads</key>
+	<string>Yeni</string>
+	<key>FEwhat_to_watch</key>
+	<string>Ana sayfa</string>
+	<key>Feed</key>
+	<string>Akış</string>
+	<key>FixAlbums</key>
+	<string>Kapakları düzelt</string>
+	<key>FixAlbumsDesc</key>
+	<string>Rusya'daki kullanıcılar için kapakların görüntülenmesini düzeltir.</string>
+	<key>Floating</key>
+	<string>Yüzen</string>
+	<key>FollowMe</key>
+	<string>Beni X'te takip edin</string>
+	<key>French</key>
+	<string>Fransızca yerelleştirme</string>
+	<key>FullscreenToTheLeft</key>
+	<string>Sol dönüşte tam ekran</string>
+	<key>FullscreenToTheLeftDesc</key>
+	<string>Tam ekran moduna geçiş, ekranı sola döndürecektir.</string>
+	<key>Gradient</key>
+	<string>Gradient</string>
+	<key>GradientColor</key>
+	<string>Gradient highlight</string>
+	<key>HideAutoplay</key>
+	<string>Otomatik oynatma anahtarını gizle</string>
+	<key>HideAutoplayDesc</key>
+	<string>Kaplama üzerinde Otomatik oynatma anahtarını gizler.</string>
+	<key>HideCarouselLive</key>
+	<string>Hide Live</string>
+	<key>HideCarouselLiveDesc</key>
+	<string>Removes Live button that appears in paused state.</string>
+	<key>HideCarouselShop</key>
+	<string>Hide Shop</string>
+	<key>HideCarouselShopDesc</key>
+	<string>Removes Shop button that appears in paused state.</string>
+	<key>HideCarouselSub</key>
+	<string>Hide Subscriptions</string>
+	<key>HideCarouselSubDesc</key>
+	<string>Removes Subscriptions button that appears in paused state.</string>
+	<key>HideCarouselTrends</key>
+	<string>Hide Trends</string>
+	<key>HideCarouselTrendsDesc</key>
+	<string>Removes Trends button that appears in paused state.</string>
+	<key>HideLibraryFooter</key>
+	<string>Tab settings are also accessible by long-pressing the first tab in the tab bar.</string>
+	<key>HidePrevNext</key>
+	<string>Önceki ve Sonraki düğmelerini gizle</string>
+	<key>HidePrevNextDesc</key>
+	<string>Kaplama üzerinde Önceki ve Sonraki video düğmelerini gizler.</string>
+	<key>HideShorts</key>
+	<string>Shorts videolarını gizle</string>
+	<key>HideShortsAudio</key>
+	<string>No audio indicator</string>
+	<key>HideShortsAudioDesc</key>
+	<string>Removes the line indicating the audio used in the Shorts.</string>
+	<key>HideShortsCamera</key>
+	<string>Kamera düğmesini gizle</string>
+	<key>HideShortsCameraDesc</key>
+	<string>Shorts üst bilgisinde kamera düğmesini gizler.</string>
+	<key>HideShortsComments</key>
+	<string>No Comments button</string>
+	<key>HideShortsCommentsDesc</key>
+	<string>Removes the Comments button from the action bar.</string>
+	<key>HideShortsDesc</key>
+	<string>Anasayfa, Önerilenler vb. yerlerden Shorts videolarını gizler.</string>
+	<key>HideShortsDescription</key>
+	<string>No description</string>
+	<key>HideShortsDescriptionDesc</key>
+	<string>Removes the Shorts description.</string>
+	<key>HideShortsDislike</key>
+	<string>No Dislike button</string>
+	<key>HideShortsDislikeDesc</key>
+	<string>Removes the Dislike button from the action bar.</string>
+	<key>HideShortsLike</key>
+	<string>No Like button</string>
+	<key>HideShortsLikeDesc</key>
+	<string>Removes the Like button from the action bar.</string>
+	<key>HideShortsLogo</key>
+	<string>Shorts logosunu gizle</string>
+	<key>HideShortsLogoDesc</key>
+	<string>Shorts logosunu sol üst köşede gizler.</string>
+	<key>HideShortsMore</key>
+	<string>Daha fazla (⋮) düğmesini gizle</string>
+	<key>HideShortsMoreDesc</key>
+	<string>Shorts üst bilgisinde Daha fazla (⋮) düğmesini gizler. Ekrana uzun süre basarak erişilebilir.</string>
+	<key>HideShortsRemix</key>
+	<string>No Remix button</string>
+	<key>HideShortsRemixDesc</key>
+	<string>Removes the Remix button from the action bar.</string>
+	<key>HideShortsSearch</key>
+	<string>Arama düğmesini gizle</string>
+	<key>HideShortsSearchDesc</key>
+	<string>Shorts üst bilgisinde arama düğmesini gizler.</string>
+	<key>HideShortsShare</key>
+	<string>No Share button</string>
+	<key>HideShortsShareDesc</key>
+	<string>Removes the Share button from the action bar.</string>
+	<key>HideShortsSource</key>
+	<string>No source link button</string>
+	<key>HideShortsSourceDesc</key>
+	<string>Removes the button that navigates to the full video or another Short video.</string>
+	<key>HideShortsSubscribe</key>
+	<string>No follow button</string>
+	<key>HideShortsSubscribeDesc</key>
+	<string>Removes the Follow button next to the username.</string>
+	<key>HideShortsSuggestion</key>
+	<string>No suggestions</string>
+	<key>HideShortsSuggestionDesc</key>
+	<string>Removes the button with suggestions, such as Add to playlist, Super Thanks, etc.</string>
+	<key>HideShortsUsername</key>
+	<string>No username</string>
+	<key>HideShortsUsernameDesc</key>
+	<string>Removes the channel name.</string>
+	<key>HideSortComments</key>
+	<string>Yorum başlığını gizle</string>
+	<key>HideSortCommentsDesc</key>
+	<string>Yorum sıralama başlığını (En iyi, En yeni) asla görünmeyecek şekilde gizler.</string>
+	<key>HideSubs</key>
+	<string>Altyazı düğmesini gizle</string>
+	<key>HideSubsDesc</key>
+	<string>Kaplama üzerinde Altyazı düğmesini gizler.</string>
+	<key>Highlight</key>
+	<string>Öne çıkan</string>
+	<key>HighlightColor</key>
+	<string>Öne çıkan kısmı rengi</string>
+	<key>HighlightDesc</key>
+	<string>Bir videonun öne çıkan noktasına veya önemli noktasına ulaşmak için kullanılır.</string>
+	<key>HoldToSpeed</key>
+	<string>Hızlandırmak için basılı tut</string>
+	<key>HoldToSpeedDesc</key>
+	<string>Sets the playback speed triggered by a long press on the player</string>
+	<key>ImportPreferences</key>
+	<string>Tercihleri içe aktar</string>
+	<key>InactiveTabs</key>
+	<string>Pasif sekmeler</string>
+	<key>Independent</key>
+	<string>Bağımsız</string>
+	<key>Interaction</key>
+	<string>Etkileşim hatırlatmaları</string>
+	<key>InteractionColor</key>
+	<string>Etkileşim kısmı rengi</string>
+	<key>InteractionDesc</key>
+	<string>Beğenme, abone olma veya ücretli/ücretsiz platform(lar)da etkileşimde bulunma gibi açık hatırlatmalar (örneğin, bir videoya tıklama)</string>
+	<key>Interface</key>
+	<string>Arayüz</string>
+	<key>InterfaceStyle</key>
+	<string>Arayüz stili</string>
+	<key>Intro</key>
+	<string>Ara/Giriş animasyonu</string>
+	<key>IntroColor</key>
+	<string>Ara/Giriş animasyonu kısmı rengi</string>
+	<key>IntroDesc</key>
+	<string>Videonun başında bulunan ve aynı içerik üreticisi tarafından yapılan diğer videolarda da görülen animasyon, durağan görüntü veya klip içeren kısımlar.</string>
+	<key>Italian</key>
+	<string>İtalyanca yerelleştirme</string>
+	<key>Japanese</key>
+	<string>Japonca yerelleştirme</string>
+	<key>Jokes</key>
+	<string>Konuyla Alakasız/Şaka</string>
+	<key>JokesColor</key>
+	<string>Şaka kısmı rengi</string>
+	<key>JokesDesc</key>
+	<string>Konuyla Alakasız/Şaka, videonun ana içeriğini anlamak için gerekli olmayan, yalnızca doldurma veya mizah amacıyla eklenen bağlantılı sahneler içindir.</string>
+	<key>KeepSubsShorts</key>
+	<string>Shorts videolarını Aboneliklerde tut</string>
+	<key>KeepSubsShortsDesc</key>
+	<string>Abonelikler sekmesindeki Shorts videolarını kaldırmayı engeller.</string>
+	<key>Korean</key>
+	<string>Korece yerelleştirme</string>
+	<key>LeftSideGesture</key>
+	<string>Sol taraf için hareket</string>
+	<key>LeftSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the left side of the screen</string>
+	<key>LibraryAdded</key>
+	<string>"Siz" sekmesi geri yüklendi</string>
+	<key>LibraryRemoved</key>
+	<string>"Siz" sekmesi kaldırıldı</string>
+	<key>LinkDetected</key>
+	<string>A YouTube-related link was detected. Would you like to open it in YouTube?</string>
+	<key>Localizations</key>
+	<string>Yerelleştirme yazarları</string>
+	<key>LockButton</key>
+	<string>Kilit düğmesi</string>
+	<key>LockButtonDesc</key>
+	<string>Kaplama üzerinde, ekranı hızlıca kilitlemek ve tam ekran moduna geçmek için bir düğme gösterir.</string>
+	<key>LoginInfo</key>
+	<string>Google hesabınıza başarılı bir şekilde giriş yaptıktan sonra uygulama yeniden başlatılmalıdır</string>
+	<key>Loop</key>
+	<string>Tekrarla</string>
+	<key>Main</key>
+	<string>Ana</string>
+	<key>MainColor</key>
+	<string>Main color</string>
+	<key>ManageCache</key>
+	<string>Önbelleği yönet</string>
+	<key>ManagePreferences</key>
+	<string>Tercihleri yönet</string>
+	<key>Miniplayer</key>
+	<string>Mini oynatıcıyı etkinleştir</string>
+	<key>MiniplayerDesc</key>
+	<string>Çocuklara yönelik videolar gibi başlangıçta mini oynatıcı için tasarlanmamış videolar için mini oynatıcıyı etkinleştirir.</string>
+	<key>MiniplayerStyle</key>
+	<string>Mini oynatıcı stili</string>
+	<key>MiniplayerStyleDesc</key>
+	<string>Yüzen stile geçmek/çıkmak için uygulamanın yeniden başlatılması gerekir.</string>
+	<key>MusicOfftopic</key>
+	<string>Müzik: Müzik dışı bölüm</string>
+	<key>MusicOfftopicColor</key>
+	<string>Müzik dışı kısmı rengi</string>
+	<key>MusicOfftopicDesc</key>
+	<string>Şarkıyı dinlemekten alıkoyan müzik oynatmadaki offtopic kısımları. Diğer kategoriye girmeyen müzik kliplerinin kısımları için kullanılır.</string>
+	<key>MuteButton</key>
+	<string>Sessiz düğmesi</string>
+	<key>MuteButtonDesc</key>
+	<string>Kaplama üzerinde sesi kapatma/açma düğmesini gösterir.</string>
+	<key>NativeShare</key>
+	<string>Yerel paylaşım sayfası</string>
+	<key>NativeShareDesc</key>
+	<string>Medya paylaşmak için sistem paylaşım sayfasını kullanır</string>
+	<key>Navbar</key>
+	<string>Gezinme çubuğu</string>
+	<key>No</key>
+	<string>Hayır</string>
+	<key>NoAutonavEndScreenCards</key>
+	<string>Otomatik oynatma bitiş ekranını gizle</string>
+	<key>NoAutonavEndScreenCardsDesc</key>
+	<string>Oynatma bittikten sonra ne oynatılacağını gösteren ekranı gizler. Bu seçeneği devre dışı bırakmak otomatik oynatmayı da devre dışı bırakır.</string>
+	<key>NoContentWarning</key>
+	<string>İçerik uyarısını atla</string>
+	<key>NoContentWarningDesc</key>
+	<string>Hassas içerik uyarı mesajını atlar.</string>
+	<key>NoDarkBg</key>
+	<string>Koyu arka planı kaldır</string>
+	<key>NoDarkBgDesc</key>
+	<string>Kaplama koyu arka planını kaldırır.</string>
+	<key>NoDonationReminder</key>
+	<string>Bağış hatırlatmasını kapat</string>
+	<key>NoDonationReminderDesc</key>
+	<string>Nadiren gösterilen bağış hatırlatmasını devre dışı bırakır.</string>
+	<key>NoDoubleTap2Seek</key>
+	<string>Çift dokunarak aramayı devre dışı bırak</string>
+	<key>NoDoubleTap2SeekDesc</key>
+	<string>Çift dokunarak arama hareketini devre dışı bırakır.</string>
+	<key>NoEndScreenCards</key>
+	<string>Bitiş ekranı hover kartlarını gizle</string>
+	<key>NoEndScreenCardsDesc</key>
+	<string>Videoların sonunda Bitiş ekranlarını (küçük resimler) gizler.</string>
+	<key>NoFreeZoom</key>
+	<string>Serbest yakınlaştırma hareketini devre dışı bırak</string>
+	<key>NoFreeZoomDesc</key>
+	<string>Yeni serbest yakınlaştırma hareketlerini devre dışı bırakır.</string>
+	<key>NoFullscreenActions</key>
+	<string>Tam ekran eylemlerini devre dışı bırak</string>
+	<key>NoFullscreenActionsDesc</key>
+	<string>Tam ekran modunda eylemler panelini devre dışı bırakır.</string>
+	<key>NoHints</key>
+	<string>İpuçlarını devre dışı bırak</string>
+	<key>NoHintsDesc</key>
+	<string>Oynatma ekranı kontrollerinin nasıl kullanılacağını açıklayan ipuçlarını devre dışı bırakır.</string>
+	<key>NoPromotionCards</key>
+	<string>Ücretli Promosyon kartlarını gizle</string>
+	<key>NoPromotionCardsDesc</key>
+	<string>Promosyon içeren videolarda "Ücretli Promosyonlar İçerir" kartını gizler.</string>
+	<key>NoRelatedVids</key>
+	<string>Kaplama içinde alakalı videolar bölümünü kaldır</string>
+	<key>NoRelatedVidsDesc</key>
+	<string>Kaplama içinde yukarı kaydırarak görüntülenen alakalı videoları kaldırır.</string>
+	<key>NoRelatedWatchNexts</key>
+	<string>Oynatıcı altındaki tüm videoları gizle</string>
+	<key>NoRelatedWatchNextsDesc</key>
+	<string>Oynatıcının altındaki tüm videoları gizler, yalnızca video bilgileri ve yorumlar bölümünü bırakır.</string>
+	<key>NoSearchHistory</key>
+	<string>Arama geçmişini gizle</string>
+	<key>NoSearchHistoryDesc</key>
+	<string>Arama geçmişini ve önerileri görsel olarak gizler. Not: Arama geçmişiniz diğer YouTube istemcilerinizde hala erişilebilir olacaktır.</string>
+	<key>NoShareChunk</key>
+	<string>Paylaşım tanımlayıcısını kaldır</string>
+	<key>NoShareChunkDesc</key>
+	<string>Paylaşılacak bağlantılardan "si=identifier" parametresini kaldırır. YouTube, paylaşım menüsünü geliştirmeye devam ettiği sebebiyle, "Yerel paylaşım sayfası" seçeneğine iyi bir alternatiftir.</string>
+	<key>NoSubUnderPlayer</key>
+	<string>Remove "Subscribe" button</string>
+	<key>NoSubUnderPlayerDesc</key>
+	<string>Removes "Subscribe" button under player.</string>
+	<key>NoSubbar</key>
+	<string>Alt çubuğu gizle</string>
+	<key>NoSubbarDesc</key>
+	<string>Gezinme çubuğunun altındaki Alt çubuğu (Hepsi, Sizin İçin Yeni, Canlı vb.) gizler.</string>
+	<key>NoTwoFingerSnapToChapter</key>
+	<string>İki parmak çift dokunma ile bölüme geçişi devre dışı bırak</string>
+	<key>NoTwoFingerSnapToChapterDesc</key>
+	<string>İki parmak çift dokunma ile bölüme geçişi devre dışı bırakır.</string>
+	<key>NoWatermarks</key>
+	<string>Filigranları gizle</string>
+	<key>NoWatermarksDesc</key>
+	<string>Oynatıcıdan kanal filigranlarını gizler.</string>
+	<key>NoYTLogo</key>
+	<string>YouTube logosunu kaldır</string>
+	<key>NoYTLogoDesc</key>
+	<string>Gezinme çubuğundaki YouTube logosunu kaldırır.</string>
+	<key>NothingToShowInMenu</key>
+	<string>Bu bağlam menüsünde gösterilecek hiçbir şey yok</string>
+	<key>OldYTUI</key>
+	<string>Eski arayüz</string>
+	<key>OldYTUIDesc</key>
+	<string>YouTube sürümünü sahte olarak göstererek eski arayüzü geri getirir</string>
+	<key>OledKeyboard</key>
+	<string>OLED klavye</string>
+	<key>OledKeyboardDesc</key>
+	<string>Koyu klavye için OLED temayı uygular</string>
+	<key>OledTheme</key>
+	<string>OLED teması</string>
+	<key>OledThemeDesc</key>
+	<string>Tüm koyu renkleri siyaha çevirir</string>
+	<key>OpenAsRegularVideo</key>
+	<string>Normal video olarak aç</string>
+	<key>OpenLink</key>
+	<string>Open link</string>
+	<key>OpenSourceLibs</key>
+	<string>Açık Kaynak Kütüphaneler</string>
+	<key>Original</key>
+	<string>Orijinal</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Overlay</key>
+	<string>Kaplama üzerinde</string>
+	<key>ParsingCaptions</key>
+	<string>Altyazılar indiriliyor</string>
+	<key>ParsingTranscript</key>
+	<string>Transkript oluşturuluyor</string>
+	<key>PauseOnOverlay</key>
+	<string>Üst bilgi üzerinde duraklat</string>
+	<key>PauseOnOverlayDesc</key>
+	<string>Üst bilgi görünürse oynatmayı duraklatır.</string>
+	<key>PersistentProgressBar</key>
+	<string>Kalıcı ilerleme çubuğu</string>
+	<key>PersistentProgressBarDesc</key>
+	<string>Oynatıcıda her zaman ilerleme çubuğunu gösterir.</string>
+	<key>PinchToFullscreenShorts</key>
+	<string>Tam ekran için sıkıştır</string>
+	<key>PinchToFullscreenShortsDesc</key>
+	<string>Sıkıştırma hareketleriyle üst bilgi görünürlüğünü yönetir, Shorts'u tam ekran modunda görüntüler.</string>
+	<key>PlayInExternalPlayer</key>
+	<string>Harici oynatıcıda oynat</string>
+	<key>PlayInInfuse</key>
+	<string>Infuse'da oynat</string>
+	<key>PlayInSystemPlayer</key>
+	<string>Sistemin oynatıcısında oynat</string>
+	<key>PlayInVLC</key>
+	<string>VLC'de oynat</string>
+	<key>PlaybackMode</key>
+	<string>Oynatma bittiğinde şu olsun:</string>
+	<key>PlaybackQualityOnCellular</key>
+	<string>Hücresel bağlantıda oynatma kalitesi</string>
+	<key>PlaybackQualityOnCellularDesc</key>
+	<string>Automatically applies the selected quality when streaming over mobile data</string>
+	<key>PlaybackQualityOnWiFi</key>
+	<string>WiFi'da oynatma kalitesi</string>
+	<key>PlaybackQualityOnWiFiDesc</key>
+	<string>Automatically applies the selected quality when streaming over Wi-Fi</string>
+	<key>PlaybackSpeed</key>
+	<string>Oynatma Hızı</string>
+	<key>Player</key>
+	<string>Oynatıcı</string>
+	<key>Player.Actions</key>
+	<string>Eylemler</string>
+	<key>Player.Gestures</key>
+	<string>Hareketle kontroller</string>
+	<key>Player.Interface</key>
+	<string>Arayüz</string>
+	<key>PlayerNoClip</key>
+	<string>Remove "Clip" button</string>
+	<key>PlayerNoClipDesc</key>
+	<string>Removes "Clip" button under player.</string>
+	<key>PlayerNoDownload</key>
+	<string>Remove "Download" button</string>
+	<key>PlayerNoDownloadDesc</key>
+	<string>Removes "Download" button under player.</string>
+	<key>PlayerNoRemix</key>
+	<string>Remove "Remix" button</string>
+	<key>PlayerNoRemixDesc</key>
+	<string>Removes "Remix" button under player.</string>
+	<key>PlayerNoReport</key>
+	<string>Remove "Report" button</string>
+	<key>PlayerNoReportDesc</key>
+	<string>Removes "Report" button under player.</string>
+	<key>PlayerNoSave</key>
+	<string>Remove "Save" button</string>
+	<key>PlayerNoSaveDesc</key>
+	<string>Removes "Save" button under player.</string>
+	<key>PlayerNoShare</key>
+	<string>Remove "Share" button</string>
+	<key>PlayerNoShareDesc</key>
+	<string>Removes "Share" button under player.</string>
+	<key>PlayerNoThanks</key>
+	<string>Remove "Thanks" button</string>
+	<key>PlayerNoThanksDesc</key>
+	<string>Removes "Thanks" button under player.</string>
+	<key>PlayerNotFound</key>
+	<string>Oynatıcı bulunamadı</string>
+	<key>PlaylistOldMinibar</key>
+	<string>Eski oynatma listesi minibarı</string>
+	<key>PlaylistOldMinibarDesc</key>
+	<string>Yeni kayan oynatma listesi panelini eski olanla değiştirir.</string>
+	<key>Polish</key>
+	<string>Lehçe yerelleştirme</string>
+	<key>PortraitFullscreen</key>
+	<string>Dikey tam ekran modu</string>
+	<key>PortraitFullscreenDesc</key>
+	<string>Dikey tam ekran modu desteğini etkinleştirir.</string>
+	<key>PostDownloadAction</key>
+	<string>İndirme sonrası eylem</string>
+	<key>PostDownloadDesc</key>
+	<string>Seçilen eylem, video indirme işlemi başarılı bir şekilde tamamlandığında gerçekleştirilecektir.</string>
+	<key>PostManager</key>
+	<string>Gönderi bilgisini kaydet</string>
+	<key>PostManagerDesc</key>
+	<string>Uzun basarak gönderi metnini kopyalamaya ve gönderiyi resim olarak kaydetmeye olanak tanır.</string>
+	<key>PreImportMessage</key>
+	<string>Bu işlem, geçerli tercihlerin yerini seçilen dosyadaki tercihlerle değiştirecektir.
+
+Devam etmek istediğinizden emin misiniz?</string>
+	<key>Preferences</key>
+	<string>%@ tercihleri</string>
+	<key>PreferredAudio</key>
+	<string>Tercih edilen ses parçası</string>
+	<key>PreferredCaptions</key>
+	<string>Tercih edilen altyazılar</string>
+	<key>PremiumYTLogo</key>
+	<string>Premium YouTube logosunu ayarla</string>
+	<key>PremiumYTLogoDesc</key>
+	<string>Gezinme çubuğuna Premium YouTube logosunu ayarlar.</string>
+	<key>PreserveSpeed</key>
+	<string>Lock speed</string>
+	<key>PreserveSpeedDesc</key>
+	<string>Locks at adjusted speed after gesture completion.</string>
+	<key>Preview</key>
+	<string>Önizleme</string>
+	<key>PreviewColor</key>
+	<string>Önizleme kısmı rengi</string>
+	<key>PreviewDesc</key>
+	<string>Bu videoda veya aynı serideki diğer videolarda nelerin geleceğini gösteren ve tüm bilgilerin daha sonra videoda tekrarlandığı kliplerin koleksiyonu.</string>
+	<key>PrivateUserID</key>
+	<string>Private UserID</string>
+	<key>ProgressBarStyle</key>
+	<string>Progress bar style</string>
+	<key>PublicUserID</key>
+	<string>Public UserID</string>
+	<key>RedProgressBar</key>
+	<string>Kırmızı ilerleme çubuğu</string>
+	<key>RedProgressBarDesc</key>
+	<string>Kırmızı ilerleme çubuğunu geri getirir.</string>
+	<key>RememberLoopMode</key>
+	<string>Döngü modunu hatırla</string>
+	<key>RememberLoopModeDesc</key>
+	<string>Oynatıcının ek ayarlarında seçilen döngü modunu hatırlar.</string>
+	<key>RemoveAds</key>
+	<string>Reklamları kaldır</string>
+	<key>RemoveAdsDesc</key>
+	<string>Uygulama içi reklamları kaldırır.</string>
+	<key>RemoveCast</key>
+	<string>Cast düğmesini gizle</string>
+	<key>RemoveCastDesc</key>
+	<string>Gezinme çubuğundan Cast düğmesini gizler.</string>
+	<key>RemoveCommentGuidelines</key>
+	<string>Yönergeleri kaldır</string>
+	<key>RemoveCommentGuidelinesDesc</key>
+	<string>Yorumlar bölümündeki sabitlenmiş yönergeleri kaldırır.</string>
+	<key>RemoveCommunityPosts</key>
+	<string>Topluluk gönderilerini kaldır</string>
+	<key>RemoveCommunityPostsDesc</key>
+	<string>Akıştan topluluk gönderilerini kaldırır.</string>
+	<key>RemoveDontRecommendMenu</key>
+	<string>"Kanalı önermeyin"i kaldır</string>
+	<key>RemoveDontRecommendMenuDesc</key>
+	<string>Menüden "Kanalı önerme" seçeneğini kaldırır.</string>
+	<key>RemoveDownloadMenu</key>
+	<string>"İndir"i kaldır</string>
+	<key>RemoveDownloadMenuDesc</key>
+	<string>Menüden "İndir" seçeneğini kaldırır.</string>
+	<key>RemoveHorizontalFeeds</key>
+	<string>Yatay akışları kaldır</string>
+	<key>RemoveHorizontalFeedsDesc</key>
+	<string>Ana sekmesinden tüm yatay akışları (Haberler, İzlemeye Devam Et, Gönderi koleksiyonu, vb.) kaldırır.</string>
+	<key>RemoveIndicators</key>
+	<string>Göstergeleri kaldır</string>
+	<key>RemoveInlineComment</key>
+	<string>Satır içi yorumu kaldır</string>
+	<key>RemoveInlineCommentDesc</key>
+	<string>Oynatıcının altındaki yorum bölümünü kaldırır.</string>
+	<key>RemoveLabels</key>
+	<string>Etiketleri kaldır</string>
+	<key>RemoveLibraryTab</key>
+	<string>"Siz" sekmesini kaldır</string>
+	<key>RemoveLiveVids</key>
+	<string>Canlı yayınları kaldır</string>
+	<key>RemoveLiveVidsDesc</key>
+	<string>Ana sekmesinden canlı yayınları kaldırır.</string>
+	<key>RemoveMixPlaylists</key>
+	<string>Karışımları kaldır</string>
+	<key>RemoveMixPlaylistsDesc</key>
+	<string>YouTube tarafından oluşturulan karışım çalma listesini akıştan kaldırır.</string>
+	<key>RemoveMoreTopics</key>
+	<string>"Daha fazla konu"yu kaldır</string>
+	<key>RemoveMoreTopicsDesc</key>
+	<string>Akıştan "Daha fazla konu"yu kaldırır.</string>
+	<key>RemoveNotInterestedMenu</key>
+	<string>"İlgilenmiyorum"u kaldır</string>
+	<key>RemoveNotInterestedMenuDesc</key>
+	<string>Menüden "İlgilenmiyorum" seçeneğini kaldırır.</string>
+	<key>RemoveNotifications</key>
+	<string>Bildirimler düğmesini gizle</string>
+	<key>RemoveNotificationsDesc</key>
+	<string>Gezinme çubuğundan Bildirimler düğmesini gizler.</string>
+	<key>RemovePlayNext</key>
+	<string>"Sıranın başına ekle"yi kaldır</string>
+	<key>RemovePlayNextDesc</key>
+	<string>Menüden "Sıranın başına ekle" seçeneğini kaldırır.</string>
+	<key>RemovePlayables</key>
+	<string>Mini oyunları kaldır</string>
+	<key>RemovePlayablesDesc</key>
+	<string>Akıştan mini oyunları (Playables) kaldırır.</string>
+	<key>RemoveRemixMenu</key>
+	<string>Remove "Remix"</string>
+	<key>RemoveRemixMenuDesc</key>
+	<string>Removes "Remix" option from menu.</string>
+	<key>RemoveReportMenu</key>
+	<string>"Bildir"i kaldır</string>
+	<key>RemoveReportMenuDesc</key>
+	<string>Menüden "Bildir" seçeneğini kaldırır.</string>
+	<key>RemoveSaveToPlaylistMenu</key>
+	<string>"Oynatma listesine kaydet"i kaldır</string>
+	<key>RemoveSaveToPlaylistMenuDesc</key>
+	<string>Menüden "Oynatma listesine kaydet" seçeneğini kaldırır.</string>
+	<key>RemoveSearch</key>
+	<string>Arama düğmesini gizle</string>
+	<key>RemoveSearchDesc</key>
+	<string>Gezinme çubuğundan Arama düğmesini gizler.</string>
+	<key>RemoveShareMenu</key>
+	<string>"Paylaş"ı kaldır</string>
+	<key>RemoveShareMenuDesc</key>
+	<string>Menüden "Paylaş" seçeneğini kaldırır.</string>
+	<key>RemoveShortsLive</key>
+	<string>Canlı yayınları kaldır</string>
+	<key>RemoveShortsLiveDesc</key>
+	<string>Akıştaki canlı yayınları kaldırır.</string>
+	<key>RemoveVoiceSearch</key>
+	<string>Sesli arama düğmesini gizle</string>
+	<key>RemoveVoiceSearchDesc</key>
+	<string>Gezinme çubuğundan Sesli arama düğmesini gizler.</string>
+	<key>RemoveWatchLaterMenu</key>
+	<string>"Daha Sonra İzle'ye Kaydet"i kaldır</string>
+	<key>RemoveWatchLaterMenuDesc</key>
+	<string>Menüden "Daha Sonra İzle'ye Kaydet" seçeneğini kaldırır.</string>
+	<key>RemoveYTMMenu</key>
+	<string>Remove "YouTube Music"</string>
+	<key>RemoveYTMMenuDesc</key>
+	<string>Removes "Listen with YouTube Music" option from menu.</string>
+	<key>ReplacePrevNext</key>
+	<string>İleri sar ve Geri sar düğmeleri</string>
+	<key>ReplacePrevNextDesc</key>
+	<string>Kaplama üzerinde Önceki ve Sonraki video düğmelerini İleri sar ve Geri sar düğmeleri ile değiştirir.</string>
+	<key>ResetMessage</key>
+	<string>Bu işlem YTPlus ayarlarını varsayılana sıfırlayacak ve YouTube'u kapatacaktır.
+
+Devam etmek istediğinizden emin misiniz?</string>
+	<key>ResetSettings</key>
+	<string>Ayarları varsayılanlara döndür</string>
+	<key>ResetSpeed</key>
+	<string>Sıfırla</string>
+	<key>RestrictShorts</key>
+	<string>Shorts sayısını kısıtla</string>
+	<key>RestrictShortsDesc</key>
+	<string>Akıştaki Shorts sayısını 10-15 ile sınırlar. Sonsuz kaydırma alışkanlığından kaçınmak isteyenler için faydalı olabilir.</string>
+	<key>RetryLogin</key>
+	<string>Geçici çözüm etkinleştirildi.
+
+Lütfen tekrar deneyin.</string>
+	<key>RightSideGesture</key>
+	<string>Sağ taraf için hareket</string>
+	<key>RightSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the right side of the screen</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>SaveCommentAsImage</key>
+	<string>Yorumu görüntü olarak kaydet</string>
+	<key>SaveCurrentImage</key>
+	<string>Mevcut görüntüyü kaydet</string>
+	<key>SaveImage</key>
+	<string>Görüntüyü kaydet</string>
+	<key>SavePostAsImage</key>
+	<string>Gönderiyi görüntü olarak kaydet</string>
+	<key>SaveProfilePhoto</key>
+	<string>Profil resmini kaydet</string>
+	<key>SaveProfilePhotoDesc</key>
+	<string>Uzun basarak profil resmini Fotoğraflar uygulamasına kaydeder.</string>
+	<key>SaveProfilePicture</key>
+	<string>Profil resmini kaydet</string>
+	<key>SaveToPhotos</key>
+	<string>Fotoğraflara kaydet</string>
+	<key>Saved</key>
+	<string>Fotoğraflara kaydedildi</string>
+	<key>Sb.Alphabetical</key>
+	<string>Alphabetical (A-Z)</string>
+	<key>Sb.AlphabeticalRev</key>
+	<string>Reverse (Z-A)</string>
+	<key>Sb.Ask</key>
+	<string>Sor</string>
+	<key>Sb.Channels</key>
+	<string>Channels</string>
+	<key>Sb.ChannelsHere</key>
+	<string>Whitelisted channels appear here</string>
+	<key>Sb.Disable</key>
+	<string>Devre Dışı</string>
+	<key>Sb.Display</key>
+	<string>Oynatıcıda göster</string>
+	<key>Sb.Newest</key>
+	<string>Newest first</string>
+	<key>Sb.Oldest</key>
+	<string>Oldest first</string>
+	<key>Sb.Skip</key>
+	<string>Otomatik atla</string>
+	<key>Sb.SkipTo</key>
+	<string>Segment'e atla</string>
+	<key>Sb.Whitelist</key>
+	<string>Whitelisted channels</string>
+	<key>Sb.Whitelisted</key>
+	<string>Added to the whitelist</string>
+	<key>SbAddToWhitelist</key>
+	<string>Add to the whitelist</string>
+	<key>SbPlayerButton</key>
+	<string>Display button in overlay</string>
+	<key>SbPlayerButtonDesc</key>
+	<string>Adds SponsorBlock button in players overlay.</string>
+	<key>SbRemoveFromWhitelist</key>
+	<string>Remove from the whitelist</string>
+	<key>SbWhitelist</key>
+	<string>Whitelist</string>
+	<key>ScrollToNext</key>
+	<string>Sonrakiye kaydır</string>
+	<key>ScrubberColor</key>
+	<string>Scrubber color</string>
+	<key>SeekAnywhere</key>
+	<string>Kaydırarak sarma</string>
+	<key>SeekAnywhereDesc</key>
+	<string>Oynatmayı, parmağınızı sola ve sağa kaydırarak sarmanıza olanak tanır.</string>
+	<key>SeekMethod</key>
+	<string>Sarma yöntemi</string>
+	<key>SeekMethodDesc</key>
+	<string>Bağımsız: Tüm video süresi boyunca serbest hızlı kaydırma. Yalnızca sarma hassasiyeti dikkate alınır.
+
+Süreye dayalı: Kaydırma gücü, videonun uzunluğuna ve sarma hassasiyetine bağlı olacaktır. Bu, uzun videolar için büyük bölümleri atlamayı önlemek adına yararlıdır.</string>
+	<key>SeekSensitivity</key>
+	<string>Sarma hassasiyeti</string>
+	<key>SegmentDetected</key>
+	<string>%@ detected.
+%@</string>
+	<key>SegmentSkipAudio</key>
+	<string>Sesli uyarı</string>
+	<key>SegmentSkipAudioDesc</key>
+	<string>Bir kısım atlandığında sesli uyarı çalar.</string>
+	<key>SegmentSkipped</key>
+	<string>%@ has been skipped</string>
+	<key>Segments</key>
+	<string>Kısımlar</string>
+	<key>SegmentsInFeedPlayer</key>
+	<string>Akışta göster</string>
+	<key>SegmentsInFeedPlayerDesc</key>
+	<string>Akışta, oynatıcının ilerleme çubuğunda renkli kısımları gösterir.</string>
+	<key>SegmentsInMiniPlayer</key>
+	<string>Mini oynatıcıda göster</string>
+	<key>SegmentsInMiniPlayerDesc</key>
+	<string>Mini oynatıcının ilerleme çubuğunda renkli kısımları gösterir.</string>
+	<key>Select</key>
+	<string>Seç</string>
+	<key>SelectAction</key>
+	<string>Eylem seç</string>
+	<key>SelectAudioTrack</key>
+	<string>Ses parçası seçin</string>
+	<key>SelectCaption</key>
+	<string>Altyazıları seç</string>
+	<key>Selected</key>
+	<string>Seçilen</string>
+	<key>SelfPromo</key>
+	<string>Ücretsiz/Kendini reklamlama</string>
+	<key>SelfPromoColor</key>
+	<string>Kendini reklamlama kısmı rengi</string>
+	<key>SelfPromoDesc</key>
+	<string>Kendini reklamlama: İçerik üreticisiyle doğrudan ilişkili bir ürünü veya hizmeti tanıtma.
+Ücretsiz: İçerik üreticisi bu tanıtım karşılığında herhangi bir ödeme almaz.</string>
+	<key>Share</key>
+	<string>Paylaş</string>
+	<key>Shorts</key>
+	<string>Shorts</string>
+	<key>ShortsInterface</key>
+	<string>Interface</string>
+	<key>ShortsModeTurnedOff</key>
+	<string>Sadece Shorts Modu kapatıldı</string>
+	<key>ShortsOnlyMode</key>
+	<string>Sadece Shorts Modu</string>
+	<key>ShortsOnlyModeDesc</key>
+	<string>YouTube işlevselliğini yalnızca Shorts izlemeyle sınırlar.</string>
+	<key>ShortsOnlyWarning</key>
+	<string>Bu modu etkinleştirmek istediğinizden emin misiniz?
+
+Bu modda, yalnızca Shorts videolarını izleyebilir ve başka hiçbir şey yapamazsınız.
+
+Shorts Sadece Modunu devre dışı bırakmak için Shorts oynatıcıda iki parmakla uzun basmanız yeterlidir.</string>
+	<key>ShortsProgress</key>
+	<string>İlerleme çubuğunu etkinleştir</string>
+	<key>ShortsProgressDesc</key>
+	<string>Shorts üst bilgisinde ilerleme çubuğunu gösterir.</string>
+	<key>ShortsToRegular</key>
+	<string>Shorts'u normal videolar olarak aç</string>
+	<key>ShortsToRegularDesc</key>
+	<string>Shorts videolarını normal videolar olarak açar.</string>
+	<key>Show</key>
+	<string>Göster</string>
+	<key>ShowCurrentImage</key>
+	<string>Mevcut görüntüyü göster</string>
+	<key>ShowNotifications</key>
+	<string>Bildirimleri göster</string>
+	<key>ShowNotificationsDesc</key>
+	<string>Otomatik olarak atlanan kısımlar için bildirimler gösterir. Manuel olarak atlama gerektiren kısımlar için bildirimler her zaman görüntülenir.</string>
+	<key>ShowProfilePicture</key>
+	<string>Profil resmini göster</string>
+	<key>ShowThumbnail</key>
+	<string>Küçük resmi göster</string>
+	<key>SkipAlertDuration</key>
+	<string>Atlama Uyarı Süresi</string>
+	<key>SkipSegment</key>
+	<string>Would you like to skip the segment?</string>
+	<key>SkipToSegment</key>
+	<string>Would you like to jump to the highlight?</string>
+	<key>SkippedToSegment</key>
+	<string>Jumped to %@</string>
+	<key>SolidColor</key>
+	<string>Solid color</string>
+	<key>SortType</key>
+	<string>Sort type</string>
+	<key>Spanish</key>
+	<string>İspanyolca yerelleştirme</string>
+	<key>SpecialThanks</key>
+	<string>Özel teşekkürler</string>
+	<key>SpecialThanks.Test</key>
+	<string>Değerli test katkısı</string>
+	<key>SpeedByLongTap</key>
+	<string>Shorts oynatma hızını artır</string>
+	<key>SpeedByLongTapDesc</key>
+	<string>Ekranın belirli bir kısmına uzun süre basarak oynatma hızını artırmanıza olanak tanır.</string>
+	<key>SpeedControls</key>
+	<string>Hız kontrolleri</string>
+	<key>SpeedControlsDesc</key>
+	<string>Kaplama üzerinde hız kontrol düğmelerini gösterir</string>
+	<key>SpeedLocation</key>
+	<string>Etkinleştirme konumu</string>
+	<key>SpeedPreserved</key>
+	<string>Speed locked at %@</string>
+	<key>Sponsor</key>
+	<string>Sponsor</string>
+	<key>SponsorColor</key>
+	<string>Sponsor kısmı rengi</string>
+	<key>SponsorDesc</key>
+	<string>Ücretli tanıtım, ücretli yönlendirmeler ve doğrudan reklamlar.</string>
+	<key>Startup</key>
+	<string>Başlangıç sayfası</string>
+	<key>StartupAnimation</key>
+	<string>Başlangıç animasyonu</string>
+	<key>StartupAnimationDesc</key>
+	<string>YouTube başlangıç yükleme animasyonunu gösterir</string>
+	<key>StickSortComments</key>
+	<string>Yorum başlığını sabitle</string>
+	<key>StickSortCommentsDesc</key>
+	<string>Yorum sıralama başlığını (En iyi, En yeni) kaydırma sırasında kaybolmayacak şekilde sabitler.</string>
+	<key>StickyNavbar</key>
+	<string>Sabit gezinme çubuğu</string>
+	<key>StickyNavbarDesc</key>
+	<string>Gezinme çubuğunu sabitler, böylece aşağı kaydırırken görünür kalır.</string>
+	<key>StockVolumeHUD</key>
+	<string>Sistem ses HUD'u</string>
+	<key>StockVolumeHUDDesc</key>
+	<string>Tam ekran modunda sistem ses HUD'unu gösterir.</string>
+	<key>Stop</key>
+	<string>Durdur</string>
+	<key>SupportDevelopment</key>
+	<string>Gelişimi destekleyin</string>
+	<key>SupportDevelopmentDesc</key>
+	<string>YTPlus'u beğendiyseniz ve gelişimini desteklemek isterseniz, aşağıdaki uygun yolları kullanarak destek olabilirsiniz.
+Teşekkürler❤</string>
+	<key>SupportMe</key>
+	<string>Beni destekleyin</string>
+	<key>SupporterWall</key>
+	<string>Sponsorlar</string>
+	<key>Tabbar</key>
+	<string>Sekme çubuğu</string>
+	<key>TabsCountRestricted</key>
+	<string>En fazla altı sekme ekleyebilirsiniz</string>
+	<key>TapToReveal</key>
+	<string>Tap to reveal</string>
+	<key>Toast.Brightness</key>
+	<string>Parlaklık</string>
+	<key>Toast.PlaybackSpeed</key>
+	<string>Oynatma Hızı</string>
+	<key>Toast.Volume</key>
+	<string>Ses</string>
+	<key>Translated</key>
+	<string>çeviri</string>
+	<key>TranslatedAutoGen</key>
+	<string>otomatik çeviri</string>
+	<key>TranslucentBar</key>
+	<string>Translucent tab bar</string>
+	<key>Turkish</key>
+	<string>Türkçe yerelleştirme</string>
+	<key>TwoFingerPanToBrightness</key>
+	<string>Parlaklığı ayarla</string>
+	<key>TwoFingerPanToBrightnessDesc</key>
+	<string>Ekranı iki parmakla yukarı/aşağı kaydırarak parlaklığı ayarlamanıza olanak tanır.</string>
+	<key>TwoFingerTapToPause</key>
+	<string>İki parmakla duraklat</string>
+	<key>TwoFingerTapToPauseDesc</key>
+	<string>Ekrana iki parmakla dokunarak oynatmayı duraklatır/yeniden başlatır.</string>
+	<key>UnderPlayer</key>
+	<string>Oynatıcının altında</string>
+	<key>Unskip</key>
+	<string>Geri atla</string>
+	<key>UnskipAlertDuration</key>
+	<string>Geri Atlama Uyarı Süresi</string>
+	<key>VLWL</key>
+	<string>Sonra izle</string>
+	<key>VideoEndTime</key>
+	<string>Oynatma bitiş zamanını göster</string>
+	<key>VideoEndTimeDesc</key>
+	<string>Oynatıcı çubuğuna video oynatma bitiş zamanını ekler.</string>
+	<key>Vietnamese</key>
+	<string>Vietnamca yerelleştirme</string>
+	<key>VisitGithub</key>
+	<string>Github Havuzu</string>
+	<key>VisitGithubDesc</key>
+	<string>Havuza yıldız verin, özellik isteyin veya sorun bildirin</string>
+	<key>VisitTelegram</key>
+	<string>Telegram Kanalım</string>
+	<key>VisitTelegramDesc</key>
+	<string>Uygulamanın en son güncellemelerinden haberdar olun</string>
+	<key>Warning</key>
+	<string>Uyarı</string>
+	<key>Welcome.Content</key>
+	<string>Arayüzü Ayarla</string>
+	<key>Welcome.ContentDesc</key>
+	<string>İstenmeyen içerikleri ve arayüz öğelerini kaldırın. Gerçek OLED karanlık modunu etkinleştirin</string>
+	<key>Welcome.Download</key>
+	<string>Medya İndir</string>
+	<key>Welcome.DownloadDesc</key>
+	<string>En sevdiğiniz içerikleri indirin, ister Videolar, Shorts, Sesler, ister Profil fotoğrafları olsun. İlginç gönderileri ve yorumları kopyalayın veya görüntü olarak kaydedin</string>
+	<key>Welcome.More</key>
+	<string>Ve daha fazlası...</string>
+	<key>Welcome.MoreDesc</key>
+	<string>YouTube Plus, tercihlerinizi kaydetme ve önbelleği temizleme gibi 50'den fazla farklı seçenek içerir. Ayarlar YouTube ayarları altındaki YouTube Plus bölümünde mevcuttur</string>
+	<key>Welcome.Player</key>
+	<string>Oynatıcı Davranışını Ayarla</string>
+	<key>Welcome.PlayerDesc</key>
+	<string>Oynatıcının davranışını özelleştirin, kaliteyi ve oynatma hızını otomatik seçin. Hareketlerle kontrol edin</string>
+	<key>Yes</key>
+	<string>Evet</string>
+	<key>YtlButtonPosition</key>
+	<string>İndirme düğmesi yerleşimi</string>
+	<key>sb_filler</key>
+	<string>Doldurma/Şaka kısmı</string>
+	<key>sb_interaction</key>
+	<string>Etkileşim kısmı</string>
+	<key>sb_intro</key>
+	<string>Giriş kısmı</string>
+	<key>sb_music_offtopic</key>
+	<string>Müzik dışı kısmı</string>
+	<key>sb_outro</key>
+	<string>Bitiş kartları kısmı</string>
+	<key>sb_poi_highlight</key>
+	<string>Highlight</string>
+	<key>sb_preview</key>
+	<string>Önizleme kısmı</string>
+	<key>sb_selfpromo</key>
+	<string>Kendini reklamlama kısmı</string>
+	<key>sb_sponsor</key>
+	<string>Sponsor kısmı</string>
+</dict>
+</plist>

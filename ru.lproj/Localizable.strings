@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24hrFormat</key>
+	<string>24-часовой формат</string>
+	<key>24hrFormatDesc</key>
+	<string>Отображает время окончания в 24-часовом формате.</string>
+	<key>ActivationAreaWidth</key>
+	<string>Ширина активации жестов</string>
+	<key>ActivationAreaWidthDesc</key>
+	<string>Данное значение отвечает за зону распознавания жестов в пикселях для левой и правой части экрана.
+
+Максимально допустимое значение - треть ширины экрана.
+
+Настройка данной опции полезна для избежания случайной активации при попытке свернуть или развернуть плеер.</string>
+	<key>ActiveTabs</key>
+	<string>Отображаемые вкладки</string>
+	<key>AddLibraryTab</key>
+	<string>Добавить вкладку «Вы»</string>
+	<key>AdjustWithFinger</key>
+	<string>Регулировать скорость жестами</string>
+	<key>AdjustWithFingerDesc</key>
+	<string>Позволяет регулировать скорость зажатием и вертикальным движением пальца по окну плеера.</string>
+	<key>Arabic</key>
+	<string>Арабская локализация</string>
+	<key>Ask</key>
+	<string>Спросить</string>
+	<key>AtLeastOneTab</key>
+	<string>Как минимум одна вкладка должна оставаться активной</string>
+	<key>AudioDRC</key>
+	<string>Предпочитать стабилизированную громкость</string>
+	<key>AudioDRCDesc</key>
+	<string>Загрузчик будет отдавать предпочтение аудиодорожке с наличием постоянного уровня громкости (сжатие динамического диапазона), если такие имеются.</string>
+	<key>Audios</key>
+	<string>Аудио</string>
+	<key>AutoCheckLinks</key>
+	<string>Автопроверка буфера обмена</string>
+	<key>AutoCheckLinksDesc</key>
+	<string>Проверять буфер обмена на наличие ссылок YouTube при каждом запуске приложения.
+Для корректной работы перейдите в Настройки iOS → YouTube → Вставка из других приложений и выберите «Разрешить»</string>
+	<key>AutoFullscreen</key>
+	<string>Открывать в полноэкранном режиме</string>
+	<key>AutoFullscreenDesc</key>
+	<string>Автоматически воспроизводит ролики в полноэкранном режиме.</string>
+	<key>AutoGenCaps</key>
+	<string>Автоматические субтитры</string>
+	<key>AutoGenCapsDesc</key>
+	<string>Если выбранные субтитры не найдены, YouTube Plus попытается выбрать либо перевод оригинальных субтитров, либо перевод автоматически сгенерированных субтитров.</string>
+	<key>AutoSkipShorts</key>
+	<string>Автопереход к следующему</string>
+	<key>BackgroundPlayback</key>
+	<string>Фоновое воспроизведение</string>
+	<key>BackgroundPlaybackDesc</key>
+	<string>Активирует фоновое воспроизведение.</string>
+	<key>Best</key>
+	<string>Лучшее</string>
+	<key>Both</key>
+	<string>Оба</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Cancelled</key>
+	<string>Операция отменена</string>
+	<key>CaptionsAndThumbnails</key>
+	<string>Обложки и субтитры</string>
+	<key>ChineseSimplified</key>
+	<string>Китайская (упрощенная) локализация</string>
+	<key>ChineseTraditional</key>
+	<string>Китайская (традиционная) локализация</string>
+	<key>ClassicQuality</key>
+	<string>Классический выбор качества</string>
+	<key>ClassicQualityDesc</key>
+	<string>Возвращает классическое меню выбора качества в меню плеера.</string>
+	<key>ClearCache</key>
+	<string>Очистить кеш</string>
+	<key>ClearCacheAtStart</key>
+	<string>Очищать кеш при запуске</string>
+	<key>ClearCacheAtStartDesc</key>
+	<string>Автоматическая очистка кеша при каждом запуске.</string>
+	<key>CommentManager</key>
+	<string>Сохранять информацию с комментариев</string>
+	<key>CommentManagerDesc</key>
+	<string>Позволяет скопировать текст из комментария или сохранить комментарий как фото долгим нажатием по нему.</string>
+	<key>CompactToast</key>
+	<string>Компактный тост</string>
+	<key>CompactToastDesc</key>
+	<string>Отображает тост используемых в плеере жестов в компактном режиме</string>
+	<key>Conflicts.AcceptRisks</key>
+	<string>Я принимаю все риски</string>
+	<key>Conflicts.CloseYT</key>
+	<string>Закрыть YouTube</string>
+	<key>Conflicts.Detected</key>
+	<string>Обнаружены несовместимые твики</string>
+	<key>Conflicts.DetectedDesc</key>
+	<string>Несмотря на кажущуюся стабильность работы приложения, разработчик YouTube Plus не рекомендует совмещать схожие по функциональности твики в одном приложении и не может гарантировать безопасность использования.
+
+Продолжая использование, вы берете на себя всю ответственность и соглашаетесь с тем, что жалобы на работоспособность будут игнорироваться.</string>
+	<key>Conflicts.SkipThisVersion</key>
+	<string>Не показывать для текущей версии</string>
+	<key>ContextMenu</key>
+	<string>Контекстное меню</string>
+	<key>Continue</key>
+	<string>Продолжить</string>
+	<key>Contributors</key>
+	<string>Благодарность</string>
+	<key>Converting</key>
+	<string>Конвертация</string>
+	<key>Copied</key>
+	<string>Скопировано в буфер обмена</string>
+	<key>Copy</key>
+	<string>Скопировать</string>
+	<key>CopyChannelName</key>
+	<string>Скопировать название канала</string>
+	<key>CopyCommentAsImage</key>
+	<string>Скопировать комментарий как фото</string>
+	<key>CopyCommentText</key>
+	<string>Скопировать текст комментария</string>
+	<key>CopyCurrentImage</key>
+	<string>Скопировать данное фото</string>
+	<key>CopyDescription</key>
+	<string>Скопировать описание</string>
+	<key>CopyInformation</key>
+	<string>Скопировать информацию</string>
+	<key>CopyPostAsImage</key>
+	<string>Скопировать пост как фото</string>
+	<key>CopyPostText</key>
+	<string>Скопировать текст поста</string>
+	<key>CopyProfilePicture</key>
+	<string>Скопировать фото профиля</string>
+	<key>CopyThumbnail</key>
+	<string>Скопировать обложку</string>
+	<key>CopyTimestampedLink</key>
+	<string>Скопировать ссылку со временной отметкой</string>
+	<key>CopyTitle</key>
+	<string>Скопировать название видео</string>
+	<key>CopyTranscript</key>
+	<string>Скопировать транскрипт</string>
+	<key>CopyWithTimestamp</key>
+	<string>Ссылки с временными отметками</string>
+	<key>CopyWithTimestampDesc</key>
+	<string>Позволяет скопировать ссылку на видео с временной отметкой в буфер обмена нажатием на кнопку паузы.</string>
+	<key>Credits</key>
+	<string>Авторы</string>
+	<key>Custom</key>
+	<string>Выбрать вручную</string>
+	<key>CustomAudioTrack</key>
+	<string>Язык звуковой дорожки</string>
+	<key>CustomAudioTrackDesc</key>
+	<string>Устанавливает выбранную звуковую дорожку в качестве предпочитаемой, если такая существует</string>
+	<key>CustomCaptions</key>
+	<string>Язык субтитров</string>
+	<key>CustomCaptionsDesc</key>
+	<string>Устанавливает выбранный язык субтитров в качестве предпочитаемых, если такие существуют</string>
+	<key>Default</key>
+	<string>По умолчанию</string>
+	<key>DefaultPlaybackRate</key>
+	<string>Скорость воспроизведения по умолчанию</string>
+	<key>DefaultPlaybackRateDesc</key>
+	<string>Переназначает скорость воспроизведения видео по умолчанию</string>
+	<key>DevContribution</key>
+	<string>Вклад в разработку</string>
+	<key>Developer</key>
+	<string>Разработчик</string>
+	<key>Disable</key>
+	<string>Отключено</string>
+	<key>DisableAmbientMode</key>
+	<string>Отключить «Профессиональное освещение»</string>
+	<key>DisableAmbientModeDesc</key>
+	<string>Отключает «Профессиональное освещение» как в плеере, так и под ним.</string>
+	<key>DisableAutoCaptions</key>
+	<string>Запретить автоматические субтитры</string>
+	<key>DisableAutoCaptionsDesc</key>
+	<string>Отключает включенные по умолчанию субтитры.</string>
+	<key>DisableAutoplay</key>
+	<string>Запретить автовоспроизведение</string>
+	<key>DisableAutoplayDesc</key>
+	<string>Принудительно запрещает автовоспроизведение видео при его открытии.</string>
+	<key>DisableRTL</key>
+	<string>Запретить формат «справа налево»</string>
+	<key>DisableRTLDesc</key>
+	<string>Принудительно отображает текст в формате слева направо для языков, изначально отображающихся в формате справа налево.</string>
+	<key>Disabled</key>
+	<string>Отключить</string>
+	<key>DonateDesc</key>
+	<string>Ваша поддержка важна для меня</string>
+	<key>DonationReminder</key>
+	<string>Ваша поддержка помогает делать YouTube Plus лучше.
+
+Вы можете внести свой вклад или отключить данное напоминание в настройках YouTube Plus. Спасибо💜</string>
+	<key>Done</key>
+	<string>Готово</string>
+	<key>DontSnap2Chapter</key>
+	<string>Не перематывать эпизоды</string>
+	<key>DontSnap2ChapterDesc</key>
+	<string>Отключает жест перемотки к следующему эпизоду двойным нажатием.</string>
+	<key>DownloadAudio</key>
+	<string>Скачать аудио</string>
+	<key>DownloadCaptions</key>
+	<string>Скачать субтитры</string>
+	<key>DownloadCompleted</key>
+	<string>Загрузка завершена</string>
+	<key>DownloadManager</key>
+	<string>Менеджер загрузок</string>
+	<key>DownloadManagerDesc</key>
+	<string>Расширяет возможности кнопки «Скачать» под плеером, позволяя скачивать Видео, Аудио, Обложки и Копировать информацию о видео.</string>
+	<key>DownloadThumbnail</key>
+	<string>Скачать обложку</string>
+	<key>DownloadVideo</key>
+	<string>Скачать видео</string>
+	<key>Downloading</key>
+	<string>Загрузка</string>
+	<key>DownloadingAudio</key>
+	<string>Загрузка аудио</string>
+	<key>DownloadingVideo</key>
+	<string>Загрузка видео</string>
+	<key>DurationBased</key>
+	<string>Зависимый от длительности</string>
+	<key>DurationWithoutSegments</key>
+	<string>Сокращенное время</string>
+	<key>DurationWithoutSegmentsDesc</key>
+	<string>Отображает длительность видео без сегментов</string>
+	<key>EmbedAutoGenCaps</key>
+	<string>Автоматически сгенерированные</string>
+	<key>EmbedAutoGenCapsDesc</key>
+	<string>Добавляет автоматически сгенерированные, переведенные и переведенные из автоматически сгенерированных субтитры в список субтитров.</string>
+	<key>EmbedCapsToVideos</key>
+	<string>Встраивать субтитры</string>
+	<key>EmbedCapsToVideosDesc</key>
+	<string>Встраивает выбранные субтитры в видео.</string>
+	<key>EmbedThumbnailsToVideos</key>
+	<string>Встраивать обложки</string>
+	<key>EmbedThumbnailsToVideosDesc</key>
+	<string>Встраивает обложку видео в качестве обложки метаданных.</string>
+	<key>EnableSponsorBlock</key>
+	<string>Активировать</string>
+	<key>EnableSponsorBlockDesc</key>
+	<string>Активирует расширение SponsorBlock</string>
+	<key>Endcards</key>
+	<string>Конечные заставки/титры</string>
+	<key>EndcardsColor</key>
+	<string>Цвет сегмента конечной заставки</string>
+	<key>EndcardsDesc</key>
+	<string>Титры или время появления конечных заставок YouTube. Не для подведения итогов сказанного в видео.</string>
+	<key>English</key>
+	<string>Английская</string>
+	<key>EnglishNotFound</key>
+	<string>Английская звуковая дорожка не найдена</string>
+	<key>Error</key>
+	<string>Ошибка</string>
+	<key>Error.Clipboard</key>
+	<string>Ошибка. Проверьте буфер обмена для полной информации</string>
+	<key>Error.FailedToImport</key>
+	<string>Не удалось импортировать настройки</string>
+	<key>Error.Multidownloading</key>
+	<string>Параллельная загрузка пока еще не доступна.</string>
+	<key>Error.NoSpace</key>
+	<string>Недостаточно места на устройстве.
+
+Необходимо еще как минимум %@. Доступно %@</string>
+	<key>Error.PathIssue</key>
+	<string>Ошибка. Не удалось сгенерировать конечный путь. Проблема в названии медиафайла?</string>
+	<key>Error.SbPrivateID</key>
+	<string>Приватный (локальный) UserID должен содержать не менее 32 символов</string>
+	<key>Error.SbPublicID</key>
+	<string>Публичный UserID должен содержать ровно 64 символа</string>
+	<key>Error.TryLater</key>
+	<string>Ведется прямой эфир или ожидается завершение обработки на сервере Google.
+
+Попробуйте позже.</string>
+	<key>ExitFullscreen</key>
+	<string>Автовыход из полноэкранного режима</string>
+	<key>ExitFullscreenDesc</key>
+	<string>Выходит из полноэкранного режима по окончанию воспроизведения.</string>
+	<key>ExportPreferences</key>
+	<string>Экспортировать настройки</string>
+	<key>ExtraSpeedOptions</key>
+	<string>Больше скоростей воспроизведения</string>
+	<key>ExtraSpeedOptionsDesc</key>
+	<string>Добавляет больше опций скорости воспроизведения в выпадающее меню плеера.</string>
+	<key>FEexplore</key>
+	<string>Навигация</string>
+	<key>FEhistory</key>
+	<string>История</string>
+	<key>FElibrary</key>
+	<string>Библиотека</string>
+	<key>FEpost_home</key>
+	<string>Посты</string>
+	<key>FEshorts</key>
+	<string>Shorts</string>
+	<key>FEsubscriptions</key>
+	<string>Подписки</string>
+	<key>FEuploads</key>
+	<string>Создать</string>
+	<key>FEwhat_to_watch</key>
+	<string>Главная</string>
+	<key>Feed</key>
+	<string>Настройки ленты</string>
+	<key>FixAlbums</key>
+	<string>Исправить отображение обложек</string>
+	<key>FixAlbumsDesc</key>
+	<string>Исправляет отображение обложек в том случае, если вы из России.</string>
+	<key>Floating</key>
+	<string>Плавающий</string>
+	<key>FollowMe</key>
+	<string>Подпишитесь на меня в X</string>
+	<key>French</key>
+	<string>Французская локализация</string>
+	<key>FullscreenToTheLeft</key>
+	<string>Полноэкранный режим влево</string>
+	<key>FullscreenToTheLeftDesc</key>
+	<string>Переход в полноэкранный режим повернет экран влево, вместо обычного поворота вправо.</string>
+	<key>Gradient</key>
+	<string>Градиент</string>
+	<key>GradientColor</key>
+	<string>Дополнительный цвет</string>
+	<key>HideAutoplay</key>
+	<string>Скрыть «Автовоспроизведение»</string>
+	<key>HideAutoplayDesc</key>
+	<string>Скрывает тумблер «Автовоспроизведение» с оверлея плеера.</string>
+	<key>HideCarouselLive</key>
+	<string>Скрыть «В эфире»</string>
+	<key>HideCarouselLiveDesc</key>
+	<string>Скрывает кнопку «В эфире», появляющуюся при паузе воспроизведения.</string>
+	<key>HideCarouselShop</key>
+	<string>Скрыть «Покупки»</string>
+	<key>HideCarouselShopDesc</key>
+	<string>Скрывает кнопку «Покупки», появляющуюся при паузе воспроизведения.</string>
+	<key>HideCarouselSub</key>
+	<string>Скрыть «Подписки»</string>
+	<key>HideCarouselSubDesc</key>
+	<string>Скрывает кнопку «Подписки», появляющуюся при паузе воспроизведения.</string>
+	<key>HideCarouselTrends</key>
+	<string>Скрыть «Тренды»</string>
+	<key>HideCarouselTrendsDesc</key>
+	<string>Скрывает кнопку «Тренды», появляющуюся при паузе воспроизведения.</string>
+	<key>HideLibraryFooter</key>
+	<string>Настройки вкладок также доступны при долгом нажатии на первую иконку панели вкладок.</string>
+	<key>HidePrevNext</key>
+	<string>Скрыть «След.» и «Пред.»</string>
+	<key>HidePrevNextDesc</key>
+	<string>Убирает переключатели «Следующий» и «Предыдущий» с плеера</string>
+	<key>HideShorts</key>
+	<string>Скрыть видеоролики Shorts</string>
+	<key>HideShortsAudio</key>
+	<string>Скрыть аудиодорожку</string>
+	<key>HideShortsAudioDesc</key>
+	<string>Скрывает индикатор используемой аудиодорожки.</string>
+	<key>HideShortsCamera</key>
+	<string>Скрыть кнопку «Камера»</string>
+	<key>HideShortsCameraDesc</key>
+	<string>Скрывает кнопку камеры с плеера Shorts.</string>
+	<key>HideShortsComments</key>
+	<string>Скрыть «Комментарии»</string>
+	<key>HideShortsCommentsDesc</key>
+	<string>Скрывает кнопку «Комментарии» с панели элементов.</string>
+	<key>HideShortsDesc</key>
+	<string>Скрывает видеоролики, помеченные как Shorts с Главного экрана, Рекомендаций и т.д. (Не применяется к истории просмотров)</string>
+	<key>HideShortsDescription</key>
+	<string>Скрыть описание</string>
+	<key>HideShortsDescriptionDesc</key>
+	<string>Скрывает описание ролика.</string>
+	<key>HideShortsDislike</key>
+	<string>Скрыть «Не нравится»</string>
+	<key>HideShortsDislikeDesc</key>
+	<string>Скрывает кнопку «Не нравится» с панели элементов.</string>
+	<key>HideShortsLike</key>
+	<string>Скрыть «Нравится»</string>
+	<key>HideShortsLikeDesc</key>
+	<string>Скрывает кнопку «Нравится» с панели элементов.</string>
+	<key>HideShortsLogo</key>
+	<string>Скрыть логотип Shorts</string>
+	<key>HideShortsLogoDesc</key>
+	<string>Скрывает логотип Shorts, расположенный в верхнем левом углу.</string>
+	<key>HideShortsMore</key>
+	<string>Скрыть кнопку «⋮»</string>
+	<key>HideShortsMoreDesc</key>
+	<string>Скрывает кнопку «Еще» (⋮) с плеера Shorts. Данное меню также доступно долгим нажатием по экрану.</string>
+	<key>HideShortsRemix</key>
+	<string>Скрыть «Ремикс»</string>
+	<key>HideShortsRemixDesc</key>
+	<string>Скрывает кнопку «Ремикс» с панели элементов.</string>
+	<key>HideShortsSearch</key>
+	<string>Скрыть кнопку «Поиск»</string>
+	<key>HideShortsSearchDesc</key>
+	<string>Скрывает кнопку поиска с плеера Shorts.</string>
+	<key>HideShortsShare</key>
+	<string>Скрыть «Поделиться»</string>
+	<key>HideShortsShareDesc</key>
+	<string>Скрывает кнопку «Поделиться» с панели элементов.</string>
+	<key>HideShortsSource</key>
+	<string>Скрыть источник</string>
+	<key>HideShortsSourceDesc</key>
+	<string>Скрывает кнопку с источником на полное видео либо другой ролик Shorts.</string>
+	<key>HideShortsSubscribe</key>
+	<string>Скрыть «Подписаться»</string>
+	<key>HideShortsSubscribeDesc</key>
+	<string>Скрывает кнопку «Подписаться», отображаемую рядом с названием канала.</string>
+	<key>HideShortsSuggestion</key>
+	<string>Скрыть рекомендации</string>
+	<key>HideShortsSuggestionDesc</key>
+	<string>Скрывает кнопку с рекомендациями по типа Сохранить в плейлист, Суперспасибо и т.д.</string>
+	<key>HideShortsUsername</key>
+	<string>Скрыть название канала</string>
+	<key>HideShortsUsernameDesc</key>
+	<string>Скрывает название канала, опубликовавшего Shorts.</string>
+	<key>HideSortComments</key>
+	<string>Скрыть панель комментариев</string>
+	<key>HideSortCommentsDesc</key>
+	<string>Скрывает панель сортировки комментариев.</string>
+	<key>HideSubs</key>
+	<string>Скрыть «Субтитры»</string>
+	<key>HideSubsDesc</key>
+	<string>Скрывает кнопку субтитров с оверлея плеера.</string>
+	<key>Highlight</key>
+	<string>Важное</string>
+	<key>HighlightColor</key>
+	<string>Цвет важного сегмента</string>
+	<key>HighlightDesc</key>
+	<string>Часть видео, которую ищет большинство людей. По сути заменяет комментарии типа «Видео начинается с x:xx».</string>
+	<key>HoldToSpeed</key>
+	<string>Ускорение долгим нажатием</string>
+	<key>HoldToSpeedDesc</key>
+	<string>Скорость воспроизведения при долгом нажатии на плеер</string>
+	<key>ImportPreferences</key>
+	<string>Импортировать настройки</string>
+	<key>InactiveTabs</key>
+	<string>Скрытые вкладки</string>
+	<key>Independent</key>
+	<string>Свободный</string>
+	<key>Interaction</key>
+	<string>Напоминание о взаимодействии</string>
+	<key>InteractionColor</key>
+	<string>Цвет сегмента со взаимодействием</string>
+	<key>InteractionDesc</key>
+	<string>Когда есть краткое напоминание поставить лайк, подписаться на канал или в соцсетях в середине содержимого.</string>
+	<key>Interface</key>
+	<string>Интерфейс</string>
+	<key>InterfaceStyle</key>
+	<string>Стиль интерфейса</string>
+	<key>Intro</key>
+	<string>Вступление/интервалы</string>
+	<key>IntroColor</key>
+	<string>Цвет вступительного сегмента</string>
+	<key>IntroDesc</key>
+	<string>Часть видео без значимого контента. Может быть паузой, статическим кадром, повторяющейся анимацией. Подобные сегменты не содержат в информацию о видео.</string>
+	<key>Italian</key>
+	<string>Итальянская локализация</string>
+	<key>Japanese</key>
+	<string>Японская локализация</string>
+	<key>Jokes</key>
+	<string>Шутки/отвлеченные темы</string>
+	<key>JokesColor</key>
+	<string>Цвет сегмента с шутками</string>
+	<key>JokesDesc</key>
+	<string>Сегменты, которые увеличивают длительность видео за счёт отвлечённых тем или шуток, но не требуются для понимания основного содержания.</string>
+	<key>KeepSubsShorts</key>
+	<string>Shorts во вкладке «Подписки»</string>
+	<key>KeepSubsShortsDesc</key>
+	<string>Запрещает удаление роликов Shorts из вкладки «Подписки».</string>
+	<key>Korean</key>
+	<string>Корейская локализация</string>
+	<key>LeftSideGesture</key>
+	<string>Жест для левой части</string>
+	<key>LeftSideGestureDesc</key>
+	<string>Регулирует выбранную настройку при вертикальном жесте (свайпе) по левой стороне экрана</string>
+	<key>LibraryAdded</key>
+	<string>Вкладка «Вы» восстановлена</string>
+	<key>LibraryRemoved</key>
+	<string>Вкладка «Вы» удалена</string>
+	<key>LinkDetected</key>
+	<string>Обнаружена ссылка, связанная с YouTube. Открыть её в YouTube?</string>
+	<key>Localizations</key>
+	<string>Авторы локализаций</string>
+	<key>LockButton</key>
+	<string>Блокировка экрана</string>
+	<key>LockButtonDesc</key>
+	<string>Отображает кнопку для быстрой блокировки экрана плеера и перехода в полноэкранный режим в оверлее.</string>
+	<key>LoginInfo</key>
+	<string>Необходимо перезапустить приложение после успешной авторизации в аккаунт Google</string>
+	<key>Loop</key>
+	<string>Повторить</string>
+	<key>Main</key>
+	<string>Основные</string>
+	<key>MainColor</key>
+	<string>Основной цвет</string>
+	<key>ManageCache</key>
+	<string>Управление кешем</string>
+	<key>ManagePreferences</key>
+	<string>Управление настройками</string>
+	<key>Miniplayer</key>
+	<string>Разрешить миниплеер</string>
+	<key>MiniplayerDesc</key>
+	<string>Принудительно активирует миниплеер для видео, в которых изначально не был предназначен (например, видеоролики для детей).</string>
+	<key>MiniplayerStyle</key>
+	<string>Стиль миниплеера</string>
+	<key>MiniplayerStyleDesc</key>
+	<string>Переключение на/с плавающего режима требует перезапуска приложения.</string>
+	<key>MusicOfftopic</key>
+	<string>Музыкальный оффтоп</string>
+	<key>MusicOfftopicColor</key>
+	<string>Цвет немузыкального сегмента</string>
+	<key>MusicOfftopicDesc</key>
+	<string>Только для использования в музыкальных клипах. Используется для сегментов музыкальных клипов, которые не относятся к другой категории.</string>
+	<key>MuteButton</key>
+	<string>Отключение звука</string>
+	<key>MuteButtonDesc</key>
+	<string>Отображает кнопку отключения/включения звука воспроизведения в оверлее.</string>
+	<key>NativeShare</key>
+	<string>Системное меню «Поделиться»</string>
+	<key>NativeShareDesc</key>
+	<string>Выводит системное меню «Поделиться» при отправке контента.</string>
+	<key>Navbar</key>
+	<string>Панель навигации</string>
+	<key>No</key>
+	<string>Нет</string>
+	<key>NoAutonavEndScreenCards</key>
+	<string>Скрыть окно автовоспроизведения</string>
+	<key>NoAutonavEndScreenCardsDesc</key>
+	<string>Скрывает окно в котором, по окончанию воспроизведения, отображается видео, которое можно воспроизвести следующим. Включение данной опции также приведет к отключению автоперехода к следующему видео.</string>
+	<key>NoContentWarning</key>
+	<string>Пропускать предупреждения</string>
+	<key>NoContentWarningDesc</key>
+	<string>Пропускает предупреждения, всплывающие перед воспроизведением некоторого контента.</string>
+	<key>NoDarkBg</key>
+	<string>Не затемнять фон плеера</string>
+	<key>NoDarkBgDesc</key>
+	<string>Убирает затемнение экрана под кнопками управления плеером.</string>
+	<key>NoDonationReminder</key>
+	<string>Не напоминать о донате</string>
+	<key>NoDonationReminderDesc</key>
+	<string>Отключает изредка появляющиеся напоминания о пожертвовании.</string>
+	<key>NoDoubleTap2Seek</key>
+	<string>Отключить перемотку двойным тапом</string>
+	<key>NoDoubleTap2SeekDesc</key>
+	<string>Отключает перемотку двойным тапом в плеере.</string>
+	<key>NoEndScreenCards</key>
+	<string>Скрыть рекомендации</string>
+	<key>NoEndScreenCardsDesc</key>
+	<string>Скрывает эскизы, отображаемые по окончанию видеоролика.</string>
+	<key>NoFreeZoom</key>
+	<string>Отключить жесты для зума</string>
+	<key>NoFreeZoomDesc</key>
+	<string>Отключает жесты приближения для нового зума.</string>
+	<key>NoFullscreenActions</key>
+	<string>Отключить панель действий</string>
+	<key>NoFullscreenActionsDesc</key>
+	<string>Отключает панель действий, отображающуюся под прогресс-баром плеера.</string>
+	<key>NoHints</key>
+	<string>Отключить подсказки</string>
+	<key>NoHintsDesc</key>
+	<string>Скрывает подсказки от авторов видео, появляющиеся в правом верхнем углу.</string>
+	<key>NoPromotionCards</key>
+	<string>Скрыть сообщение «Есть реклама»</string>
+	<key>NoPromotionCardsDesc</key>
+	<string>Скрывает всплывающее сообщение «Есть реклама» в роликах со спонсорской рекламой.</string>
+	<key>NoRelatedVids</key>
+	<string>Скрыть рекомендации в оверлее</string>
+	<key>NoRelatedVidsDesc</key>
+	<string>Скрывает рекомендации, отображаемые по свайпу вверх в плеере.</string>
+	<key>NoRelatedWatchNexts</key>
+	<string>Скрыть все видео под плеером</string>
+	<key>NoRelatedWatchNextsDesc</key>
+	<string>Скрывает все видео под плеером, оставляя только информацию о видео и раздел комментариев.</string>
+	<key>NoSearchHistory</key>
+	<string>Скрыть историю поиска</string>
+	<key>NoSearchHistoryDesc</key>
+	<string>Визуально скрывает историю поиска и подсказок. Данная опция не отменяет трекинг вашей истории поиска.</string>
+	<key>NoShareChunk</key>
+	<string>Меню «Поделиться» без идентификаторов</string>
+	<key>NoShareChunkDesc</key>
+	<string>Подчищает следы типа «si=идентификатор» из ссылок. Хорошая альтернатива опции «Системное меню Поделиться», так как YouTube продолжает улучшать свое меню.</string>
+	<key>NoSubUnderPlayer</key>
+	<string>Убрать «Подписаться»</string>
+	<key>NoSubUnderPlayerDesc</key>
+	<string>Убирает кнопку «Подписаться» под плеером.</string>
+	<key>NoSubbar</key>
+	<string>Скрыть наклейки</string>
+	<key>NoSubbarDesc</key>
+	<string>Скрывает панель с наклейками (Все, Новое для вас, Сейчас в эфире и т.д.) под панелью навигации.</string>
+	<key>NoTwoFingerSnapToChapter</key>
+	<string>Отключить касание двумя пальцами</string>
+	<key>NoTwoFingerSnapToChapterDesc</key>
+	<string>Отключает жест перемотки эпизодов двойным нажатием двумя пальцами.</string>
+	<key>NoWatermarks</key>
+	<string>Скрыть водяные знаки</string>
+	<key>NoWatermarksDesc</key>
+	<string>Скрывает значки каналов в плеере.</string>
+	<key>NoYTLogo</key>
+	<string>Скрыть логотип YouTube</string>
+	<key>NoYTLogoDesc</key>
+	<string>Убирает логотип YouTube с панели навигации.</string>
+	<key>NothingToShowInMenu</key>
+	<string>В данном меню нечего отображать</string>
+	<key>OldYTUI</key>
+	<string>Старый интерфейс</string>
+	<key>OldYTUIDesc</key>
+	<string>Имитирует старую версию YouTube, чтобы загружался старый интерфейс</string>
+	<key>OledKeyboard</key>
+	<string>OLED клавиатура</string>
+	<key>OledKeyboardDesc</key>
+	<string>Применяет черную тему для темной клавиатуры</string>
+	<key>OledTheme</key>
+	<string>OLED режим</string>
+	<key>OledThemeDesc</key>
+	<string>Заменяет темные цвета черным</string>
+	<key>OpenAsRegularVideo</key>
+	<string>Открыть как обычное видео</string>
+	<key>OpenLink</key>
+	<string>Открыть ссылку</string>
+	<key>OpenSourceLibs</key>
+	<string>Библиотеки с исходным кодом</string>
+	<key>Original</key>
+	<string>Оригинальная</string>
+	<key>Other</key>
+	<string>Прочее</string>
+	<key>Overlay</key>
+	<string>На оверлее</string>
+	<key>ParsingCaptions</key>
+	<string>Загрузка субтитров</string>
+	<key>ParsingTranscript</key>
+	<string>Генерация транскрипта</string>
+	<key>PauseOnOverlay</key>
+	<string>Ставить на паузу с оверлеем</string>
+	<key>PauseOnOverlayDesc</key>
+	<string>Приостанавливает воспроизведение при появлении кнопок управления плеером.</string>
+	<key>PersistentProgressBar</key>
+	<string>Всегда отображать прогресс-бар</string>
+	<key>PersistentProgressBarDesc</key>
+	<string>Всегда отображает прогресс-бар внутри плеера.</string>
+	<key>PinchToFullscreenShorts</key>
+	<string>Полноэкранный режим щипком</string>
+	<key>PinchToFullscreenShortsDesc</key>
+	<string>Скрывает панель вкладок, тем самым отображает Shorts на весь экран.</string>
+	<key>PlayInExternalPlayer</key>
+	<string>Воспроизвести в стороннем плеере</string>
+	<key>PlayInInfuse</key>
+	<string>Воспроизвести в Infuse</string>
+	<key>PlayInSystemPlayer</key>
+	<string>Воспроизвести в системном плеере</string>
+	<key>PlayInVLC</key>
+	<string>Воспроизвести в VLC</string>
+	<key>PlaybackMode</key>
+	<string>Действие по окончанию воспроизведения</string>
+	<key>PlaybackQualityOnCellular</key>
+	<string>Качество по мобильной сети</string>
+	<key>PlaybackQualityOnCellularDesc</key>
+	<string>Автоматически применяет выбранное качество при воспроизведении по мобильному интернету</string>
+	<key>PlaybackQualityOnWiFi</key>
+	<string>Качество по WiFi</string>
+	<key>PlaybackQualityOnWiFiDesc</key>
+	<string>Автоматически применяет выбранное качество при воспроизведении по Wi-Fi</string>
+	<key>PlaybackSpeed</key>
+	<string>Скорость воспроизведения</string>
+	<key>Player</key>
+	<string>Настройки плеера</string>
+	<key>Player.Actions</key>
+	<string>Поведение</string>
+	<key>Player.Gestures</key>
+	<string>Жесты</string>
+	<key>Player.Interface</key>
+	<string>Интерфейс</string>
+	<key>PlayerNoClip</key>
+	<string>Убрать «Создать клип»</string>
+	<key>PlayerNoClipDesc</key>
+	<string>Убирает кнопку «Создать клип» под плеером.</string>
+	<key>PlayerNoDownload</key>
+	<string>Убрать «Скачать»</string>
+	<key>PlayerNoDownloadDesc</key>
+	<string>Убирает кнопку «Скачать» под плеером.</string>
+	<key>PlayerNoRemix</key>
+	<string>Убрать «Ремикс»</string>
+	<key>PlayerNoRemixDesc</key>
+	<string>Убирает кнопку «Ремикс» под плеером.</string>
+	<key>PlayerNoReport</key>
+	<string>Убрать «Пожаловаться»</string>
+	<key>PlayerNoReportDesc</key>
+	<string>Убирает кнопку «Пожаловаться» под плеером.</string>
+	<key>PlayerNoSave</key>
+	<string>Убрать «Сохранить»</string>
+	<key>PlayerNoSaveDesc</key>
+	<string>Убирает кнопку «Сохранить» под плеером.</string>
+	<key>PlayerNoShare</key>
+	<string>Убрать «Поделиться»</string>
+	<key>PlayerNoShareDesc</key>
+	<string>Убирает кнопку «Поделиться» под плеером.</string>
+	<key>PlayerNoThanks</key>
+	<string>Убрать «Спасибо»</string>
+	<key>PlayerNoThanksDesc</key>
+	<string>Убирает кнопку «Спасибо» под плеером.</string>
+	<key>PlayerNotFound</key>
+	<string>Приложение не найдено</string>
+	<key>PlaylistOldMinibar</key>
+	<string>Отображать старую панель плейлистов</string>
+	<key>PlaylistOldMinibarDesc</key>
+	<string>Заменяет новую, плавающую панель плейлистов, на старую.</string>
+	<key>Polish</key>
+	<string>Польская локализация</string>
+	<key>PortraitFullscreen</key>
+	<string>Портретный полноэкранный режим</string>
+	<key>PortraitFullscreenDesc</key>
+	<string>Активирует поддержку портретного полноэкранного режима.</string>
+	<key>PostDownloadAction</key>
+	<string>Действие по окончанию загрузки</string>
+	<key>PostDownloadDesc</key>
+	<string>Выбранное действие будет выполняться по успешному окончанию загрузки видео.</string>
+	<key>PostManager</key>
+	<string>Сохранять информацию с постов</string>
+	<key>PostManagerDesc</key>
+	<string>Позволяет скопировать текст из поста или сохранить пост как фото долгим нажатием по нему.</string>
+	<key>PreImportMessage</key>
+	<string>Данное действие перезапишет существующие настройки твика на те, что будут в выбираемом файле.
+
+Уверены, что хотите продолжить?</string>
+	<key>Preferences</key>
+	<string>Параметры %@</string>
+	<key>PreferredAudio</key>
+	<string>Предпочитаемая звуковая дорожка</string>
+	<key>PreferredCaptions</key>
+	<string>Предпочитаемые субтитры</string>
+	<key>PremiumYTLogo</key>
+	<string>Отображать Premium логотип</string>
+	<key>PremiumYTLogoDesc</key>
+	<string>Отображает логотип Premium в панели навигации.</string>
+	<key>PreserveSpeed</key>
+	<string>Запоминать скорость</string>
+	<key>PreserveSpeedDesc</key>
+	<string>Сохраняет установленную скорость по окончанию жеста регулировки.</string>
+	<key>Preview</key>
+	<string>Предпросмотр</string>
+	<key>PreviewColor</key>
+	<string>Цвет сегмента с предпросмотром</string>
+	<key>PreviewDesc</key>
+	<string>Коллекция клипов, которые показывают, что происходит в этом видео или других эпизодах, все клипы позже повторяются в видео</string>
+	<key>PrivateUserID</key>
+	<string>Приватный UserID</string>
+	<key>ProgressBarStyle</key>
+	<string>Стиль прогресс-бара</string>
+	<key>PublicUserID</key>
+	<string>Публичный UserID</string>
+	<key>RedProgressBar</key>
+	<string>Красный прогресс-бар</string>
+	<key>RedProgressBarDesc</key>
+	<string>Возвращает красный прогресс-бар вместо нового, серого цвета.</string>
+	<key>RememberLoopMode</key>
+	<string>Запомнить режим повтора</string>
+	<key>RememberLoopModeDesc</key>
+	<string>Запоминает выбранный в меню плеера режим повтора воспроизведения.</string>
+	<key>RemoveAds</key>
+	<string>Убрать рекламу</string>
+	<key>RemoveAdsDesc</key>
+	<string>Убирает рекламу в приложении.</string>
+	<key>RemoveCast</key>
+	<string>Скрыть «Трансляция»</string>
+	<key>RemoveCastDesc</key>
+	<string>Скрывает кнопку трансляции с панели навигации.</string>
+	<key>RemoveCommentGuidelines</key>
+	<string>Убрать «Правила сообщества»</string>
+	<key>RemoveCommentGuidelinesDesc</key>
+	<string>Убирает прикрепленные правила сообщества в секции с комментариями.</string>
+	<key>RemoveCommunityPosts</key>
+	<string>Убрать посты сообщества</string>
+	<key>RemoveCommunityPostsDesc</key>
+	<string>Убирает посты сообщества с ленты.</string>
+	<key>RemoveDontRecommendMenu</key>
+	<string>Убрать «Не рекомендовать»</string>
+	<key>RemoveDontRecommendMenuDesc</key>
+	<string>Убирает опцию «Не рекомендовать видео с этого канала» из меню видео.</string>
+	<key>RemoveDownloadMenu</key>
+	<string>Убрать «Скачать»</string>
+	<key>RemoveDownloadMenuDesc</key>
+	<string>Убирает опцию «Скачать» из меню видео.</string>
+	<key>RemoveHorizontalFeeds</key>
+	<string>Убрать горизонтальные ленты</string>
+	<key>RemoveHorizontalFeedsDesc</key>
+	<string>Удаляет все горизонтальные ленты по типу «Новости», «Продолжить просмотр», «Коллекция постов» с «Главной» вкладки.</string>
+	<key>RemoveIndicators</key>
+	<string>Скрыть индикаторы вкладок</string>
+	<key>RemoveInlineComment</key>
+	<string>Убрать секцию с комментарием</string>
+	<key>RemoveInlineCommentDesc</key>
+	<string>Убирает секцию с комментарием под плеером.</string>
+	<key>RemoveLabels</key>
+	<string>Скрыть названия вкладок</string>
+	<key>RemoveLibraryTab</key>
+	<string>Удалить вкладку «Вы»</string>
+	<key>RemoveLiveVids</key>
+	<string>Убрать прямые эфиры</string>
+	<key>RemoveLiveVidsDesc</key>
+	<string>Удаляет все прямые эфиры с «Главной» вкладки.</string>
+	<key>RemoveMixPlaylists</key>
+	<string>Убрать миксы</string>
+	<key>RemoveMixPlaylistsDesc</key>
+	<string>Удаляет сгенерированные YouTube-oм миксы (плейлисты) с ленты.</string>
+	<key>RemoveMoreTopics</key>
+	<string>Убрать «Еще темы»</string>
+	<key>RemoveMoreTopicsDesc</key>
+	<string>Убирает раздел «Еще темы» с ленты.</string>
+	<key>RemoveNotInterestedMenu</key>
+	<string>Убрать «Не интересует»</string>
+	<key>RemoveNotInterestedMenuDesc</key>
+	<string>Убирает опцию «Не интересует» из меню видео.</string>
+	<key>RemoveNotifications</key>
+	<string>Скрыть «Уведомления»</string>
+	<key>RemoveNotificationsDesc</key>
+	<string>Скрывает кнопку уведомлений с панели навигации.</string>
+	<key>RemovePlayNext</key>
+	<string>Убрать «Добавить в начало очереди»</string>
+	<key>RemovePlayNextDesc</key>
+	<string>Убирает опцию «Добавить в начало очереди» из меню видео.</string>
+	<key>RemovePlayables</key>
+	<string>Убрать мини-игры</string>
+	<key>RemovePlayablesDesc</key>
+	<string>Убирает мини-игры «Playables» с ленты.</string>
+	<key>RemoveRemixMenu</key>
+	<string>Убрать «Создать ремикс»</string>
+	<key>RemoveRemixMenuDesc</key>
+	<string>Убирает опцию «Создать ремикс» из меню видео.</string>
+	<key>RemoveReportMenu</key>
+	<string>Убрать «Пожаловаться»</string>
+	<key>RemoveReportMenuDesc</key>
+	<string>Убирает опцию «Пожаловаться» из меню видео.</string>
+	<key>RemoveSaveToPlaylistMenu</key>
+	<string>Убрать «Добавить в плейлист»</string>
+	<key>RemoveSaveToPlaylistMenuDesc</key>
+	<string>Убирает опцию «Добавить в плейлист» из меню видео.</string>
+	<key>RemoveSearch</key>
+	<string>Скрыть «Поиск»</string>
+	<key>RemoveSearchDesc</key>
+	<string>Скрывает кнопку поиска с панели навигации.</string>
+	<key>RemoveShareMenu</key>
+	<string>Убрать «Поделиться»</string>
+	<key>RemoveShareMenuDesc</key>
+	<string>Убирает опцию «Поделиться» из меню видео.</string>
+	<key>RemoveShortsLive</key>
+	<string>Убрать трансляции</string>
+	<key>RemoveShortsLiveDesc</key>
+	<string>Удаляет прямые трансляции, исключая их из ленты.</string>
+	<key>RemoveVoiceSearch</key>
+	<string>Скрыть «Голосовой поиск»</string>
+	<key>RemoveVoiceSearchDesc</key>
+	<string>Скрывает кнопку голосового поиска с панели навигации.</string>
+	<key>RemoveWatchLaterMenu</key>
+	<string>Убрать «Смотреть позже»</string>
+	<key>RemoveWatchLaterMenuDesc</key>
+	<string>Убирает опцию «Смотреть позже» из меню видео.</string>
+	<key>RemoveYTMMenu</key>
+	<string>Убрать «Открыть в YouTube Music»</string>
+	<key>RemoveYTMMenuDesc</key>
+	<string>Убирает опцию «Открыть в YouTube Music» из меню видео.</string>
+	<key>ReplacePrevNext</key>
+	<string>Перемотка вместо «След.» и «Пред.»</string>
+	<key>ReplacePrevNextDesc</key>
+	<string>Заменяет переключатели «Следующий» и «Предыдущий» на перемотку на 10 сек. в окне плеера.</string>
+	<key>ResetMessage</key>
+	<string>Данное действие вернет настройки YTPlus к значениям по умолчанию.
+
+Уверены, что хотите продолжить?</string>
+	<key>ResetSettings</key>
+	<string>Восстановить настройки по умолчанию</string>
+	<key>ResetSpeed</key>
+	<string>Сбросить</string>
+	<key>RestrictShorts</key>
+	<string>Ограничить количество</string>
+	<key>RestrictShortsDesc</key>
+	<string>Ограничивает количество Shorts в ленте до 10-15. Полезно, если хотите избавиться от привычки бесконечно листать ленту.</string>
+	<key>RetryLogin</key>
+	<string>Авторизация активирована.
+
+Попробуйте заново.</string>
+	<key>RightSideGesture</key>
+	<string>Жест для правой части</string>
+	<key>RightSideGestureDesc</key>
+	<string>Регулирует выбранную настройку при вертикальном жесте (свайпе) по правой стороне экрана</string>
+	<key>Save</key>
+	<string>Сохранить</string>
+	<key>SaveCommentAsImage</key>
+	<string>Сохранить комментарий как фото</string>
+	<key>SaveCurrentImage</key>
+	<string>Сохранить данное фото</string>
+	<key>SaveImage</key>
+	<string>Сохранить обложку</string>
+	<key>SavePostAsImage</key>
+	<string>Сохранить пост как фото</string>
+	<key>SaveProfilePhoto</key>
+	<string>Сохранять фото профиля</string>
+	<key>SaveProfilePhotoDesc</key>
+	<string>Сохраняет фото профиля в «Фото» долгим нажатием по нему.</string>
+	<key>SaveProfilePicture</key>
+	<string>Сохранить фото профиля</string>
+	<key>SaveToPhotos</key>
+	<string>Сохранить в «Фото»</string>
+	<key>Saved</key>
+	<string>Сохранено в Фото</string>
+	<key>Sb.Alphabetical</key>
+	<string>По возрастанию (A–Я)</string>
+	<key>Sb.AlphabeticalRev</key>
+	<string>По убыванию (Я–А)</string>
+	<key>Sb.Ask</key>
+	<string>Спрашивать</string>
+	<key>Sb.Channels</key>
+	<string>Каналы</string>
+	<key>Sb.ChannelsHere</key>
+	<string>Здесь будут отображаться каналы</string>
+	<key>Sb.Disable</key>
+	<string>Отключен</string>
+	<key>Sb.Display</key>
+	<string>Отображать в плеере</string>
+	<key>Sb.Newest</key>
+	<string>Сначала новые</string>
+	<key>Sb.Oldest</key>
+	<string>Сначала старые</string>
+	<key>Sb.Skip</key>
+	<string>Перематывать</string>
+	<key>Sb.SkipTo</key>
+	<string>К началу сегмента</string>
+	<key>Sb.Whitelist</key>
+	<string>Каналы из белого списка</string>
+	<key>Sb.Whitelisted</key>
+	<string>Добавлено в белый список</string>
+	<key>SbAddToWhitelist</key>
+	<string>Добавить в белый список</string>
+	<key>SbPlayerButton</key>
+	<string>Отображать кнопку в плеере</string>
+	<key>SbPlayerButtonDesc</key>
+	<string>Добавляет кнопку SponsorBlock в элементы управления плеером.</string>
+	<key>SbRemoveFromWhitelist</key>
+	<string>Удалить из белого списка</string>
+	<key>SbWhitelist</key>
+	<string>Белый список</string>
+	<key>ScrollToNext</key>
+	<string>К следующему</string>
+	<key>ScrubberColor</key>
+	<string>Цвет ползунка</string>
+	<key>SeekAnywhere</key>
+	<string>Перемотка свайпами</string>
+	<key>SeekAnywhereDesc</key>
+	<string>Позволяет управлять перемоткой воспроизведения свайпами влево и вправо.</string>
+	<key>SeekMethod</key>
+	<string>Тип перемотки</string>
+	<key>SeekMethodDesc</key>
+	<string>Свободный: Свободная быстрая прокрутка по всей длительности видео. Соблюдается только чувствительность прокрутки.
+
+Зависимый от длительности: Сила прокрутки будет зависеть от длины видео и чувствительности прокрутки. Может быть полезно для длинных видео, чтобы прокрутка не перематывала большие промежутки видео.</string>
+	<key>SeekSensitivity</key>
+	<string>Чувствительность перемотки</string>
+	<key>SegmentDetected</key>
+	<string>Обнаружен %@.
+%@</string>
+	<key>SegmentSkipAudio</key>
+	<string>Звуковое сопровождение</string>
+	<key>SegmentSkipAudioDesc</key>
+	<string>Воспроизводит аудио-уведомление при перемотке сегмента</string>
+	<key>SegmentSkipped</key>
+	<string>Перемотан %@</string>
+	<key>Segments</key>
+	<string>Сегменты</string>
+	<key>SegmentsInFeedPlayer</key>
+	<string>Сегменты в ленте</string>
+	<key>SegmentsInFeedPlayerDesc</key>
+	<string>Отображает цветные сегменты в прогресс-баре плеера в ленте.</string>
+	<key>SegmentsInMiniPlayer</key>
+	<string>Сегменты в мини-плеере</string>
+	<key>SegmentsInMiniPlayerDesc</key>
+	<string>Отображает цветные сегменты в прогресс-баре мини-плеера.</string>
+	<key>Select</key>
+	<string>Выбрать</string>
+	<key>SelectAction</key>
+	<string>Выберите действие</string>
+	<key>SelectAudioTrack</key>
+	<string>Выберите звуковую дорожку</string>
+	<key>SelectCaption</key>
+	<string>Выберите субтитры</string>
+	<key>Selected</key>
+	<string>Выбранная</string>
+	<key>SelfPromo</key>
+	<string>Безвозмездная или самореклама</string>
+	<key>SelfPromoColor</key>
+	<string>Цвет сегмента с саморекламой</string>
+	<key>SelfPromoDesc</key>
+	<string>Похоже на спонсорскую, но для бесплатной рекламы и саморекламы. Включает себя вставки про мерч, пожертвования или информацию о тех, вместе с кем было сделано видео.</string>
+	<key>Share</key>
+	<string>Поделиться</string>
+	<key>Shorts</key>
+	<string>Настройки Shorts</string>
+	<key>ShortsInterface</key>
+	<string>Интерфейс</string>
+	<key>ShortsModeTurnedOff</key>
+	<string>Режим Shorts был отключен</string>
+	<key>ShortsOnlyMode</key>
+	<string>Режим Shorts</string>
+	<key>ShortsOnlyModeDesc</key>
+	<string>Ограничивает функциональность YouTube до отображения видеороликов Shorts</string>
+	<key>ShortsOnlyWarning</key>
+	<string>Вы уверены, что хотите активировать данный режим?
+
+В данном режиме вы не сможете ничего делать, кроме как смотреть видеоролики Shorts.
+
+Режим Shorts можно будет отключить зажав в плеере двумя пальцами.</string>
+	<key>ShortsProgress</key>
+	<string>Показывать прогресс-бар</string>
+	<key>ShortsProgressDesc</key>
+	<string>Отображает прогресс-бар в плеере Shorts.</string>
+	<key>ShortsToRegular</key>
+	<string>Shorts как обычные видео</string>
+	<key>ShortsToRegularDesc</key>
+	<string>Воспроизводит видеоролики Shorts в обычном проигрывателе.</string>
+	<key>Show</key>
+	<string>Отображать</string>
+	<key>ShowCurrentImage</key>
+	<string>Просмотреть данное фото</string>
+	<key>ShowNotifications</key>
+	<string>Отображать уведомления</string>
+	<key>ShowNotificationsDesc</key>
+	<string>Показывает уведомления для сегментов, настроенных на автоматическую перемотку. Для сегментов, требующих ручную перемотку, уведомления отображаются всегда.</string>
+	<key>ShowProfilePicture</key>
+	<string>Просмотреть фото профиля</string>
+	<key>ShowThumbnail</key>
+	<string>Просмотреть обложку</string>
+	<key>SkipAlertDuration</key>
+	<string>Длительность уведомления перемотки</string>
+	<key>SkipSegment</key>
+	<string>Перемотать данный сегмент?</string>
+	<key>SkipToSegment</key>
+	<string>Перейти к данному сегменту?</string>
+	<key>SkippedToSegment</key>
+	<string>Сейчас воспроизводится %@</string>
+	<key>SolidColor</key>
+	<string>Сплошной цвет</string>
+	<key>SortType</key>
+	<string>Тип сортировки</string>
+	<key>Spanish</key>
+	<string>Испанская локализация</string>
+	<key>SpecialThanks</key>
+	<string>Особая благодарность</string>
+	<key>SpecialThanks.Test</key>
+	<string>Неоценимый вклад в тестирование твика</string>
+	<key>SpeedByLongTap</key>
+	<string>Ускоренное воспроизведение</string>
+	<key>SpeedByLongTapDesc</key>
+	<string>Позволяет ускорить воспроизведение долгим нажатием по определенной части экрана.</string>
+	<key>SpeedControls</key>
+	<string>Управление скоростью</string>
+	<key>SpeedControlsDesc</key>
+	<string>Отображает кнопки управления скоростью воспроизведения в оверлее.</string>
+	<key>SpeedLocation</key>
+	<string>Зона активации ускорения</string>
+	<key>SpeedPreserved</key>
+	<string>Сохраненная скорость воспроизведения: %@</string>
+	<key>Sponsor</key>
+	<string>Спонсорская реклама</string>
+	<key>SponsorColor</key>
+	<string>Цвет спонсорского сегмента</string>
+	<key>SponsorDesc</key>
+	<string>Часть видео, в которой рекламируется продукт или сервис не имеющий отношения к автору. Автор имеет доходы или денежное вознаграждение с подобных реклам.</string>
+	<key>Startup</key>
+	<string>Начальная страница</string>
+	<key>StartupAnimation</key>
+	<string>Анимация загрузки</string>
+	<key>StartupAnimationDesc</key>
+	<string>Отображает анимацию загрузки при запуске YouTube.</string>
+	<key>StickSortComments</key>
+	<string>Закрепить панель комментариев</string>
+	<key>StickSortCommentsDesc</key>
+	<string>Закрепляет панель сортировки комментариев, чтобы она не терялись при прокрутке.</string>
+	<key>StickyNavbar</key>
+	<string>Закрепить панель навигации</string>
+	<key>StickyNavbarDesc</key>
+	<string>Фиксирует панель навигации в верхней части экрана.</string>
+	<key>StockVolumeHUD</key>
+	<string>Системный уровень громкости</string>
+	<key>StockVolumeHUDDesc</key>
+	<string>Отображает системную шкалу громкости в полноэкранном режиме.</string>
+	<key>Stop</key>
+	<string>Остановить</string>
+	<key>SupportDevelopment</key>
+	<string>Помочь с развитием проекта</string>
+	<key>SupportDevelopmentDesc</key>
+	<string>Если вам понравился YTPlus и вы хотели бы поддержать проект, то можете сделать это любым подходящим ниже способом.
+Спасибо❤</string>
+	<key>SupportMe</key>
+	<string>Задонатить</string>
+	<key>SupporterWall</key>
+	<string>Спонсоры</string>
+	<key>Tabbar</key>
+	<string>Панель вкладок</string>
+	<key>TabsCountRestricted</key>
+	<string>Можно добавлять не более шести активных вкладок</string>
+	<key>TapToReveal</key>
+	<string>Нажмите, чтобы просмотреть</string>
+	<key>Toast.Brightness</key>
+	<string>Яркость</string>
+	<key>Toast.PlaybackSpeed</key>
+	<string>Скорость</string>
+	<key>Toast.Volume</key>
+	<string>Громкость</string>
+	<key>Translated</key>
+	<string>перевод</string>
+	<key>TranslatedAutoGen</key>
+	<string>автоперевод</string>
+	<key>TranslucentBar</key>
+	<string>Полупрозрачный стиль</string>
+	<key>Turkish</key>
+	<string>Турецкая локализация</string>
+	<key>TwoFingerPanToBrightness</key>
+	<string>Регулировать яркость</string>
+	<key>TwoFingerPanToBrightnessDesc</key>
+	<string>Позволяет регулировать яркость экрана вертикальным скольжением двумя пальцами по плееру.</string>
+	<key>TwoFingerTapToPause</key>
+	<string>Приостанавливать двумя пальцами</string>
+	<key>TwoFingerTapToPauseDesc</key>
+	<string>Позволяет ставить на паузу/продолжать воспроизведение контента касанием плеера двумя пальцами.</string>
+	<key>UnderPlayer</key>
+	<string>Под плеером</string>
+	<key>Unskip</key>
+	<string>Отменить</string>
+	<key>UnskipAlertDuration</key>
+	<string>Длительность уведомления отмены</string>
+	<key>VLWL</key>
+	<string>Смотреть позже</string>
+	<key>VideoEndTime</key>
+	<string>Показывать время окончания</string>
+	<key>VideoEndTimeDesc</key>
+	<string>Отображает, в каком часу закончится ролик.</string>
+	<key>Vietnamese</key>
+	<string>Вьетнамская локализация</string>
+	<key>VisitGithub</key>
+	<string>Репозиторий на Github</string>
+	<key>VisitGithubDesc</key>
+	<string>Оцените репозиторий, предложите функцию или сообщите о проблемах</string>
+	<key>VisitTelegram</key>
+	<string>Мой канал в Telegram</string>
+	<key>VisitTelegramDesc</key>
+	<string>Будьте в курсе последних обновлений приложения</string>
+	<key>Warning</key>
+	<string>Внимание</string>
+	<key>Welcome.Content</key>
+	<string>Настраиваемый интерфейс</string>
+	<key>Welcome.ContentDesc</key>
+	<string>Удаляйте ненужный контент и скройте ненужные элементы интерфейса. Также доступен OLED-совместимый темный режим</string>
+	<key>Welcome.Download</key>
+	<string>Загрузка медиа</string>
+	<key>Welcome.DownloadDesc</key>
+	<string>Скачивайте понравившийся контент, будь то Видео, Shorts, Аудио либо Фото профиля. Копируйте интересные посты и комментарии либо же сохраняйте их в качестве изображений</string>
+	<key>Welcome.More</key>
+	<string>И даже больше...</string>
+	<key>Welcome.MoreDesc</key>
+	<string>YouTube Plus содержит в себе более 50 различных опций, включая такие, как сохранение настроек и очистка кеша. Настройки доступны в разделе YouTube Plus в настройках YouTube</string>
+	<key>Welcome.Player</key>
+	<string>Настройка плеера</string>
+	<key>Welcome.PlayerDesc</key>
+	<string>Кастомизируйте поведение плеера, автовыбор качества и скорости. Управляйте жестами</string>
+	<key>Yes</key>
+	<string>Да</string>
+	<key>YtlButtonPosition</key>
+	<string>Расположение кнопки загрузчика</string>
+	<key>sb_filler</key>
+	<string>сегмент с шутками</string>
+	<key>sb_interaction</key>
+	<string>сегмент со взаимодействием</string>
+	<key>sb_intro</key>
+	<string>сегмент со вступлением</string>
+	<key>sb_music_offtopic</key>
+	<string>сегмент с оффтопом</string>
+	<key>sb_outro</key>
+	<string>сегмент с титрами/заставкой</string>
+	<key>sb_poi_highlight</key>
+	<string>важный сегмент</string>
+	<key>sb_preview</key>
+	<string>превью сегмент</string>
+	<key>sb_selfpromo</key>
+	<string>саморекламой</string>
+	<key>sb_sponsor</key>
+	<string>спонсорский сегмент</string>
+</dict>
+</plist>

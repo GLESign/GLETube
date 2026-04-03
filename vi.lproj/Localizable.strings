@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24hrFormat</key>
+	<string>Dùng định dạng 24 giờ</string>
+	<key>24hrFormatDesc</key>
+	<string>Hiển thị thời điểm kết thúc ở định dạng 24 giờ.</string>
+	<key>ActivationAreaWidth</key>
+	<string>Độ rộng khu vực thao tác</string>
+	<key>ActivationAreaWidthDesc</key>
+	<string>Giá trị này là độ rộng khu vực thao tác của phần bên trái và bên phải màn hình tính theo đơn vị điểm ảnh.
+
+Giá trị tối đa cho phép bằng một phần ba chiều rộng màn hình.
+
+Điều chỉnh cài đặt này nếu bạn thường xuyên gặp tình trạng thao tác nhầm khi thực hiện vuốt lên hoặc xuống để đóng mở chế độ toàn màn hình.</string>
+	<key>ActiveTabs</key>
+	<string>Tab đang hiển thị</string>
+	<key>AddLibraryTab</key>
+	<string>Khôi phục tab "Bạn"</string>
+	<key>AdjustWithFinger</key>
+	<string>Chỉnh tốc độ bằng cử chỉ</string>
+	<key>AdjustWithFingerDesc</key>
+	<string>Điều chỉnh tốc độ bằng cách nhấn giữ vào video và di chuyển ngón tay lên xuống.</string>
+	<key>Arabic</key>
+	<string>Tiếng Ả Rập</string>
+	<key>Ask</key>
+	<string>Hỏi</string>
+	<key>AtLeastOneTab</key>
+	<string>Bạn phải hiển thị tối thiểu một tab</string>
+	<key>AudioDRC</key>
+	<string>Ưu tiên âm lượng ổn định</string>
+	<key>AudioDRCDesc</key>
+	<string>Trình quản lý tải xuống sẽ ưu tiên âm thanh có âm lượng ổn định (nén dải động) nếu khả dụng.</string>
+	<key>Audios</key>
+	<string>Âm thanh</string>
+	<key>AutoCheckLinks</key>
+	<string>Tự động kiểm tra bộ nhớ tạm</string>
+	<key>AutoCheckLinksDesc</key>
+	<string>Kiểm tra liên kết YouTube trong bộ nhớ tạm mỗi lần khởi động ứng dụng.
+Để tính năng hoạt động đúng, mở ứng dụng Cài đặt → YouTube → Dán từ ứng dụng khác và chọn "Cho phép".</string>
+	<key>AutoFullscreen</key>
+	<string>Tự động chuyển sang toàn màn hình</string>
+	<key>AutoFullscreenDesc</key>
+	<string>Tự động phát video ở chế độ toàn màn hình.</string>
+	<key>AutoGenCaps</key>
+	<string>Cho phép phụ đề tự động</string>
+	<key>AutoGenCapsDesc</key>
+	<string>Nếu không tìm thấy phụ đề đã chọn, YouTube Plus sẽ chuyển sang bản dịch của phụ đề gốc hoặc phụ đề tự động.</string>
+	<key>AutoSkipShorts</key>
+	<string>Tự động phát video tiếp theo</string>
+	<key>BackgroundPlayback</key>
+	<string>Phát trong nền</string>
+	<key>BackgroundPlaybackDesc</key>
+	<string>Tiếp tục phát khi thoát ứng dụng.</string>
+	<key>Best</key>
+	<string>Tốt nhất</string>
+	<key>Both</key>
+	<string>Cả hai</string>
+	<key>Cancel</key>
+	<string>Hủy bỏ</string>
+	<key>Cancelled</key>
+	<string>Đã hủy</string>
+	<key>CaptionsAndThumbnails</key>
+	<string>Phụ đề và hình thu nhỏ</string>
+	<key>ChineseSimplified</key>
+	<string>Tiếng Trung (giản thể)</string>
+	<key>ChineseTraditional</key>
+	<string>Tiếng Trung (phồn thể)</string>
+	<key>ClassicQuality</key>
+	<string>Dùng menu chất lượng video cũ</string>
+	<key>ClassicQualityDesc</key>
+	<string>Sử dụng menu lựa chọn chất lượng video cổ điển.</string>
+	<key>ClearCache</key>
+	<string>Xóa bộ nhớ đệm</string>
+	<key>ClearCacheAtStart</key>
+	<string>Xóa bộ nhớ đệm khi khởi động</string>
+	<key>ClearCacheAtStartDesc</key>
+	<string>Tự động xóa bộ nhớ đệm khi khởi động ứng dụng.</string>
+	<key>CommentManager</key>
+	<string>Lưu bình luận</string>
+	<key>CommentManagerDesc</key>
+	<string>Sao chép nội dung hoặc lưu bình luận dưới dạng hình ảnh bằng cách nhấn giữ.</string>
+	<key>CompactToast</key>
+	<string>Thu gọn biểu thị</string>
+	<key>CompactToastDesc</key>
+	<string>Thu gọn biểu thị độ sáng và âm lượng khi sử dụng tính năng cử chỉ.</string>
+	<key>Conflicts.AcceptRisks</key>
+	<string>Tôi chấp nhận mọi rủi ro</string>
+	<key>Conflicts.CloseYT</key>
+	<string>Thoát YouTube</string>
+	<key>Conflicts.Detected</key>
+	<string>Đã phát hiện tweak không tương thích</string>
+	<key>Conflicts.DetectedDesc</key>
+	<string>Mặc dù ứng dụng trông có vẻ đang chạy bình thường, nhà phát triển của YouTube Plus khuyến khích bạn không nên cài đặt hai hoặc nhiều tweak có chức năng tương tự nhau vào cùng một ứng dụng vì có thể gây ra vấn đề.
+
+Bằng việc tiếp tục sử dụng, bạn đã hiểu và đồng ý chịu hoàn toàn trách nhiệm, nhà phát triển sẽ không phản hồi về bất cứ vấn đề nào xảy ra trong quá trình sử dụng.</string>
+	<key>Conflicts.SkipThisVersion</key>
+	<string>Không hiển thị trong phiên bản này</string>
+	<key>ContextMenu</key>
+	<string>Menu ngữ cảnh</string>
+	<key>Continue</key>
+	<string>Tiếp tục</string>
+	<key>Contributors</key>
+	<string>Người đóng góp</string>
+	<key>Converting</key>
+	<string>Đang chuyển đổi</string>
+	<key>Copied</key>
+	<string>Đã sao chép vào bộ nhớ tạm</string>
+	<key>Copy</key>
+	<string>Sao chép</string>
+	<key>CopyChannelName</key>
+	<string>Sao chép tên kênh</string>
+	<key>CopyCommentAsImage</key>
+	<string>Sao chép bình luận dưới dạng hình ảnh</string>
+	<key>CopyCommentText</key>
+	<string>Sao chép nội dung bình luận</string>
+	<key>CopyCurrentImage</key>
+	<string>Sao chép hình ảnh hiện tại</string>
+	<key>CopyDescription</key>
+	<string>Sao chép mô tả</string>
+	<key>CopyInformation</key>
+	<string>Sao chép thông tin</string>
+	<key>CopyPostAsImage</key>
+	<string>Sao chép bài đăng dưới dạng hình ảnh</string>
+	<key>CopyPostText</key>
+	<string>Sao chép nội dung bài đăng</string>
+	<key>CopyProfilePicture</key>
+	<string>Sao chép ảnh hồ sơ</string>
+	<key>CopyThumbnail</key>
+	<string>Sao chép hình thu nhỏ</string>
+	<key>CopyTimestampedLink</key>
+	<string>Sao chép liên kết kèm dấu thời gian</string>
+	<key>CopyTitle</key>
+	<string>Sao chép tiêu đề</string>
+	<key>CopyTranscript</key>
+	<string>Sao chép bản chép lời</string>
+	<key>CopyWithTimestamp</key>
+	<string>Sao chép liên kết kèm dấu thời gian</string>
+	<key>CopyWithTimestampDesc</key>
+	<string>Sao chép liên kết video kèm dấu thời gian vào bộ nhớ tạm khi nhấn nút tạm dừng.</string>
+	<key>Credits</key>
+	<string>Ghi công</string>
+	<key>Custom</key>
+	<string>Tự chọn</string>
+	<key>CustomAudioTrack</key>
+	<string>Bản âm thanh đã chọn</string>
+	<key>CustomAudioTrackDesc</key>
+	<string>Ưu tiên sử dụng ngôn ngữ bản âm thanh đã chọn nếu khả dụng.</string>
+	<key>CustomCaptions</key>
+	<string>Phụ đề đã chọn</string>
+	<key>CustomCaptionsDesc</key>
+	<string>Ưu tiên sử dụng ngôn ngữ phụ đề đã chọn nếu khả dụng.</string>
+	<key>Default</key>
+	<string>Mặc định</string>
+	<key>DefaultPlaybackRate</key>
+	<string>Tốc độ phát mặc định</string>
+	<key>DefaultPlaybackRateDesc</key>
+	<string>Thay thế tốc độ phát mặc định.</string>
+	<key>DevContribution</key>
+	<string>Đóng góp phát triển</string>
+	<key>Developer</key>
+	<string>Nhà phát triển</string>
+	<key>Disable</key>
+	<string>Tắt</string>
+	<key>DisableAmbientMode</key>
+	<string>Tắt chế độ môi trường xung quanh</string>
+	<key>DisableAmbientModeDesc</key>
+	<string>Tắt hiệu ứng môi trường xung quanh trong và dưới trình phát.</string>
+	<key>DisableAutoCaptions</key>
+	<string>Không tự bật phụ đề</string>
+	<key>DisableAutoCaptionsDesc</key>
+	<string>Không tự động bật phụ đề ngay khi nhấn xem.</string>
+	<key>DisableAutoplay</key>
+	<string>Không tự phát video</string>
+	<key>DisableAutoplayDesc</key>
+	<string>Không tự động phát video ngay khi nhấn xem.</string>
+	<key>DisableRTL</key>
+	<string>Tắt định dạng RTL</string>
+	<key>DisableRTLDesc</key>
+	<string>Buộc hiển thị tất cả văn bản theo định dạng từ trái sang phải (LTR), kể cả các ngôn ngữ sử dụng định dạng từ phải sang trái (RTL).</string>
+	<key>Disabled</key>
+	<string>Tắt</string>
+	<key>DonateDesc</key>
+	<string>Mọi hỗ trợ của bạn đều có ý nghĩa rất lớn</string>
+	<key>DonationReminder</key>
+	<string>Sự hỗ trợ của bạn sẽ giúp YouTube Plus ngày một tốt hơn.
+
+Bạn có thể chọn ủng hộ ngay hoặc tắt thông báo này trong phần cài đặt YouTube Plus. Cảm ơn bạn 💜</string>
+	<key>Done</key>
+	<string>Xong</string>
+	<key>DontSnap2Chapter</key>
+	<string>Tắt ghim phân cảnh</string>
+	<key>DontSnap2ChapterDesc</key>
+	<string>Tắt tính năng tự động chuyển đến phân cảnh gần nhất khi tua video.</string>
+	<key>DownloadAudio</key>
+	<string>Tải âm thanh xuống</string>
+	<key>DownloadCaptions</key>
+	<string>Tải phụ đề xuống</string>
+	<key>DownloadCompleted</key>
+	<string>Tải xuống hoàn tất</string>
+	<key>DownloadManager</key>
+	<string>Trình quản lý tải xuống</string>
+	<key>DownloadManagerDesc</key>
+	<string>Khi bật, nhấn nút 'Tải xuống' dưới trình phát sẽ mở Trình quản lý tải xuống, cho phép bạn tải video, âm thanh, lưu và sao chép hình thu nhỏ hoặc thông tin video.</string>
+	<key>DownloadThumbnail</key>
+	<string>Lưu hình thu nhỏ</string>
+	<key>DownloadVideo</key>
+	<string>Tải video xuống</string>
+	<key>Downloading</key>
+	<string>Tải nội dung</string>
+	<key>DownloadingAudio</key>
+	<string>Đang tải xuống âm thanh</string>
+	<key>DownloadingVideo</key>
+	<string>Đang tải xuống video</string>
+	<key>DurationBased</key>
+	<string>Dựa trên thời lượng</string>
+	<key>DurationWithoutSegments</key>
+	<string>Hiển thị thời lượng mới</string>
+	<key>DurationWithoutSegmentsDesc</key>
+	<string>Hiển thị tổng thời lượng khi đã bỏ qua phân đoạn.</string>
+	<key>EmbedAutoGenCaps</key>
+	<string>Phụ đề tự động/đã dịch</string>
+	<key>EmbedAutoGenCapsDesc</key>
+	<string>Thêm phụ đề tự động, đã dịch và tự động dịch vào danh sách chọn.</string>
+	<key>EmbedCapsToVideos</key>
+	<string>Nhúng phụ đề</string>
+	<key>EmbedCapsToVideosDesc</key>
+	<string>Tích hợp phụ đề đã chọn vào video.</string>
+	<key>EmbedThumbnailsToVideos</key>
+	<string>Nhúng hình thu nhỏ</string>
+	<key>EmbedThumbnailsToVideosDesc</key>
+	<string>Tích hợp hình thu nhỏ vào dữ liệu thuộc tính của video.</string>
+	<key>EnableSponsorBlock</key>
+	<string>Bật</string>
+	<key>EnableSponsorBlockDesc</key>
+	<string>Kích hoạt tiện ích SponsorBlock.</string>
+	<key>Endcards</key>
+	<string>Kết thúc/Cảm ơn</string>
+	<key>EndcardsColor</key>
+	<string>Màu phân đoạn kết thúc</string>
+	<key>EndcardsDesc</key>
+	<string>Thường nằm ở các phần cuối của video, bắt đầu khi video hiện dòng cảm ơn hoặc khi các khung video hiện lên.</string>
+	<key>English</key>
+	<string>Tiếng Anh</string>
+	<key>EnglishNotFound</key>
+	<string>Không tìm thấy bản âm thanh tiếng Anh</string>
+	<key>Error</key>
+	<string>Lỗi</string>
+	<key>Error.Clipboard</key>
+	<string>Đã xảy ra lỗi. Kiểm tra bộ nhớ tạm để biết thêm thông tin</string>
+	<key>Error.FailedToImport</key>
+	<string>Không thể nhập cài đặt</string>
+	<key>Error.Multidownloading</key>
+	<string>Tính năng tải xuống nhiều video song song chưa khả dụng.</string>
+	<key>Error.NoSpace</key>
+	<string>Thiết bị không có đủ dung lượng.
+
+Cần thêm ít nhất %@ dung lượng để có thể tiếp tục. Dung lượng trống hiện tại: %@</string>
+	<key>Error.PathIssue</key>
+	<string>Đã xảy ra lỗi. Không thể tạo đường dẫn hoàn thiện, có thể do gặp sự cố với tiêu đề của nội dung.</string>
+	<key>Error.SbPrivateID</key>
+	<string>ID người dùng riêng tư (hay cục bộ) phải chứa ít nhất 32 ký tự</string>
+	<key>Error.SbPublicID</key>
+	<string>ID người dùng công khai phải chứa đúng 64 ký tự</string>
+	<key>Error.TryLater</key>
+	<string>Nội dung hiện đang phát trực tiếp hoặc đang được xử lý trên máy chủ Google và sẽ sớm hoàn tất.
+
+Vui lòng thử lại sau.</string>
+	<key>ExitFullscreen</key>
+	<string>Thoát chế độ toàn màn hình khi kết thúc</string>
+	<key>ExitFullscreenDesc</key>
+	<string>Thoát khỏi chế độ toàn màn hình khi video kết thúc.</string>
+	<key>ExportPreferences</key>
+	<string>Xuất cài đặt</string>
+	<key>ExtraSpeedOptions</key>
+	<string>Bổ sung lựa chọn tốc độ</string>
+	<key>ExtraSpeedOptionsDesc</key>
+	<string>Thêm các lựa chọn tốc độ bổ sung vào menu trình phát.</string>
+	<key>FEexplore</key>
+	<string>Khám phá</string>
+	<key>FEhistory</key>
+	<string>Lịch sử</string>
+	<key>FElibrary</key>
+	<string>Thư viện</string>
+	<key>FEpost_home</key>
+	<string>Bài đăng</string>
+	<key>FEshorts</key>
+	<string>Shorts</string>
+	<key>FEsubscriptions</key>
+	<string>Đăng ký</string>
+	<key>FEuploads</key>
+	<string>Tạo</string>
+	<key>FEwhat_to_watch</key>
+	<string>Trang chủ</string>
+	<key>Feed</key>
+	<string>Trang xem</string>
+	<key>FixAlbums</key>
+	<string>Sửa lỗi ảnh bìa Album</string>
+	<key>FixAlbumsDesc</key>
+	<string>Sửa lỗi hiển thị ảnh bìa Album cho người dùng tại Nga.</string>
+	<key>Floating</key>
+	<string>Cửa sổ nổi</string>
+	<key>FollowMe</key>
+	<string>Theo dõi tôi trên X</string>
+	<key>French</key>
+	<string>Tiếng Pháp</string>
+	<key>FullscreenToTheLeft</key>
+	<string>Xoay màn hình sang trái</string>
+	<key>FullscreenToTheLeftDesc</key>
+	<string>Nhấn vào nút toàn màn hình sẽ xoay màn hình sang trái thay vì sang phải như thông thường.</string>
+	<key>Gradient</key>
+	<string>Màu chuyển sắc</string>
+	<key>GradientColor</key>
+	<string>Màu phụ</string>
+	<key>HideAutoplay</key>
+	<string>Ẩn nút Tự động phát</string>
+	<key>HideAutoplayDesc</key>
+	<string>Ẩn nút tự động phát video tiếp theo khỏi trình phát.</string>
+	<key>HideCarouselLive</key>
+	<string>Ẩn nút Phát trực tiếp</string>
+	<key>HideCarouselLiveDesc</key>
+	<string>Không hiển thị nút mở các video trực tiếp khi tạm dừng.</string>
+	<key>HideCarouselShop</key>
+	<string>Ẩn nút Mua sắm</string>
+	<key>HideCarouselShopDesc</key>
+	<string>Không hiển thị nút mở các video gợi ý mua sắm khi tạm dừng.</string>
+	<key>HideCarouselSub</key>
+	<string>Ẩn nút Kênh đăng ký</string>
+	<key>HideCarouselSubDesc</key>
+	<string>Không hiển thị nút mở các video của kênh đăng ký khi tạm dừng.</string>
+	<key>HideCarouselTrends</key>
+	<string>Ẩn nút Xu hướng</string>
+	<key>HideCarouselTrendsDesc</key>
+	<string>Không hiển thị nút mở các video xu hướng khi tạm dừng.</string>
+	<key>HideLibraryFooter</key>
+	<string>Bạn cũng có thể mở phần cài đặt tab bằng cách nhấn giữ vào tab đầu tiên.</string>
+	<key>HidePrevNext</key>
+	<string>Ẩn nút Trước và Tiếp theo</string>
+	<key>HidePrevNextDesc</key>
+	<string>Ẩn nút chuyển đến video trước hoặc video tiếp theo khỏi trình phát.</string>
+	<key>HideShorts</key>
+	<string>Ẩn video ngắn (Shorts)</string>
+	<key>HideShortsAudio</key>
+	<string>Ẩn thông tin âm thanh</string>
+	<key>HideShortsAudioDesc</key>
+	<string>Ẩn dòng văn bản biểu thị âm thanh được sử dụng trong video hiện tại.</string>
+	<key>HideShortsCamera</key>
+	<string>Ẩn nút Máy ảnh</string>
+	<key>HideShortsCameraDesc</key>
+	<string>Ẩn nút mở máy ảnh để tạo nội dung ở cạnh trên.</string>
+	<key>HideShortsComments</key>
+	<string>Ẩn nút Bình luận</string>
+	<key>HideShortsCommentsDesc</key>
+	<string>Ẩn nút mở phần bình luận ở cạnh bên.</string>
+	<key>HideShortsDesc</key>
+	<string>Ẩn các video ngắn khỏi Trang chủ, Được đề xuất, v.v.</string>
+	<key>HideShortsDescription</key>
+	<string>Ẩn phần mô tả</string>
+	<key>HideShortsDescriptionDesc</key>
+	<string>Ẩn phần mô tả của video.</string>
+	<key>HideShortsDislike</key>
+	<string>Ẩn nút Không thích</string>
+	<key>HideShortsDislikeDesc</key>
+	<string>Ẩn nút không thích video ở cạnh bên.</string>
+	<key>HideShortsLike</key>
+	<string>Ẩn nút Thích</string>
+	<key>HideShortsLikeDesc</key>
+	<string>Ẩn nút thích video ở cạnh bên.</string>
+	<key>HideShortsLogo</key>
+	<string>Ẩn biểu tượng Shorts</string>
+	<key>HideShortsLogoDesc</key>
+	<string>Ẩn biểu tượng Shorts ở góc trên bên trái màn hình.</string>
+	<key>HideShortsMore</key>
+	<string>Ẩn nút Thêm (⋮)</string>
+	<key>HideShortsMoreDesc</key>
+	<string>Ẩn nút mở menu tùy chọn bổ sung ở cạnh trên. Bạn vẫn có thể truy cập menu này bằng cách nhấn giữ vào màn hình.</string>
+	<key>HideShortsRemix</key>
+	<string>Ẩn nút Phối lại</string>
+	<key>HideShortsRemixDesc</key>
+	<string>Ẩn nút phối lại video ở cạnh bên.</string>
+	<key>HideShortsSearch</key>
+	<string>Ẩn nút Tìm kiếm</string>
+	<key>HideShortsSearchDesc</key>
+	<string>Ẩn nút tìm kiếm nội dung ở cạnh trên.</string>
+	<key>HideShortsShare</key>
+	<string>Ẩn nút Chia sẻ</string>
+	<key>HideShortsShareDesc</key>
+	<string>Ẩn nút chia sẻ video ở cạnh bên.</string>
+	<key>HideShortsSource</key>
+	<string>Ẩn nút dẫn nguồn</string>
+	<key>HideShortsSourceDesc</key>
+	<string>Ẩn nút liên kết đến video đầy đủ hoặc một video ngắn khác.</string>
+	<key>HideShortsSubscribe</key>
+	<string>Ẩn nút Đăng ký</string>
+	<key>HideShortsSubscribeDesc</key>
+	<string>Ẩn nút đăng ký kênh xuất hiện cạnh tên người dùng.</string>
+	<key>HideShortsSuggestion</key>
+	<string>Ẩn nút được đề xuất</string>
+	<key>HideShortsSuggestionDesc</key>
+	<string>Ẩn các nút thao tác được đề xuất, chẳng hạn như Lưu vào danh sách phát, Super Thanks, v.v.</string>
+	<key>HideShortsUsername</key>
+	<string>Ẩn tên người dùng</string>
+	<key>HideShortsUsernameDesc</key>
+	<string>Ẩn tên người dùng của kênh.</string>
+	<key>HideSortComments</key>
+	<string>Ẩn thanh tùy chọn sắp xếp bình luận</string>
+	<key>HideSortCommentsDesc</key>
+	<string>Ẩn các tùy chọn sắp xếp bình luận.</string>
+	<key>HideSubs</key>
+	<string>Ẩn nút Phụ đề</string>
+	<key>HideSubsDesc</key>
+	<string>Ẩn nút hiển thị phụ đề video khỏi trình phát.</string>
+	<key>Highlight</key>
+	<string>Nổi bật</string>
+	<key>HighlightColor</key>
+	<string>Màu phân đoạn nổi bật</string>
+	<key>HighlightDesc</key>
+	<string>Phần video nhằm dẫn người xem đến nội dung chính hoặc những điểm nổi bật của một video.</string>
+	<key>HoldToSpeed</key>
+	<string>Nhấn giữ để chỉnh tốc độ thành</string>
+	<key>HoldToSpeedDesc</key>
+	<string>Điều chỉnh tốc độ phát khi nhấn giữ vào màn hình.</string>
+	<key>ImportPreferences</key>
+	<string>Nhập cài đặt</string>
+	<key>InactiveTabs</key>
+	<string>Tab đã ẩn đi</string>
+	<key>Independent</key>
+	<string>Độc lập</string>
+	<key>Interaction</key>
+	<string>Nhắc nhở tương tác</string>
+	<key>InteractionColor</key>
+	<string>Màu phân đoạn nhắc nhở tương tác</string>
+	<key>InteractionDesc</key>
+	<string>Phần video nhắc nhở người xem thích, đăng ký hoặc tương tác với nhà sáng tạo trên một nền tảng trả phí hoặc miễn phí bất kỳ (vd: nhấp vào video).</string>
+	<key>Interface</key>
+	<string>Giao diện</string>
+	<key>InterfaceStyle</key>
+	<string>Kiểu giao diện</string>
+	<key>Intro</key>
+	<string>Giới thiệu/Nghỉ</string>
+	<key>IntroColor</key>
+	<string>Màu phân đoạn giới thiệu</string>
+	<key>IntroDesc</key>
+	<string>Các phần thường được tìm thấy ở đầu video bao gồm hoạt ảnh, khung hình tĩnh hoặc clip được dùng xuyên suốt trong các video của cùng một kênh.</string>
+	<key>Italian</key>
+	<string>Tiếng Ý</string>
+	<key>Japanese</key>
+	<string>Tiếng Nhật</string>
+	<key>Jokes</key>
+	<string>Phần thêm thắt/Lời đùa</string>
+	<key>JokesColor</key>
+	<string>Màu phân đoạn thêm thắt</string>
+	<key>JokesDesc</key>
+	<string>Phần video được thêm vào nhằm tăng tính giải trí hoặc chỉ để cho vui, không nhất thiết phải xem để có thể hiểu nội dung chính của video.</string>
+	<key>KeepSubsShorts</key>
+	<string>Giữ video ngắn trong tab Đăng ký</string>
+	<key>KeepSubsShortsDesc</key>
+	<string>Không ẩn các video ngắn trong tab Đăng ký.</string>
+	<key>Korean</key>
+	<string>Tiếng Hàn</string>
+	<key>LeftSideGesture</key>
+	<string>Cử chỉ bên trái</string>
+	<key>LeftSideGestureDesc</key>
+	<string>Điều chỉnh giá trị bằng cách vuốt lên xuống ở phần bên trái màn hình.</string>
+	<key>LibraryAdded</key>
+	<string>Đã khôi phục tab "Bạn"</string>
+	<key>LibraryRemoved</key>
+	<string>Đã xóa tab "Bạn"</string>
+	<key>LinkDetected</key>
+	<string>Đã phát hiện liên kết YouTube. Bạn có muốn mở liên kết này trong YouTube không?</string>
+	<key>Localizations</key>
+	<string>Tác giả các bản dịch</string>
+	<key>LockButton</key>
+	<string>Nút khóa thao tác</string>
+	<key>LockButtonDesc</key>
+	<string>Hiển thị nút khóa nhanh cử chỉ thao tác, đồng thời chuyển sang chế độ toàn màn hình.</string>
+	<key>LoginInfo</key>
+	<string>Yêu cầu khởi động lại ứng dụng sau khi đăng nhập thành công vào tài khoản Google</string>
+	<key>Loop</key>
+	<string>Lặp lại</string>
+	<key>Main</key>
+	<string>Cài đặt chính</string>
+	<key>MainColor</key>
+	<string>Màu chính</string>
+	<key>ManageCache</key>
+	<string>Quản lý bộ nhớ đệm</string>
+	<key>ManagePreferences</key>
+	<string>Quản lý cài đặt</string>
+	<key>Miniplayer</key>
+	<string>Dùng trình phát thu nhỏ với mọi video</string>
+	<key>MiniplayerDesc</key>
+	<string>Sử dụng trình phát thu nhỏ đối với mọi video, kể cả các video dành cho trẻ em.</string>
+	<key>MiniplayerStyle</key>
+	<string>Kiểu trình phát thu nhỏ</string>
+	<key>MiniplayerStyleDesc</key>
+	<string>Việc chuyển sang hoặc chuyển từ chế độ cửa sổ nổi yêu cầu khởi động lại ứng dụng.</string>
+	<key>MusicOfftopic</key>
+	<string>Phần không phải nhạc trong video ca nhạc</string>
+	<key>MusicOfftopicColor</key>
+	<string>Màu phân đoạn không phải âm nhạc</string>
+	<key>MusicOfftopicDesc</key>
+	<string>Những phân cảnh phụ được thêm vào video ca nhạc và không phải là một phần của bản nhạc gốc.</string>
+	<key>MuteButton</key>
+	<string>Nút tắt tiếng</string>
+	<key>MuteButtonDesc</key>
+	<string>Hiển thị nút bật hoặc tắt âm thanh video trong trình phát.</string>
+	<key>NativeShare</key>
+	<string>Bảng chia sẻ hệ thống</string>
+	<key>NativeShareDesc</key>
+	<string>Sử dụng bảng chia sẻ mặc định của iOS để chia sẻ nội dung.</string>
+	<key>Navbar</key>
+	<string>Thanh điều hướng</string>
+	<key>No</key>
+	<string>Không</string>
+	<key>NoAutonavEndScreenCards</key>
+	<string>Ẩn màn hình phát video tiếp theo</string>
+	<key>NoAutonavEndScreenCardsDesc</key>
+	<string>Ẩn màn hình hiển thị video sẽ phát sau khi video hiện tại kết thúc. Tùy chọn này cũng sẽ tắt tính năng tự động phát.</string>
+	<key>NoContentWarning</key>
+	<string>Bỏ qua cảnh báo nội dung</string>
+	<key>NoContentWarningDesc</key>
+	<string>Không hiển thị hộp thoại cảnh báo nội dung nhạy cảm.</string>
+	<key>NoDarkBg</key>
+	<string>Không làm tối màn hình</string>
+	<key>NoDarkBgDesc</key>
+	<string>Không làm tối màn hình video khi nhấn hiển thị các nút điều khiển.</string>
+	<key>NoDonationReminder</key>
+	<string>Tắt nhắc nhở ủng hộ</string>
+	<key>NoDonationReminderDesc</key>
+	<string>Tắt lời nhắc ủng hộ, thông báo này hiếm khi được hiển thị.</string>
+	<key>NoDoubleTap2Seek</key>
+	<string>Tắt chạm hai lần để tua</string>
+	<key>NoDoubleTap2SeekDesc</key>
+	<string>Tắt thao tác chạm hai lần để tua.</string>
+	<key>NoEndScreenCards</key>
+	<string>Ẩn video ở màn hình kết thúc</string>
+	<key>NoEndScreenCardsDesc</key>
+	<string>Ẩn các khung hình xuất hiện khi video sắp kết thúc.</string>
+	<key>NoFreeZoom</key>
+	<string>Tắt cử chỉ thu phóng</string>
+	<key>NoFreeZoomDesc</key>
+	<string>Tắt cử chỉ thu phóng video.</string>
+	<key>NoFullscreenActions</key>
+	<string>Ẩn các nút cạnh dưới trong toàn màn hình</string>
+	<key>NoFullscreenActionsDesc</key>
+	<string>Ẩn dải các nút thao tác nhanh ở cạnh dưới trong chế độ toàn màn hình.</string>
+	<key>NoHints</key>
+	<string>Ẩn thẻ gợi ý</string>
+	<key>NoHintsDesc</key>
+	<string>Ẩn thẻ gợi ý của kênh xuất hiện ở góc trên bên phải video trong khi phát.</string>
+	<key>NoPromotionCards</key>
+	<string>Ẩn chú thích Chứa nội dung quảng cáo</string>
+	<key>NoPromotionCardsDesc</key>
+	<string>Ẩn thẻ chú thích "Chứa nội dung được trả tiền để quảng cáo" trong các video tự quảng cáo.</string>
+	<key>NoRelatedVids</key>
+	<string>Ẩn video liên quan</string>
+	<key>NoRelatedVidsDesc</key>
+	<string>Ẩn các video liên quan khi thực hiện vuốt lên trong chế độ toàn màn hình.</string>
+	<key>NoRelatedWatchNexts</key>
+	<string>Ẩn video dưới trình phát</string>
+	<key>NoRelatedWatchNextsDesc</key>
+	<string>Ẩn tất cả video dưới trình phát, chỉ để lại phần thông tin mô tả video và bình luận.</string>
+	<key>NoSearchHistory</key>
+	<string>Ẩn lịch sử tìm kiếm</string>
+	<key>NoSearchHistoryDesc</key>
+	<string>Ẩn lịch sử tìm kiếm và đề xuất. Lưu ý: Bạn vẫn có thể truy cập lịch sử tìm kiếm của mình trong các ứng dụng hoặc thiết bị khác.</string>
+	<key>NoShareChunk</key>
+	<string>Bỏ tham số theo dõi</string>
+	<key>NoShareChunkDesc</key>
+	<string>Loại bỏ tham số "si=identifier" khỏi liên kết chia sẻ. Có thể sử dụng thay cho tùy chọn "Bảng chia sẻ hệ thống", bởi YouTube đang ngày một cải thiện bảng chia sẻ của ứng dụng.</string>
+	<key>NoSubUnderPlayer</key>
+	<string>Ẩn nút "Đăng ký"</string>
+	<key>NoSubUnderPlayerDesc</key>
+	<string>Ẩn nút đăng ký kênh dưới trình phát.</string>
+	<key>NoSubbar</key>
+	<string>Ẩn thanh phụ</string>
+	<key>NoSubbarDesc</key>
+	<string>Ẩn dải các nút phụ dưới thanh điều hướng (Tất cả, Đề xuất mới, Trực tiếp, v.v.).</string>
+	<key>NoTwoFingerSnapToChapter</key>
+	<string>Tắt chạm hai lần bằng hai ngón tay</string>
+	<key>NoTwoFingerSnapToChapterDesc</key>
+	<string>Tắt thao tác chạm hai lần bằng hai ngón tay để chuyển phân cảnh.</string>
+	<key>NoWatermarks</key>
+	<string>Ẩn hình mờ của kênh</string>
+	<key>NoWatermarksDesc</key>
+	<string>Ẩn hình mờ xuất hiện ở góc dưới bên phải màn hình.</string>
+	<key>NoYTLogo</key>
+	<string>Ẩn biểu tượng YouTube</string>
+	<key>NoYTLogoDesc</key>
+	<string>Ẩn biểu tượng YouTube khỏi thanh điều hướng.</string>
+	<key>NothingToShowInMenu</key>
+	<string>Không có gì để hiển thị</string>
+	<key>OldYTUI</key>
+	<string>Dùng giao diện cũ</string>
+	<key>OldYTUIDesc</key>
+	<string>Giả mạo phiên bản YouTube để sử dụng giao diện cũ.</string>
+	<key>OledKeyboard</key>
+	<string>Bàn phím OLED</string>
+	<key>OledKeyboardDesc</key>
+	<string>Chuyển màu bàn phím thành màu đen tuyền.</string>
+	<key>OledTheme</key>
+	<string>Chủ đề OLED</string>
+	<key>OledThemeDesc</key>
+	<string>Chuyển tất cả màu tối thành màu đen tuyền.</string>
+	<key>OpenAsRegularVideo</key>
+	<string>Mở như video thông thường</string>
+	<key>OpenLink</key>
+	<string>Mở liên kết</string>
+	<key>OpenSourceLibs</key>
+	<string>Thư viện nguồn mở</string>
+	<key>Original</key>
+	<string>Nguyên bản</string>
+	<key>Other</key>
+	<string>Khác</string>
+	<key>Overlay</key>
+	<string>Trong trình phát</string>
+	<key>ParsingCaptions</key>
+	<string>Đang phân giải phụ đề</string>
+	<key>ParsingTranscript</key>
+	<string>Đang phân giải bản chép lời</string>
+	<key>PauseOnOverlay</key>
+	<string>Tạm dừng khi hiện nút điều khiển</string>
+	<key>PauseOnOverlayDesc</key>
+	<string>Tự động tạm dừng video khi nhấn hiển thị các nút điều khiển.</string>
+	<key>PersistentProgressBar</key>
+	<string>Luôn hiện thanh tiến trình</string>
+	<key>PersistentProgressBarDesc</key>
+	<string>Không ẩn thanh tiến trình trong trình phát.</string>
+	<key>PinchToFullscreenShorts</key>
+	<string>Cử chỉ thu phóng để bật toàn màn hình</string>
+	<key>PinchToFullscreenShortsDesc</key>
+	<string>Sử dụng cử chỉ phóng to để hiển thị video ngắn ở chế độ toàn màn hình, thu nhỏ để quay lại chế độ thông thường.</string>
+	<key>PlayInExternalPlayer</key>
+	<string>Phát trong ứng dụng khác</string>
+	<key>PlayInInfuse</key>
+	<string>Phát trong Infuse</string>
+	<key>PlayInSystemPlayer</key>
+	<string>Phát trong trình phát hệ thống</string>
+	<key>PlayInVLC</key>
+	<string>Phát trong VLC</string>
+	<key>PlaybackMode</key>
+	<string>Sau khi kết thúc video</string>
+	<key>PlaybackQualityOnCellular</key>
+	<string>Chất lượng video qua mạng di động</string>
+	<key>PlaybackQualityOnCellularDesc</key>
+	<string>Tự động áp dụng chất lượng phát đã chọn khi sử dụng dữ liệu di động.</string>
+	<key>PlaybackQualityOnWiFi</key>
+	<string>Chất lượng video qua Wi-Fi</string>
+	<key>PlaybackQualityOnWiFiDesc</key>
+	<string>Tự động áp dụng chất lượng phát đã chọn khi sử dụng Wi-Fi.</string>
+	<key>PlaybackSpeed</key>
+	<string>Tốc độ phát</string>
+	<key>Player</key>
+	<string>Trình phát</string>
+	<key>Player.Actions</key>
+	<string>Hành động</string>
+	<key>Player.Gestures</key>
+	<string>Cử chỉ</string>
+	<key>Player.Interface</key>
+	<string>Giao diện</string>
+	<key>PlayerNoClip</key>
+	<string>Ẩn nút "Tạo đoạn video"</string>
+	<key>PlayerNoClipDesc</key>
+	<string>Ẩn nút tạo đoạn video dưới trình phát.</string>
+	<key>PlayerNoDownload</key>
+	<string>Ẩn nút "Tải xuống"</string>
+	<key>PlayerNoDownloadDesc</key>
+	<string>Ẩn nút tải xuống video dưới trình phát.</string>
+	<key>PlayerNoRemix</key>
+	<string>Ẩn nút "Phối lại"</string>
+	<key>PlayerNoRemixDesc</key>
+	<string>Ẩn nút phối lại video dưới trình phát.</string>
+	<key>PlayerNoReport</key>
+	<string>Ẩn nút "Báo cáo"</string>
+	<key>PlayerNoReportDesc</key>
+	<string>Ẩn nút báo cáo video dưới trình phát.</string>
+	<key>PlayerNoSave</key>
+	<string>Ẩn nút "Lưu"</string>
+	<key>PlayerNoSaveDesc</key>
+	<string>Ẩn nút lưu video dưới trình phát.</string>
+	<key>PlayerNoShare</key>
+	<string>Ẩn nút "Chia sẻ"</string>
+	<key>PlayerNoShareDesc</key>
+	<string>Ẩn nút chia sẻ video dưới trình phát.</string>
+	<key>PlayerNoThanks</key>
+	<string>Ẩn nút "Cảm ơn"</string>
+	<key>PlayerNoThanksDesc</key>
+	<string>Ẩn nút ủng hộ kênh dưới trình phát.</string>
+	<key>PlayerNotFound</key>
+	<string>Không tìm thấy trình phát</string>
+	<key>PlaylistOldMinibar</key>
+	<string>Thanh điều khiển danh sách phát cũ</string>
+	<key>PlaylistOldMinibarDesc</key>
+	<string>Thay thế thanh điều khiển danh sách phát mới bằng dạng cũ.</string>
+	<key>Polish</key>
+	<string>Tiếng Ba Lan</string>
+	<key>PortraitFullscreen</key>
+	<string>Chế độ toàn màn hình dọc</string>
+	<key>PortraitFullscreenDesc</key>
+	<string>Cho phép vào chế độ toàn màn hình theo chiều dọc.</string>
+	<key>PostDownloadAction</key>
+	<string>Sau khi tải xuống</string>
+	<key>PostDownloadDesc</key>
+	<string>Chọn tác vụ để thực hiện sau khi tải video hoàn tất.</string>
+	<key>PostManager</key>
+	<string>Lưu bài đăng</string>
+	<key>PostManagerDesc</key>
+	<string>Sao chép nội dung hoặc lưu bài đăng dưới dạng hình ảnh bằng cách nhấn giữ.</string>
+	<key>PreImportMessage</key>
+	<string>Tùy chọn này sẽ áp dụng các cài đặt từ tệp được chọn, mọi cài đặt hiện tại sẽ bị thay thế.
+
+Bạn có chắc chắn muốn thực hiện không?</string>
+	<key>Preferences</key>
+	<string>Cài đặt %@</string>
+	<key>PreferredAudio</key>
+	<string>Lựa chọn bản âm thanh</string>
+	<key>PreferredCaptions</key>
+	<string>Lựa chọn phụ đề</string>
+	<key>PremiumYTLogo</key>
+	<string>Dùng biểu tượng YouTube Premium</string>
+	<key>PremiumYTLogoDesc</key>
+	<string>Thay thế biểu tượng thông thường trên thanh điều hướng bằng biểu tượng YouTube Premium.</string>
+	<key>PreserveSpeed</key>
+	<string>Giữ tốc độ đã điều chỉnh</string>
+	<key>PreserveSpeedDesc</key>
+	<string>Duy trì tốc độ đã điều chỉnh sau khi thực hiện cử chỉ.</string>
+	<key>Preview</key>
+	<string>Xem trước</string>
+	<key>PreviewColor</key>
+	<string>Màu phân đoạn xem trước</string>
+	<key>PreviewDesc</key>
+	<string>Loạt các clip nhỏ cho người xem biết hoạt động sẽ diễn ra trong video hiện tại hoặc một video khác, các clip này được cắt ra từ nội dung chính và sẽ được đề cập lại trong phần sau của video.</string>
+	<key>PrivateUserID</key>
+	<string>ID người dùng riêng tư</string>
+	<key>ProgressBarStyle</key>
+	<string>Kiểu thanh tiến trình</string>
+	<key>PublicUserID</key>
+	<string>ID người dùng công khai</string>
+	<key>RedProgressBar</key>
+	<string>Thanh tiến trình màu đỏ</string>
+	<key>RedProgressBarDesc</key>
+	<string>Sử dụng thanh tiến trình màu đỏ kiểu cũ.</string>
+	<key>RememberLoopMode</key>
+	<string>Ghi nhớ chế độ vòng lặp</string>
+	<key>RememberLoopModeDesc</key>
+	<string>Ghi nhớ chế độ vòng lặp đã chọn lần cuối trong menu trình phát.</string>
+	<key>RemoveAds</key>
+	<string>Chặn quảng cáo</string>
+	<key>RemoveAdsDesc</key>
+	<string>Loại bỏ quảng cáo trong ứng dụng.</string>
+	<key>RemoveCast</key>
+	<string>Ẩn nút Truyền</string>
+	<key>RemoveCastDesc</key>
+	<string>Ẩn nút truyền video đến thiết bị khác khỏi thanh điều hướng.</string>
+	<key>RemoveCommentGuidelines</key>
+	<string>Ẩn nguyên tắc trên kênh</string>
+	<key>RemoveCommentGuidelinesDesc</key>
+	<string>Ẩn nguyên tắc do kênh đưa ra trong phần bình luận.</string>
+	<key>RemoveCommunityPosts</key>
+	<string>Ẩn bài đăng cộng đồng</string>
+	<key>RemoveCommunityPostsDesc</key>
+	<string>Ẩn bài đăng cộng đồng khỏi trang xem.</string>
+	<key>RemoveDontRecommendMenu</key>
+	<string>Ẩn "Không đề xuất kênh này"</string>
+	<key>RemoveDontRecommendMenuDesc</key>
+	<string>Ẩn tùy chọn hạn chế đề xuất kênh khỏi menu.</string>
+	<key>RemoveDownloadMenu</key>
+	<string>Ẩn "Tải video xuống"</string>
+	<key>RemoveDownloadMenuDesc</key>
+	<string>Ẩn tùy chọn tải xuống video khỏi menu.</string>
+	<key>RemoveHorizontalFeeds</key>
+	<string>Ẩn nội dung được bố trí ngang</string>
+	<key>RemoveHorizontalFeedsDesc</key>
+	<string>Ẩn phần nội dung được bố trí theo chiều ngang khỏi tab Trang chủ (Tin tức hàng đầu, Tiếp tục xem, v.v.).</string>
+	<key>RemoveIndicators</key>
+	<string>Ẩn biểu thị hiện hoạt</string>
+	<key>RemoveInlineComment</key>
+	<string>Ẩn xem trước bình luận</string>
+	<key>RemoveInlineCommentDesc</key>
+	<string>Ẩn bản xem trước bình luận dưới trình phát.</string>
+	<key>RemoveLabels</key>
+	<string>Ẩn tên tab</string>
+	<key>RemoveLibraryTab</key>
+	<string>Xóa tab "Bạn"</string>
+	<key>RemoveLiveVids</key>
+	<string>Ẩn video trực tiếp</string>
+	<key>RemoveLiveVidsDesc</key>
+	<string>Ẩn các video trực tiếp khỏi tab Trang chủ.</string>
+	<key>RemoveMixPlaylists</key>
+	<string>Ẩn danh sách kết hợp</string>
+	<key>RemoveMixPlaylistsDesc</key>
+	<string>Ẩn danh sách phát kết hợp được YouTube tự động tạo khỏi trang xem.</string>
+	<key>RemoveMoreTopics</key>
+	<string>Ẩn chủ đề khác</string>
+	<key>RemoveMoreTopicsDesc</key>
+	<string>Ẩn mục "Khám phá các chủ đề khác" khỏi trang xem.</string>
+	<key>RemoveNotInterestedMenu</key>
+	<string>Ẩn "Không quan tâm"</string>
+	<key>RemoveNotInterestedMenuDesc</key>
+	<string>Ẩn tùy chọn không quan tâm nội dung khỏi menu.</string>
+	<key>RemoveNotifications</key>
+	<string>Ẩn nút Thông báo</string>
+	<key>RemoveNotificationsDesc</key>
+	<string>Ẩn nút mở phần thông báo khỏi thanh điều hướng.</string>
+	<key>RemovePlayNext</key>
+	<string>Ẩn "Phát tiếp theo trong danh sách chờ"</string>
+	<key>RemovePlayNextDesc</key>
+	<string>Ẩn tùy chọn thêm video vào danh sách chờ khỏi menu.</string>
+	<key>RemovePlayables</key>
+	<string>Ẩn trò chơi</string>
+	<key>RemovePlayablesDesc</key>
+	<string>Ẩn các trò chơi nhỏ (minigame) khỏi trang xem.</string>
+	<key>RemoveRemixMenu</key>
+	<string>Ẩn "Phối lại"</string>
+	<key>RemoveRemixMenuDesc</key>
+	<string>Ẩn tùy chọn phối lại video khỏi menu.</string>
+	<key>RemoveReportMenu</key>
+	<string>Ẩn "Báo vi phạm"</string>
+	<key>RemoveReportMenuDesc</key>
+	<string>Ẩn tùy chọn báo vi phạm nội dung khỏi menu.</string>
+	<key>RemoveSaveToPlaylistMenu</key>
+	<string>Ẩn "Lưu vào danh sách phát"</string>
+	<key>RemoveSaveToPlaylistMenuDesc</key>
+	<string>Ẩn tùy chọn thêm video vào danh sách phát bất kỳ khỏi menu.</string>
+	<key>RemoveSearch</key>
+	<string>Ẩn nút Tìm kiếm</string>
+	<key>RemoveSearchDesc</key>
+	<string>Ẩn nút tìm kiếm nội dung khỏi thanh điều hướng.</string>
+	<key>RemoveShareMenu</key>
+	<string>Ẩn "Chia sẻ"</string>
+	<key>RemoveShareMenuDesc</key>
+	<string>Ẩn tùy chọn chia sẻ video khỏi menu.</string>
+	<key>RemoveShortsLive</key>
+	<string>Ẩn video trực tiếp</string>
+	<key>RemoveShortsLiveDesc</key>
+	<string>Ẩn các video trực tiếp khỏi trang xem.</string>
+	<key>RemoveVoiceSearch</key>
+	<string>Ẩn nút Tìm kiếm bằng giọng nói</string>
+	<key>RemoveVoiceSearchDesc</key>
+	<string>Ẩn nút tìm kiếm nội dung bằng giọng nói khỏi thanh điều hướng.</string>
+	<key>RemoveWatchLaterMenu</key>
+	<string>Ẩn "Lưu vào danh sách Xem sau"</string>
+	<key>RemoveWatchLaterMenuDesc</key>
+	<string>Ẩn tùy chọn thêm video vào danh sách Xem sau khỏi menu.</string>
+	<key>RemoveYTMMenu</key>
+	<string>Ẩn "Nghe nhạc trên YouTube Music"</string>
+	<key>RemoveYTMMenuDesc</key>
+	<string>Ẩn tùy chọn mở nội dung trong YouTube Music khỏi menu.</string>
+	<key>ReplacePrevNext</key>
+	<string>Dùng nút Tua đi và Tua lại</string>
+	<key>ReplacePrevNextDesc</key>
+	<string>Thay thế nút chuyển đến video trước hoặc tiếp theo trong trình phát bằng nút tua video.</string>
+	<key>ResetMessage</key>
+	<string>Tùy chọn này sẽ đặt lại cài đặt YTPlus về mặc định, sau đó thoát YouTube.
+
+Bạn có chắc chắn muốn thực hiện không?</string>
+	<key>ResetSettings</key>
+	<string>Đặt lại cài đặt mặc định</string>
+	<key>ResetSpeed</key>
+	<string>Đặt lại</string>
+	<key>RestrictShorts</key>
+	<string>Giới hạn số lượng video ngắn</string>
+	<key>RestrictShortsDesc</key>
+	<string>Giới hạn số lượng video ngắn trong trang xem còn khoảng 10 - 15 video. Sử dụng nếu bạn muốn bỏ thói quen lướt xem không ngừng nghỉ.</string>
+	<key>RetryLogin</key>
+	<string>Đã áp dụng phương thức thay thế.
+
+Vui lòng thử lại.</string>
+	<key>RightSideGesture</key>
+	<string>Cử chỉ bên phải</string>
+	<key>RightSideGestureDesc</key>
+	<string>Điều chỉnh giá trị bằng cách vuốt lên xuống ở phần bên phải màn hình.</string>
+	<key>Save</key>
+	<string>Lưu</string>
+	<key>SaveCommentAsImage</key>
+	<string>Lưu bình luận dưới dạng hình ảnh</string>
+	<key>SaveCurrentImage</key>
+	<string>Lưu hình ảnh hiện tại</string>
+	<key>SaveImage</key>
+	<string>Lưu hình ảnh</string>
+	<key>SavePostAsImage</key>
+	<string>Lưu bài đăng dưới dạng hình ảnh</string>
+	<key>SaveProfilePhoto</key>
+	<string>Lưu ảnh hồ sơ</string>
+	<key>SaveProfilePhotoDesc</key>
+	<string>Lưu ảnh hồ sơ vào ứng dụng Ảnh bằng cách nhấn giữ.</string>
+	<key>SaveProfilePicture</key>
+	<string>Lưu ảnh hồ sơ</string>
+	<key>SaveToPhotos</key>
+	<string>Lưu vào Ảnh</string>
+	<key>Saved</key>
+	<string>Đã lưu vào ứng dụng Ảnh</string>
+	<key>Sb.Alphabetical</key>
+	<string>Bảng chữ cái (A-Z)</string>
+	<key>Sb.AlphabeticalRev</key>
+	<string>Đảo ngược (Z-A)</string>
+	<key>Sb.Ask</key>
+	<string>Hỏi</string>
+	<key>Sb.Channels</key>
+	<string>Kênh</string>
+	<key>Sb.ChannelsHere</key>
+	<string>Kênh đã thêm vào danh sách trắng sẽ hiển thị tại đây</string>
+	<key>Sb.Disable</key>
+	<string>Tắt</string>
+	<key>Sb.Display</key>
+	<string>Chỉ hiển thị</string>
+	<key>Sb.Newest</key>
+	<string>Mới nhất</string>
+	<key>Sb.Oldest</key>
+	<string>Cũ nhất</string>
+	<key>Sb.Skip</key>
+	<string>Tự động bỏ qua</string>
+	<key>Sb.SkipTo</key>
+	<string>Chuyển đến phân đoạn</string>
+	<key>Sb.Whitelist</key>
+	<string>Kênh trong danh sách trắng</string>
+	<key>Sb.Whitelisted</key>
+	<string>Đã thêm vào danh sách trắng</string>
+	<key>SbAddToWhitelist</key>
+	<string>Thêm vào danh sách trắng</string>
+	<key>SbPlayerButton</key>
+	<string>Hiện nút trong trình phát</string>
+	<key>SbPlayerButtonDesc</key>
+	<string>Hiển thị nút SponsorBlock trong trình phát video.</string>
+	<key>SbRemoveFromWhitelist</key>
+	<string>Xóa khỏi danh sách trắng</string>
+	<key>SbWhitelist</key>
+	<string>Danh sách trắng</string>
+	<key>ScrollToNext</key>
+	<string>Phát tiếp theo</string>
+	<key>ScrubberColor</key>
+	<string>Màu núm trượt</string>
+	<key>SeekAnywhere</key>
+	<string>Vuốt để tua chính xác</string>
+	<key>SeekAnywhereDesc</key>
+	<string>Tua chính xác bằng cách vuốt sang trái hoặc sang phải ở vị trí bất kỳ trên màn hình.</string>
+	<key>SeekMethod</key>
+	<string>Phương thức tua chính xác</string>
+	<key>SeekMethodDesc</key>
+	<string>Độc lập: Vuốt nhanh qua toàn bộ thanh thời lượng của video. Có thể điều chỉnh độ nhạy bằng thanh trượt bên dưới.
+
+Dựa trên thời lượng: Độ nhạy khi vuốt sẽ dựa trên cả giá trị thanh trượt bên dưới và thời lượng của video. Từ đó, video dài sẽ cần vuốt một quãng dài hơn so với thông thường, giúp tránh việc tua quá phần video mong muốn.</string>
+	<key>SeekSensitivity</key>
+	<string>Độ nhạy</string>
+	<key>SegmentDetected</key>
+	<string>Đã phát hiện %@.
+%@</string>
+	<key>SegmentSkipAudio</key>
+	<string>Thông báo âm thanh</string>
+	<key>SegmentSkipAudioDesc</key>
+	<string>Phát thông báo âm thanh khi bỏ qua phân đoạn.</string>
+	<key>SegmentSkipped</key>
+	<string>Đã bỏ qua %@</string>
+	<key>Segments</key>
+	<string>Phân đoạn</string>
+	<key>SegmentsInFeedPlayer</key>
+	<string>Hiện phân đoạn trong trang xem</string>
+	<key>SegmentsInFeedPlayerDesc</key>
+	<string>Hiển thị các phân đoạn trên thanh tiến trình của video được phát ngay trong trang xem.</string>
+	<key>SegmentsInMiniPlayer</key>
+	<string>Hiện phân đoạn trong trình phát thu nhỏ</string>
+	<key>SegmentsInMiniPlayerDesc</key>
+	<string>Hiển thị các phân đoạn trên thanh tiến trình của trình phát thu nhỏ.</string>
+	<key>Select</key>
+	<string>Lựa chọn</string>
+	<key>SelectAction</key>
+	<string>Chọn tác vụ</string>
+	<key>SelectAudioTrack</key>
+	<string>Chọn bản âm thanh</string>
+	<key>SelectCaption</key>
+	<string>Chọn phụ đề</string>
+	<key>Selected</key>
+	<string>Đã chọn</string>
+	<key>SelfPromo</key>
+	<string>Tự quảng cáo/Không trả tiền</string>
+	<key>SelfPromoColor</key>
+	<string>Màu phân đoạn tự quảng cáo</string>
+	<key>SelfPromoDesc</key>
+	<string>Tự quảng cáo: Quảng cáo sản phẩm hoặc dịch vụ có liên quan trực tiếp đến chính nhà sáng tạo.
+Không trả tiền: Nhà sáng tạo sẽ không nhận được bất kỳ khoản thanh toán nào bằng việc quảng cáo.</string>
+	<key>Share</key>
+	<string>Chia sẻ</string>
+	<key>Shorts</key>
+	<string>Video ngắn (Shorts)</string>
+	<key>ShortsInterface</key>
+	<string>Giao diện</string>
+	<key>ShortsModeTurnedOff</key>
+	<string>Đã tắt chế độ video ngắn</string>
+	<key>ShortsOnlyMode</key>
+	<string>Chế độ video ngắn</string>
+	<key>ShortsOnlyModeDesc</key>
+	<string>Giới hạn các chức năng của YouTube chỉ cho phép xem video ngắn.</string>
+	<key>ShortsOnlyWarning</key>
+	<string>Bạn có chắc chắn muốn bật chế độ video ngắn?
+
+Trong chế độ này, bạn chỉ có thể xem video ngắn và không thể làm gì khác.
+
+Bạn có thể tắt chế độ này bằng cách nhấn giữ hai ngón tay lên màn hình.</string>
+	<key>ShortsProgress</key>
+	<string>Luôn hiện thanh tiến trình</string>
+	<key>ShortsProgressDesc</key>
+	<string>Không ẩn thanh tiến trình trong video ngắn.</string>
+	<key>ShortsToRegular</key>
+	<string>Mở dưới dạng video thông thường</string>
+	<key>ShortsToRegularDesc</key>
+	<string>Mở video ngắn với giao diện của video thông thường.</string>
+	<key>Show</key>
+	<string>Hiển thị</string>
+	<key>ShowCurrentImage</key>
+	<string>Xem hình ảnh hiện tại</string>
+	<key>ShowNotifications</key>
+	<string>Hiện thông báo</string>
+	<key>ShowNotificationsDesc</key>
+	<string>Hiển thị thông báo khi phân đoạn được bỏ qua tự động. Không ảnh hưởng đến thông báo khi bỏ qua thủ công.</string>
+	<key>ShowProfilePicture</key>
+	<string>Xem ảnh hồ sơ</string>
+	<key>ShowThumbnail</key>
+	<string>Xem hình thu nhỏ</string>
+	<key>SkipAlertDuration</key>
+	<string>Thời lượng hiển thị thông báo bỏ qua</string>
+	<key>SkipSegment</key>
+	<string>Bạn có muốn bỏ qua phân đoạn không?</string>
+	<key>SkipToSegment</key>
+	<string>Bạn có muốn chuyển đến phần nổi bật không?</string>
+	<key>SkippedToSegment</key>
+	<string>Đã chuyển đến %@</string>
+	<key>SolidColor</key>
+	<string>Màu đồng nhất</string>
+	<key>SortType</key>
+	<string>Sắp xếp theo</string>
+	<key>Spanish</key>
+	<string>Tiếng Tây Ban Nha</string>
+	<key>SpecialThanks</key>
+	<string>Đặc biệt cảm ơn</string>
+	<key>SpecialThanks.Test</key>
+	<string>Đóng góp giá trị trong việc tra kiểm tweak</string>
+	<key>SpeedByLongTap</key>
+	<string>Nhấn giữ để tăng tốc độ phát</string>
+	<key>SpeedByLongTapDesc</key>
+	<string>Cho phép tăng tốc độ phát bằng cách nhấn giữ vào một khu vực trên màn hình.</string>
+	<key>SpeedControls</key>
+	<string>Nút điều khiển tốc độ</string>
+	<key>SpeedControlsDesc</key>
+	<string>Hiển thị nút điều khiển tốc độ video trong trình phát.</string>
+	<key>SpeedLocation</key>
+	<string>Vị trí khu vực thao tác</string>
+	<key>SpeedPreserved</key>
+	<string>Đã đặt tốc độ phát thành %@</string>
+	<key>Sponsor</key>
+	<string>Tài trợ</string>
+	<key>SponsorColor</key>
+	<string>Màu phân đoạn tài trợ</string>
+	<key>SponsorDesc</key>
+	<string>Phần video dùng để quảng cáo cho sản phẩm hoặc dịch vụ không liên quan trực tiếp đến nhà sáng tạo. Họ sẽ nhận được khoản thanh toán dưới dạng tiền hoặc sản phẩm miễn phí.</string>
+	<key>Startup</key>
+	<string>Tab khởi động</string>
+	<key>StartupAnimation</key>
+	<string>Hoạt ảnh khởi động</string>
+	<key>StartupAnimationDesc</key>
+	<string>Hiển thị hoạt ảnh khởi động YouTube.</string>
+	<key>StickSortComments</key>
+	<string>Thanh tùy chọn sắp xếp bình luận cố định</string>
+	<key>StickSortCommentsDesc</key>
+	<string>Không ẩn các tùy chọn sắp xếp bình luận (Hàng đầu, Mới nhất) khi lướt xem.</string>
+	<key>StickyNavbar</key>
+	<string>Thanh điều hướng cố định</string>
+	<key>StickyNavbarDesc</key>
+	<string>Không ẩn thanh điều hướng khi lướt xem.</string>
+	<key>StockVolumeHUD</key>
+	<string>Thanh âm lượng hệ thống</string>
+	<key>StockVolumeHUDDesc</key>
+	<string>Sử dụng thanh âm lượng mặc định của iOS trong chế độ toàn màn hình.</string>
+	<key>Stop</key>
+	<string>Dừng phát</string>
+	<key>SupportDevelopment</key>
+	<string>Hỗ trợ nhà phát triển</string>
+	<key>SupportDevelopmentDesc</key>
+	<string>Nếu bạn thích YTPlus và muốn đóng góp đôi chút vào quá trình phát triển, bạn có thể thực hiện bằng một trong các cách dưới đây.
+Xin cảm ơn ❤</string>
+	<key>SupportMe</key>
+	<string>Ủng hộ tôi</string>
+	<key>SupporterWall</key>
+	<string>Người ủng hộ</string>
+	<key>Tabbar</key>
+	<string>Thanh tab</string>
+	<key>TabsCountRestricted</key>
+	<string>Bạn chỉ được hiển thị tối đa sáu tab</string>
+	<key>TapToReveal</key>
+	<string>Nhấn để hiển thị</string>
+	<key>Toast.Brightness</key>
+	<string>Độ sáng</string>
+	<key>Toast.PlaybackSpeed</key>
+	<string>Tốc độ phát</string>
+	<key>Toast.Volume</key>
+	<string>Âm lượng</string>
+	<key>Translated</key>
+	<string>đã dịch</string>
+	<key>TranslatedAutoGen</key>
+	<string>tự động dịch</string>
+	<key>TranslucentBar</key>
+	<string>Thanh tab trong suốt</string>
+	<key>Turkish</key>
+	<string>Tiếng Thổ Nhĩ Kỳ</string>
+	<key>TwoFingerPanToBrightness</key>
+	<string>Cử chỉ điều chỉnh độ sáng</string>
+	<key>TwoFingerPanToBrightnessDesc</key>
+	<string>Điều chỉnh độ sáng màn hình bằng cách trượt lên hoặc xuống bằng hai ngón tay.</string>
+	<key>TwoFingerTapToPause</key>
+	<string>Tạm dừng bằng hai ngón tay</string>
+	<key>TwoFingerTapToPauseDesc</key>
+	<string>Tạm dừng hoặc tiếp tục phát video bằng cách chạm màn hình bằng hai ngón tay.</string>
+	<key>UnderPlayer</key>
+	<string>Dưới trình phát</string>
+	<key>Unskip</key>
+	<string>Hoàn tác</string>
+	<key>UnskipAlertDuration</key>
+	<string>Thời lượng hiển thị thông báo hoàn tác</string>
+	<key>VLWL</key>
+	<string>Xem sau</string>
+	<key>VideoEndTime</key>
+	<string>Hiện thời điểm kết thúc video</string>
+	<key>VideoEndTimeDesc</key>
+	<string>Hiển thị thời điểm kết thúc bên cạnh thời lượng video.</string>
+	<key>Vietnamese</key>
+	<string>Tiếng Việt</string>
+	<key>VisitGithub</key>
+	<string>Kho lưu trữ Github</string>
+	<key>VisitGithubDesc</key>
+	<string>Thêm sao repo, gửi yêu cầu tính năng hoặc báo lỗi</string>
+	<key>VisitTelegram</key>
+	<string>Kênh Telegram của tôi</string>
+	<key>VisitTelegramDesc</key>
+	<string>Nhận thông tin về các bản cập nhật mới nhất</string>
+	<key>Warning</key>
+	<string>Cảnh báo</string>
+	<key>Welcome.Content</key>
+	<string>Tùy biến giao diện</string>
+	<key>Welcome.ContentDesc</key>
+	<string>Loại bỏ các nội dung và thành phần giao diện không mong muốn. Kích hoạt chế độ đen tuyền dành cho màn hình OLED - chế độ tối thực sự</string>
+	<key>Welcome.Download</key>
+	<string>Tải xuống nội dung</string>
+	<key>Welcome.DownloadDesc</key>
+	<string>Tự do tải nội dung mà bạn yêu thích. Từ video thường đến video ngắn, âm thanh của video hay ảnh hồ sơ. Sao chép các bài viết và bình luận thú vị hoặc lưu dưới dạng hình ảnh</string>
+	<key>Welcome.More</key>
+	<string>Còn nhiều tính năng đang chờ...</string>
+	<key>Welcome.MoreDesc</key>
+	<string>YouTube Plus có hơn 50 tùy chọn khác nhau, bao gồm tính năng như nhập xuất các cài đặt và xóa bộ nhớ đệm. Bạn có thể truy cập các tùy chọn này qua mục YouTube Plus trong phần cài đặt YouTube</string>
+	<key>Welcome.Player</key>
+	<string>Sửa đổi trình phát</string>
+	<key>Welcome.PlayerDesc</key>
+	<string>Tùy chỉnh trình phát video theo cách bạn muốn, tự động chọn chất lượng và tốc độ phát. Điều khiển bằng cử chỉ</string>
+	<key>Yes</key>
+	<string>Có</string>
+	<key>YtlButtonPosition</key>
+	<string>Vị trí nút tải xuống</string>
+	<key>sb_filler</key>
+	<string>phân đoạn thêm thắt</string>
+	<key>sb_interaction</key>
+	<string>phân đoạn nhắc nhở tương tác</string>
+	<key>sb_intro</key>
+	<string>phân đoạn giới thiệu</string>
+	<key>sb_music_offtopic</key>
+	<string>phân đoạn không phải nhạc</string>
+	<key>sb_outro</key>
+	<string>phân đoạn kết thúc</string>
+	<key>sb_poi_highlight</key>
+	<string>phân đoạn nổi bật</string>
+	<key>sb_preview</key>
+	<string>phân đoạn xem trước</string>
+	<key>sb_selfpromo</key>
+	<string>phân đoạn tự quảng cáo</string>
+	<key>sb_sponsor</key>
+	<string>phân đoạn tài trợ</string>
+</dict>
+</plist>

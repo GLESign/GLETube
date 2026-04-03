@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24hrFormat</key>
+	<string>صيغة 24 ساعة</string>
+	<key>24hrFormatDesc</key>
+	<string>يعرض وقت الانتهاء بصيغة 24 ساعة.</string>
+	<key>ActivationAreaWidth</key>
+	<string>عرض منطقة الإيماءات</string>
+	<key>ActivationAreaWidthDesc</key>
+	<string>تحدد هذه القيمة منطقة التعرف على الإيماءات بالبكسل للجانبين الأيسر والأيمن من الشاشة.
+
+الحد الأقصى للقيمة المسموح به هو ثلث عرض الشاشة.
+
+يعد ضبط هذا الإعداد مفيدا لمنع التنشيط العرضي عند محاولة تصغير المشغل أو توسيعه.</string>
+	<key>ActiveTabs</key>
+	<string>علامات التبويب النشطة</string>
+	<key>AddLibraryTab</key>
+	<string>أستعادة علامة تبويب "أنت"</string>
+	<key>AdjustWithFinger</key>
+	<string>ضبط السرعة بالإيماءات</string>
+	<key>AdjustWithFingerDesc</key>
+	<string>يسمح بضبط سرعة التشغيل عن طريق الضغط المطول على المشغل وتحريك الإصبع لأعلى ولأسفل.</string>
+	<key>Arabic</key>
+	<string>ترجمها إلى اللغة العربية</string>
+	<key>Ask</key>
+	<string>يسأل</string>
+	<key>AtLeastOneTab</key>
+	<string>At least one tab must remain active</string>
+	<key>AudioDRC</key>
+	<string>تفضيل صوت مستقر</string>
+	<key>AudioDRCDesc</key>
+	<string>يقوم مدير التنزيل بإعطاء أولوية للصوت ذو مستوى ثابت (ضغط نطاق ديناميكي) إذا كان متوفرًا.</string>
+	<key>Audios</key>
+	<string>الصوتيات</string>
+	<key>AutoCheckLinks</key>
+	<string>Auto-check clipboard</string>
+	<key>AutoCheckLinksDesc</key>
+	<string>Check clipboard for YouTube-related links each time the app is opened.
+For proper functionality, go to iOS Settings → YouTube → Paste from other apps and select "Allow"</string>
+	<key>AutoFullscreen</key>
+	<string>تشغيل الفيديو في وضع ملء الشاشة</string>
+	<key>AutoFullscreenDesc</key>
+	<string>يشغل الفيديو تلقائيًا في وضع ملء الشاشة.</string>
+	<key>AutoGenCaps</key>
+	<string>الترجمة الذي تم إنشاؤها تلقائيًا</string>
+	<key>AutoGenCapsDesc</key>
+	<string>إذا لم يتم العثور على الترجمة المحددة، فسيحاول YouTube Plus تحديد إما ترجمة للتسميات التوضيحية الأصلية أو ترجمة التسميات التوضيحية التي يتم إنشاؤها تلقائيًا.</string>
+	<key>AutoSkipShorts</key>
+	<string>تخطي الفيديوهات القصيرة تلقائيًا</string>
+	<key>BackgroundPlayback</key>
+	<string>التشغيل في الخلفية</string>
+	<key>BackgroundPlaybackDesc</key>
+	<string>يتيح التشغيل في الخلفية.</string>
+	<key>Best</key>
+	<string>أفضل</string>
+	<key>Both</key>
+	<string>كلاهما</string>
+	<key>Cancel</key>
+	<string>إلغاء</string>
+	<key>Cancelled</key>
+	<string>تم الإلغاء</string>
+	<key>CaptionsAndThumbnails</key>
+	<string>التسميات والصور المصغرة</string>
+	<key>ChineseSimplified</key>
+	<string>ترجمها إلى اللغة الصينية (المبسطة)</string>
+	<key>ChineseTraditional</key>
+	<string>ترجمها إلى اللغة الصينية (التقليدية)</string>
+	<key>ClassicQuality</key>
+	<string>جودة الفيديو الكلاسيكية</string>
+	<key>ClassicQualityDesc</key>
+	<string>يعيد قائمة اختيار جودة الفيديو الكلاسيكية.</string>
+	<key>ClearCache</key>
+	<string>مسح الذاكرة المؤقتة</string>
+	<key>ClearCacheAtStart</key>
+	<string>قم بمسح ذاكرة التخزين المؤقتة عند بدء التشغيل</string>
+	<key>ClearCacheAtStartDesc</key>
+	<string>يقوم بمسح ذاكرة التخزين المؤقتة تلقائيًا عند بدء التشغيل.</string>
+	<key>CommentManager</key>
+	<string>حفظ معلومات التعليق</string>
+	<key>CommentManagerDesc</key>
+	<string>يسمح بنسخ نص التعليق وحفظ التعليق كصورة بواسطة النقر المطول.</string>
+	<key>CompactToast</key>
+	<string>Compact toast</string>
+	<key>CompactToastDesc</key>
+	<string>Displays a compact-style toast for player gestures</string>
+	<key>Conflicts.AcceptRisks</key>
+	<string>أقبل جميع المخاطر</string>
+	<key>Conflicts.CloseYT</key>
+	<string>أغلق الـYouTube</string>
+	<key>Conflicts.Detected</key>
+	<string>تم إكتشاف أدوات غير متوافقة</string>
+	<key>Conflicts.DetectedDesc</key>
+	<string>على الرغم من الاستقرار الظاهر للتطبيق، إلا أن مطور YouTube Plus لا يوصي بدمج أدوات ذات الوظائف المماثلة في نفس التطبيق ولا يمكنه ضمان الاستخدام الآمن.
+
+من خلال الاستمرار في استخدام التطبيق، تتحمل المسؤولية الكاملة وتوافق على أن أي شكاوى حول الأداء ستتجاهل.</string>
+	<key>Conflicts.SkipThisVersion</key>
+	<string>لا تعرض لهذا الإصدار</string>
+	<key>ContextMenu</key>
+	<string>قائمة السياق</string>
+	<key>Continue</key>
+	<string>متابعة</string>
+	<key>Contributors</key>
+	<string>المساهمين</string>
+	<key>Converting</key>
+	<string>جارٍ التحويل</string>
+	<key>Copied</key>
+	<string>تم النسخ إلى الحافظة</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>CopyChannelName</key>
+	<string>نسخ اسم القناة</string>
+	<key>CopyCommentAsImage</key>
+	<string>نسخ التعليق كصورة</string>
+	<key>CopyCommentText</key>
+	<string>نسخ نص التعليق</string>
+	<key>CopyCurrentImage</key>
+	<string>نسخ الصورة الحالية</string>
+	<key>CopyDescription</key>
+	<string>نسخ الوصف</string>
+	<key>CopyInformation</key>
+	<string>نسخ المعلومات</string>
+	<key>CopyPostAsImage</key>
+	<string>نسخ المنشور كصورة</string>
+	<key>CopyPostText</key>
+	<string>نسخ نص المنشور</string>
+	<key>CopyProfilePicture</key>
+	<string>نسخ صورة الملف الشخصي</string>
+	<key>CopyThumbnail</key>
+	<string>نسخ الصورة المصغرة</string>
+	<key>CopyTimestampedLink</key>
+	<string>نسخ الرابط مع الطابع الزمني</string>
+	<key>CopyTitle</key>
+	<string>نسخ العنوان</string>
+	<key>CopyTranscript</key>
+	<string>نسخ النص</string>
+	<key>CopyWithTimestamp</key>
+	<string>نسخ الروابط مع الطابع الزمني</string>
+	<key>CopyWithTimestampDesc</key>
+	<string>يسمح بنسخ الرابط مع الطابع الزمني إلى الحافظة بواسطة الضغط على زر الإيقاف المؤقت.</string>
+	<key>Credits</key>
+	<string>الاعتمادات</string>
+	<key>Custom</key>
+	<string>اختر يدويًا</string>
+	<key>CustomAudioTrack</key>
+	<string>المسار الصوتي المحدد</string>
+	<key>CustomAudioTrackDesc</key>
+	<string>Specifies the preferred audio track language to use for playback, if available</string>
+	<key>CustomCaptions</key>
+	<string>الترجمة المحددة</string>
+	<key>CustomCaptionsDesc</key>
+	<string>Specifies the preferred captions language to display, if available</string>
+	<key>Default</key>
+	<string>افتراضي</string>
+	<key>DefaultPlaybackRate</key>
+	<string>معدل التشغيل الافتراضي</string>
+	<key>DefaultPlaybackRateDesc</key>
+	<string>Overrides the default playback speed</string>
+	<key>DevContribution</key>
+	<string>مساهمين في التطوير</string>
+	<key>Developer</key>
+	<string>المطور</string>
+	<key>Disable</key>
+	<string>تعطيل</string>
+	<key>DisableAmbientMode</key>
+	<string>تعطيل وضع الإضاءة المحيطة</string>
+	<key>DisableAmbientModeDesc</key>
+	<string>يعطل وضع الإضاءة المحيطة في المشغل وفي المنطقة الواقعة تحته.</string>
+	<key>DisableAutoCaptions</key>
+	<string>تعطيل التسميات التوضيحية التلقائية</string>
+	<key>DisableAutoCaptionsDesc</key>
+	<string>يمنع التفعيل التلقائي للتسميات التوضيحية.</string>
+	<key>DisableAutoplay</key>
+	<string>تعطيل التشغيل التلقائي للفيديوهات</string>
+	<key>DisableAutoplayDesc</key>
+	<string>يمنع تشغيل الفيديو بعد الفتح.</string>
+	<key>DisableRTL</key>
+	<string>تعطيل التنسيق من اليمين إلى اليسار</string>
+	<key>DisableRTLDesc</key>
+	<string>يعرض النصوص بالقوة من اليسار إلى اليمين (LTR) للغات التي تُعرض بشكل افتراضي من اليمين إلى اليسار (RTL).</string>
+	<key>Disabled</key>
+	<string>معطل</string>
+	<key>DonateDesc</key>
+	<string>دعمك يعني الكثير بالنسبة لي</string>
+	<key>DonationReminder</key>
+	<string>دعمك يساعد في تحسين YouTube Plus بشكل أفضل.
+
+يمكنك المساهمة أو اختيار تعطيل هذه الإشعار من إعدادات YouTube Plus. شكراً لك💜</string>
+	<key>Done</key>
+	<string>تم</string>
+	<key>DontSnap2Chapter</key>
+	<string>تعطيل الانتقال التلقائي إلى الفصل</string>
+	<key>DontSnap2ChapterDesc</key>
+	<string>يعطل الانتقال إلى الحلقة التالية بواسطة إيماءة النقر المزدوج.</string>
+	<key>DownloadAudio</key>
+	<string>حفظ الصوت</string>
+	<key>DownloadCaptions</key>
+	<string>حفظ الترجمة</string>
+	<key>DownloadCompleted</key>
+	<string>أكتمل الحفظ</string>
+	<key>DownloadManager</key>
+	<string>مدير الحفظ</string>
+	<key>DownloadManagerDesc</key>
+	<string>يستبدل زر 'التنزيل' أسفل المشغل بمدير الحفظ، الذي يتيح حفظ الفيديو، الصوت، صورة مصغرة، ونسخ معلومات الفيديو.</string>
+	<key>DownloadThumbnail</key>
+	<string>حفظ الصورة المصغرة</string>
+	<key>DownloadVideo</key>
+	<string>حفظ الفيديو</string>
+	<key>Downloading</key>
+	<string>الحفظ</string>
+	<key>DownloadingAudio</key>
+	<string>جارٍ حفظ الصوت</string>
+	<key>DownloadingVideo</key>
+	<string>جارٍ حفظ الفيديو</string>
+	<key>DurationBased</key>
+	<string>على أساس المدة</string>
+	<key>DurationWithoutSegments</key>
+	<string>عرض مدة جديدة</string>
+	<key>DurationWithoutSegmentsDesc</key>
+	<string>يعرض المدة الإجمالية بدون شرائح.</string>
+	<key>EmbedAutoGenCaps</key>
+	<string>التسميات التوضيحية التي تم إنشاؤها/ترجمتها تلقائيًا</string>
+	<key>EmbedAutoGenCapsDesc</key>
+	<string>يضيف التسميات التوضيحية تلقائيًا والمترجمة تلقائيًا إلى قائمة الترجمات.</string>
+	<key>EmbedCapsToVideos</key>
+	<string>دمج الترجمات</string>
+	<key>EmbedCapsToVideosDesc</key>
+	<string>يقوم بدمج التسميات التوضيحية/الترجمات المحددة في مقاطع الفيديو.</string>
+	<key>EmbedThumbnailsToVideos</key>
+	<string>إضافة الصور المصغرة للمقاطع</string>
+	<key>EmbedThumbnailsToVideosDesc</key>
+	<string>يقوم بتضمين الصورة المصغرة للفيديو كصورة مصغرة للبيانات الوصفية.</string>
+	<key>EnableSponsorBlock</key>
+	<string>تفعيل</string>
+	<key>EnableSponsorBlockDesc</key>
+	<string>تفعيل أداة SponsorBlock</string>
+	<key>Endcards</key>
+	<string>بطاقات النهاية/الاعتمادات</string>
+	<key>EndcardsColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>EndcardsDesc</key>
+	<string>عادةً ما تكون بالقرب من نهاية الفيديو أو في نهايته، عندما تظهر الاعتمادات أو بطاقات النهاية.</string>
+	<key>English</key>
+	<string>إنجليزي</string>
+	<key>EnglishNotFound</key>
+	<string>لم يتم العثور على المسار الصوتي باللغة الإنجليزية</string>
+	<key>Error</key>
+	<string>خطأ</string>
+	<key>Error.Clipboard</key>
+	<string>خطأ. تحقق من الحافظة لمزيد من المعلومات</string>
+	<key>Error.FailedToImport</key>
+	<string>فشل في استيراد الإعدادات</string>
+	<key>Error.Multidownloading</key>
+	<string>الحفظ المتعدد غير متاح بعد.</string>
+	<key>Error.NoSpace</key>
+	<string>مساحة غير كافية على الجهاز.
+
+يتطلب مساحة إضافية لا تقل عن %@. المساحة الحرة المتاحة: %@</string>
+	<key>Error.PathIssue</key>
+	<string>خطأ. مشكلة في توليد المسار النهائي. مشكلة في عنوان الوسائط؟</string>
+	<key>Error.SbPrivateID</key>
+	<string>The private (local) user ID must contain at least 32 characters</string>
+	<key>Error.SbPublicID</key>
+	<string>The public user ID must contain exactly 64 characters</string>
+	<key>Error.TryLater</key>
+	<string>من المتوقع أن تكتمل معالجة الفيديو على خادم Google.
+
+يرجى المحاولة مرة أخرى لاحقا.</string>
+	<key>ExitFullscreen</key>
+	<string>الخروج من وضع ملء الشاشة عند الانتهاء</string>
+	<key>ExitFullscreenDesc</key>
+	<string>يخرج من وضع ملء الشاشة في نهاية تشغيل الفيديو.</string>
+	<key>ExportPreferences</key>
+	<string>تصدير الإعدادات</string>
+	<key>ExtraSpeedOptions</key>
+	<string>خيارات السرعة الإضافية</string>
+	<key>ExtraSpeedOptionsDesc</key>
+	<string>يضيف المزيد من خيارات سرعة تشغيل الفيديو إلى قائمة المشغل.</string>
+	<key>FEexplore</key>
+	<string>استكشاف</string>
+	<key>FEhistory</key>
+	<string>السجل</string>
+	<key>FElibrary</key>
+	<string>المكتبة</string>
+	<key>FEpost_home</key>
+	<string>منشورات</string>
+	<key>FEshorts</key>
+	<string>مقاطع قصيرة</string>
+	<key>FEsubscriptions</key>
+	<string>الاشتراكات</string>
+	<key>FEuploads</key>
+	<string>إنشاء</string>
+	<key>FEwhat_to_watch</key>
+	<string>الصفحة الرئيسية</string>
+	<key>Feed</key>
+	<string>المنشورات</string>
+	<key>FixAlbums</key>
+	<string>إصلاح الألبومات</string>
+	<key>FixAlbumsDesc</key>
+	<string>يصلح عرض الألبومات للمستخدمين من روسيا.</string>
+	<key>Floating</key>
+	<string>عائم</string>
+	<key>FollowMe</key>
+	<string>تابعني على X</string>
+	<key>French</key>
+	<string>ترجمها إلى اللغة الفرنسية</string>
+	<key>FullscreenToTheLeft</key>
+	<string>ملء الشاشة على الدوران الأيسر</string>
+	<key>FullscreenToTheLeftDesc</key>
+	<string>سيؤدي وضع ملء الشاشة إلى تدوير الجهاز إلى الاتجاه الأيسر بدلًا  من اليمين المعتاد.</string>
+	<key>Gradient</key>
+	<string>لون متدرج</string>
+	<key>GradientColor</key>
+	<string>لون التدرج</string>
+	<key>HideAutoplay</key>
+	<string>إخفاء زر التشغيل التلقائي</string>
+	<key>HideAutoplayDesc</key>
+	<string>يخفي زر التشغيل التلقائي من مشغل الفديو.</string>
+	<key>HideCarouselLive</key>
+	<string>إخفاء زر "البث المباشر"</string>
+	<key>HideCarouselLiveDesc</key>
+	<string>يزيل زر "البث المباشر" الذي يظهر في وضع التوقف المؤقت.</string>
+	<key>HideCarouselShop</key>
+	<string>إخفاء زر "التسوق"</string>
+	<key>HideCarouselShopDesc</key>
+	<string>يزيل زر "التسوق" الذي يظهر في وضع التوقف المؤقت.</string>
+	<key>HideCarouselSub</key>
+	<string>إخفاء زر "الاشتراكات"</string>
+	<key>HideCarouselSubDesc</key>
+	<string>يزيل زر "الاشتراكات" الذي يظهر في وضع التوقف المؤقت.</string>
+	<key>HideCarouselTrends</key>
+	<string>إخفاء زر "الرائج"</string>
+	<key>HideCarouselTrendsDesc</key>
+	<string>يزيل زر "الرائج" الذي يظهر في وضع التوقف المؤقت.</string>
+	<key>HideLibraryFooter</key>
+	<string>يمكن إخفاء علامة تبويب المكتبة أو إظهارها عن طريق الضغط لفترة طويلة على علامة التبويب الأولى من شريط علامات التبويبات.</string>
+	<key>HidePrevNext</key>
+	<string>إخفاء أزرار السابق والتالي</string>
+	<key>HidePrevNextDesc</key>
+	<string>يخفي أزرار الفيديو السابق والتالي من مشغل الفديو.</string>
+	<key>HideShorts</key>
+	<string>إخفاء الفيديوهات القصيرة</string>
+	<key>HideShortsAudio</key>
+	<string>إخفاء مؤشر الصوت</string>
+	<key>HideShortsAudioDesc</key>
+	<string>يزيل الخط الذي يشير إلى الصوت المستخدم في الفيديوهات القصيرة.</string>
+	<key>HideShortsCamera</key>
+	<string>إخفاء زر الكاميرا</string>
+	<key>HideShortsCameraDesc</key>
+	<string>يخفي زر الكاميرا من مشغل الفيديوهات القصيرة (Shorts).</string>
+	<key>HideShortsComments</key>
+	<string>إخفاء زر "التعليقات"</string>
+	<key>HideShortsCommentsDesc</key>
+	<string>يزيل زر "التعليقات" من شريط الأدوات.</string>
+	<key>HideShortsDesc</key>
+	<string>يخفي الفيديوهات القصيرة (Shorts) من الصفحة الرئيسية، المقترحة، وغيرها.</string>
+	<key>HideShortsDescription</key>
+	<string>إخفاء الوصف</string>
+	<key>HideShortsDescriptionDesc</key>
+	<string>يزيل وصف الفيديوهات القصيرة.</string>
+	<key>HideShortsDislike</key>
+	<string>إخفاء زر "عدم الإعجاب"</string>
+	<key>HideShortsDislikeDesc</key>
+	<string>يزيل زر "عدم الإعجاب" من شريط الأدوات.</string>
+	<key>HideShortsLike</key>
+	<string>إخفاء زر "الإعجاب"</string>
+	<key>HideShortsLikeDesc</key>
+	<string>يزيل زر "الإعجاب" من شريط الأدوات.</string>
+	<key>HideShortsLogo</key>
+	<string>إخفاء شعار Shorts</string>
+	<key>HideShortsLogoDesc</key>
+	<string>يخفي شعار Shorts في الزاوية العلوية اليسرى، الذي موجود في مشغل الفيديوهات القصيرة (Shorts).</string>
+	<key>HideShortsMore</key>
+	<string>إخفاء زر المزيد (⋮)</string>
+	<key>HideShortsMoreDesc</key>
+	<string>يخفي زر المزيد (⋮) من مشغل الفيديوهات القصيرة (Shorts). يمكن الوصول إليه أيضًا بالضغط المطول على الشاشة.</string>
+	<key>HideShortsRemix</key>
+	<string>إخفاء زر "ريمكس"</string>
+	<key>HideShortsRemixDesc</key>
+	<string>يزيل زر "ريمكس" من شريط الأدوات.</string>
+	<key>HideShortsSearch</key>
+	<string>إخفاء زر البحث</string>
+	<key>HideShortsSearchDesc</key>
+	<string>يخفي زر البحث من مشغل الفيديوهات القصيرة (Shorts).</string>
+	<key>HideShortsShare</key>
+	<string>إخفاء زر "المشاركة"</string>
+	<key>HideShortsShareDesc</key>
+	<string>يزيل زر "المشاركة" من شريط الأدوات.</string>
+	<key>HideShortsSource</key>
+	<string>إخفاء زر "رابط المصدر"</string>
+	<key>HideShortsSourceDesc</key>
+	<string>يزيل الزر الذي يوجه إلى الفيديو الكامل أو فيديو قصير آخر.</string>
+	<key>HideShortsSubscribe</key>
+	<string>إخفاء زر "المتابعة"</string>
+	<key>HideShortsSubscribeDesc</key>
+	<string>يزيل زر "المتابعة" بجانب اسم المستخدم.</string>
+	<key>HideShortsSuggestion</key>
+	<string>إخفاء زر "الاقتراحات"</string>
+	<key>HideShortsSuggestionDesc</key>
+	<string>يزيل زر الاقتراحات مثل "إضافة إلى قائمة التشغيل"، و"Super Thanks"، وغيرها.</string>
+	<key>HideShortsUsername</key>
+	<string>إخفاء اسم المستخدم</string>
+	<key>HideShortsUsernameDesc</key>
+	<string>يزيل اسم القناة.</string>
+	<key>HideSortComments</key>
+	<string>إخفاء رأس التعليقات</string>
+	<key>HideSortCommentsDesc</key>
+	<string>يخفي خيارات ترتيب التعليقات (الأعلى، الأحدث) بحيث لا تظهر أبدًا.</string>
+	<key>HideSubs</key>
+	<string>إخفاء زر الترجمة</string>
+	<key>HideSubsDesc</key>
+	<string>يخفي زر الترجمة من مشغل الفديو.</string>
+	<key>Highlight</key>
+	<string>تسليط الضوء</string>
+	<key>HighlightColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>HighlightDesc</key>
+	<string>يستخدم للوصول إلى النقطة الرئيسية أو أبرز جزء في الفيديو.</string>
+	<key>HoldToSpeed</key>
+	<string>اضغط مع الاستمرار للسرعة</string>
+	<key>HoldToSpeedDesc</key>
+	<string>Sets the playback speed triggered by a long press on the player</string>
+	<key>ImportPreferences</key>
+	<string>استيراد الإعدادات</string>
+	<key>InactiveTabs</key>
+	<string>علامات التبويب الغير نشطة</string>
+	<key>Independent</key>
+	<string>مستقل</string>
+	<key>Interaction</key>
+	<string>تذكير التفاعل</string>
+	<key>InteractionColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>InteractionDesc</key>
+	<string>تذكيرات واضحة للتفاعل مثل الإعجاب، الاشتراك، أو التفاعل معهم على أي منصة مدفوعة أو مجانية (مثل النقر على فيديو)</string>
+	<key>Interface</key>
+	<string>واجهة المستخدم</string>
+	<key>InterfaceStyle</key>
+	<string>نمط الواجهة</string>
+	<key>Intro</key>
+	<string>الاستراحة/الرسوم المتحركة</string>
+	<key>IntroColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>IntroDesc</key>
+	<string>توجد المقاطع عادةً في بداية الفيديو التي تتضمن رسومًا متحركة أو إطارا ثابتا أو مقطع يتم رؤيته أيضًا في مقاطع فيديو أخرى من قبل نفس المنشئ.</string>
+	<key>Italian</key>
+	<string>ترجمها إلى اللغة الإيطالية</string>
+	<key>Japanese</key>
+	<string>ترجمها إلى اللغة اليابانية</string>
+	<key>Jokes</key>
+	<string>المشاهد الجانبية/النكات</string>
+	<key>JokesColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>JokesDesc</key>
+	<string>المشاهد الجانبية والنكات تُضاف فقط كإضافات للتسلية أو لملء الوقت، وليست ضرورية لفهم المحتوى الرئيسي للفيديو.</string>
+	<key>KeepSubsShorts</key>
+	<string>احفظ الفيديوهات القصيرة في الاشتراكات</string>
+	<key>KeepSubsShortsDesc</key>
+	<string>يمنع إزالة الفيديوهات القصيرة (Shorts) من تبويب الاشتراكات.</string>
+	<key>Korean</key>
+	<string>ترجمها إلى اللغة الكورية</string>
+	<key>LeftSideGesture</key>
+	<string>إيماءة للجانب الأيسر</string>
+	<key>LeftSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the left side of the screen</string>
+	<key>LibraryAdded</key>
+	<string>تمت أستعادة علامة تبويب "أنت"</string>
+	<key>LibraryRemoved</key>
+	<string>تمت إزالة علامة تبويب "أنت"</string>
+	<key>LinkDetected</key>
+	<string>A YouTube-related link was detected. Would you like to open it in YouTube?</string>
+	<key>Localizations</key>
+	<string>المترجمين</string>
+	<key>LockButton</key>
+	<string>زر القفل</string>
+	<key>LockButtonDesc</key>
+	<string>يعرض زرًا لقفل شاشة الواجهه بسرعة والتبديل إلى وضع الشاشة الكاملة.</string>
+	<key>LoginInfo</key>
+	<string>مطلوب إعادة تشغيل التطبيق بعد تسجيل الدخول بنجاح إلى حساب Google</string>
+	<key>Loop</key>
+	<string>تشغيل متكرر</string>
+	<key>Main</key>
+	<string>رئيسي</string>
+	<key>MainColor</key>
+	<string>اللون الرئيسي</string>
+	<key>ManageCache</key>
+	<string>إدارة ذاكرة التخزين المؤقتة</string>
+	<key>ManagePreferences</key>
+	<string>إدارة الإعدادات</string>
+	<key>Miniplayer</key>
+	<string>تفعيل المشغل المصغر</string>
+	<key>MiniplayerDesc</key>
+	<string>يُفعل المشغل المصغر للفيديوهات التي لم تُصمم أصلاً لذلك، مثل الفيديوهات الموجهة للأطفال.</string>
+	<key>MiniplayerStyle</key>
+	<string>شكل المشغل المصغر</string>
+	<key>MiniplayerStyleDesc</key>
+	<string>يتطلب التبديل إلى الوضع العائم إعادة تشغيل التطبيق.</string>
+	<key>MusicOfftopic</key>
+	<string>الموسيقى: قسم غير الموسيقى</string>
+	<key>MusicOfftopicColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>MusicOfftopicDesc</key>
+	<string>يجب استخدامه فقط في الفيديوهات التي تتضمن الموسيقى كمحتوى رئيسي.</string>
+	<key>MuteButton</key>
+	<string>زر الكتم</string>
+	<key>MuteButtonDesc</key>
+	<string>يعرض زرًا لكتم الصوت أو إلغائه على الواجهة.</string>
+	<key>NativeShare</key>
+	<string>واجهة المشاركة الأصلية</string>
+	<key>NativeShareDesc</key>
+	<string>يستخدم واجهة المشاركة الخاصة بالنظام لمشاركة الوسائط</string>
+	<key>Navbar</key>
+	<string>شريط التنقل</string>
+	<key>No</key>
+	<string>لا</string>
+	<key>NoAutonavEndScreenCards</key>
+	<string>إخفاء شاشة النهاية التلقائية</string>
+	<key>NoAutonavEndScreenCardsDesc</key>
+	<string>يخفي الشاشة التي تعرض ما يمكن تشغيله بعد انتهاء التشغيل. تعطيل هذا الخيار يعطل أيضًا التشغيل التلقائي</string>
+	<key>NoContentWarning</key>
+	<string>تخطي تحذير المحتوى</string>
+	<key>NoContentWarningDesc</key>
+	<string>يتخطى رسالة تحذير المحتوى الحساس.</string>
+	<key>NoDarkBg</key>
+	<string>إزالة الخلفية الداكنة</string>
+	<key>NoDarkBgDesc</key>
+	<string>يزيل الطبقة الخلفية الداكنة.</string>
+	<key>NoDonationReminder</key>
+	<string>تعطيل تذكير التبرع</string>
+	<key>NoDonationReminderDesc</key>
+	<string>إيقاف تذكير التبرع الذي نادرًا ما يظهر.</string>
+	<key>NoDoubleTap2Seek</key>
+	<string>تعطيل النقر المزدوج للبحث</string>
+	<key>NoDoubleTap2SeekDesc</key>
+	<string>يعطل إيماءة النقر المزدوج للبحث.</string>
+	<key>NoEndScreenCards</key>
+	<string>إخفاء بطاقات نهاية الشاشة</string>
+	<key>NoEndScreenCardsDesc</key>
+	<string>يخفي بطاقات نهاية الشاشة (الصور المصغرة) في نهاية الفيديوهات.</string>
+	<key>NoFreeZoom</key>
+	<string>تعطيل إيماءة التكبير الحرة</string>
+	<key>NoFreeZoomDesc</key>
+	<string>يعطل إيماءات التكبير الحرة الجديدة.</string>
+	<key>NoFullscreenActions</key>
+	<string>تعطيل إجراءات ملء الشاشة</string>
+	<key>NoFullscreenActionsDesc</key>
+	<string>يعطل لوحة الإجراءات في وضع ملء الشاشة.</string>
+	<key>NoHints</key>
+	<string>تعطيل التلميحات</string>
+	<key>NoHintsDesc</key>
+	<string>يعطل التلميحات التي تظهر من قبل المؤلف في الزاوية العلوية اليمنى أثناء التشغيل.</string>
+	<key>NoPromotionCards</key>
+	<string>إخفاء بطاقات العروض الترويجية المدفوعة</string>
+	<key>NoPromotionCardsDesc</key>
+	<string>يخفي بطاقة "تتضمن عروض ترويجية مدفوعة" في الفيديوهات التي تتضمن ترويجاً.</string>
+	<key>NoRelatedVids</key>
+	<string>عدم عرض الفيديوهات ذات الصلة في مشغل الفديو</string>
+	<key>NoRelatedVidsDesc</key>
+	<string>يزيل الفيديوهات ذات الصلة المعروضة في مشغل الفديو عن طريق السحب لأعلى.</string>
+	<key>NoRelatedWatchNexts</key>
+	<string>إخفاء كل الفيديوهات أسفل المشغل</string>
+	<key>NoRelatedWatchNextsDesc</key>
+	<string>يخفي جميع الفيديوهات أسفل المشغل، مع إبقاء قسم معلومات الفيديو والتعليقات فقط.</string>
+	<key>NoSearchHistory</key>
+	<string>إخفاء سجل البحث</string>
+	<key>NoSearchHistoryDesc</key>
+	<string>يخفي سجل البحث والاقتراحات بصريًا. ملاحظة: سيظل سجل البحث الخاص بك متاحًا في عملاء YouTube الآخرين.</string>
+	<key>NoShareChunk</key>
+	<string>إزالة معرّف المشاركة</string>
+	<key>NoShareChunkDesc</key>
+	<string>يزيل معلمة "si=identifier" من الروابط المشتركة. خيار جيد بديل لـ "واجهة المشاركة الأصلية" حيث تواصل YouTube تحسين قائمة المشاركة الخاصة بها.</string>
+	<key>NoSubUnderPlayer</key>
+	<string>إزالة زر "الاشتراك"</string>
+	<key>NoSubUnderPlayerDesc</key>
+	<string>يزيل زر "الاشتراك" الموجود أسفل المشغل.</string>
+	<key>NoSubbar</key>
+	<string>إخفاء شريط الاشتراكات</string>
+	<key>NoSubbarDesc</key>
+	<string>يخفي شريط الاشتراكات (الكل، جديد لك، مباشر إلخ) أسفل شريط التنقل.</string>
+	<key>NoTwoFingerSnapToChapter</key>
+	<string>تعطيل النقر المزدوج بإصبعين</string>
+	<key>NoTwoFingerSnapToChapterDesc</key>
+	<string>يعطل إيماءة النقر المزدوج بإصبعين للتنقل بين الفصول.</string>
+	<key>NoWatermarks</key>
+	<string>إخفاء العلامات المائية</string>
+	<key>NoWatermarksDesc</key>
+	<string>يخفي العلامات المائية للقناة من المشغل.</string>
+	<key>NoYTLogo</key>
+	<string>إزالة شعار YouTube</string>
+	<key>NoYTLogoDesc</key>
+	<string>يزيل شعار YouTube من شريط التنقل.</string>
+	<key>NothingToShowInMenu</key>
+	<string>لا يوجد شيء لعرضه في قائمة السياق هذه</string>
+	<key>OldYTUI</key>
+	<string>واجهة المستخدم القديمة</string>
+	<key>OldYTUIDesc</key>
+	<string>يخدع إصدار الـYouTube بحيث يعيد الواجهة القديمة.</string>
+	<key>OledKeyboard</key>
+	<string>لوحة مفاتيح OLED</string>
+	<key>OledKeyboardDesc</key>
+	<string>يطبق سمة OLED السوداء على لوحة المفاتيح المظلمة</string>
+	<key>OledTheme</key>
+	<string>ثيم OLED</string>
+	<key>OledThemeDesc</key>
+	<string>يحول جميع الألوان الداكنة إلى الأسود.</string>
+	<key>OpenAsRegularVideo</key>
+	<string>فتح كفيديو عادي</string>
+	<key>OpenLink</key>
+	<string>Open link</string>
+	<key>OpenSourceLibs</key>
+	<string>مكتبات مفتوحة المصدر</string>
+	<key>Original</key>
+	<string>الأصلي</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Overlay</key>
+	<string>المشغل</string>
+	<key>ParsingCaptions</key>
+	<string>تحليل التسميات التوضيحية</string>
+	<key>ParsingTranscript</key>
+	<string>تحليل النص</string>
+	<key>PauseOnOverlay</key>
+	<string>إيقاف التشغيل على مشغل الفديو</string>
+	<key>PauseOnOverlayDesc</key>
+	<string>يضبط التشغيل على الإيقاف المؤقت إذا ظهر مشغل الفديو.</string>
+	<key>PersistentProgressBar</key>
+	<string>شريط التقدم المستمر</string>
+	<key>PersistentProgressBarDesc</key>
+	<string>يظهر شريط التقدم دائمًا في المشغل.</string>
+	<key>PinchToFullscreenShorts</key>
+	<string>تكبير إلى ملء الشاشة</string>
+	<key>PinchToFullscreenShortsDesc</key>
+	<string>يدير ظهور مشغل الفديو بإيماءات التكبير والتصغير، لعرض الفيديوهات القصيرة (Shorts) في وضع ملء الشاشة.</string>
+	<key>PlayInExternalPlayer</key>
+	<string>تشغيل في مشغل خارجي</string>
+	<key>PlayInInfuse</key>
+	<string>تشغيل في Infuse</string>
+	<key>PlayInSystemPlayer</key>
+	<string>تشغيل في مشغل النظام</string>
+	<key>PlayInVLC</key>
+	<string>تشغيل في VLC</string>
+	<key>PlaybackMode</key>
+	<string>الإجراء عند انتهاء التشغيل</string>
+	<key>PlaybackQualityOnCellular</key>
+	<string>جودة التشغيل على البيانات الخلوية</string>
+	<key>PlaybackQualityOnCellularDesc</key>
+	<string>Automatically applies the selected quality when streaming over mobile data</string>
+	<key>PlaybackQualityOnWiFi</key>
+	<string>جودة التشغيل على WiFi</string>
+	<key>PlaybackQualityOnWiFiDesc</key>
+	<string>Automatically applies the selected quality when streaming over Wi-Fi</string>
+	<key>PlaybackSpeed</key>
+	<string>سرعة التشغيل</string>
+	<key>Player</key>
+	<string>مشغل الفديو</string>
+	<key>Player.Actions</key>
+	<string>الإجراءات</string>
+	<key>Player.Gestures</key>
+	<string>الإيماءات</string>
+	<key>Player.Interface</key>
+	<string>واجهة المستخدم</string>
+	<key>PlayerNoClip</key>
+	<string>إزالة زر "القص"</string>
+	<key>PlayerNoClipDesc</key>
+	<string>يزيل زر "القص" الموجود أسفل المشغل.</string>
+	<key>PlayerNoDownload</key>
+	<string>إزالة زر "التنزيل"</string>
+	<key>PlayerNoDownloadDesc</key>
+	<string>يزيل زر "التنزيل" الموجود أسفل المشغل.</string>
+	<key>PlayerNoRemix</key>
+	<string>إزالة زر "ريمكس"</string>
+	<key>PlayerNoRemixDesc</key>
+	<string>يزيل زر "ريمكس" الموجود أسفل المشغل.</string>
+	<key>PlayerNoReport</key>
+	<string>إزالة زر "الإبلاغ"</string>
+	<key>PlayerNoReportDesc</key>
+	<string>يزيل زر "الإبلاغ" الموجود أسفل المشغل.</string>
+	<key>PlayerNoSave</key>
+	<string>إزالة زر "الحفظ"</string>
+	<key>PlayerNoSaveDesc</key>
+	<string>يزيل زر "الحفظ" الموجود أسفل المشغل.</string>
+	<key>PlayerNoShare</key>
+	<string>إزالة زر "المشاركة"</string>
+	<key>PlayerNoShareDesc</key>
+	<string>يزيل زر "المشاركة" الموجود أسفل المشغل.</string>
+	<key>PlayerNoThanks</key>
+	<string>إزالة زر "الشكر"</string>
+	<key>PlayerNoThanksDesc</key>
+	<string>يزيل زر "الشكر" الموجود أسفل المشغل.</string>
+	<key>PlayerNotFound</key>
+	<string>المشغل غير موجود</string>
+	<key>PlaylistOldMinibar</key>
+	<string>شريط تشغيل القائمة القديم</string>
+	<key>PlaylistOldMinibarDesc</key>
+	<string>يستبدل لوحة تشغيل القائمة العائمة الجديدة باللوحة القديمة.</string>
+	<key>Polish</key>
+	<string>ترجمها إلى اللغة البولندية</string>
+	<key>PortraitFullscreen</key>
+	<string>وضع ملء الشاشة العمودي</string>
+	<key>PortraitFullscreenDesc</key>
+	<string>يتيح دعم وضع ملء الشاشة العمودي.</string>
+	<key>PostDownloadAction</key>
+	<string>إجراء ما بعد الحفظ</string>
+	<key>PostDownloadDesc</key>
+	<string>سيتم تنفيذ الإجراء المحدد عند الانتهاء من الحفظ.</string>
+	<key>PostManager</key>
+	<string>حفظ معلومات المنشور</string>
+	<key>PostManagerDesc</key>
+	<string>يتيح نسخ نص المنشور وحفظ المنشور كصورة بالضغط المطول.</string>
+	<key>PreImportMessage</key>
+	<string>هذا الإجراء سيستبدل الإعدادات الحالية بتلك من الملف المحدد.
+
+هل أنت متأكد أنك تريد المتابعة؟</string>
+	<key>Preferences</key>
+	<string>إعدادات %@</string>
+	<key>PreferredAudio</key>
+	<string>المسار الصوتي المفضل</string>
+	<key>PreferredCaptions</key>
+	<string>الترجمة المفضلة</string>
+	<key>PremiumYTLogo</key>
+	<string>تعيين شعار YouTube Premium</string>
+	<key>PremiumYTLogoDesc</key>
+	<string>يضيف شعار YouTube Premium في شريط التنقل.</string>
+	<key>PreserveSpeed</key>
+	<string>Lock speed</string>
+	<key>PreserveSpeedDesc</key>
+	<string>Locks at adjusted speed after gesture completion.</string>
+	<key>Preview</key>
+	<string>معاينة</string>
+	<key>PreviewColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>PreviewDesc</key>
+	<string>مجموعة من المقاطع التي تعرض ما سيأتي في هذا الفيديو أو في فيديوهات أخرى ضمن السلسلة، حيث تُكرر جميع المعلومات لاحقًا في الفيديو.</string>
+	<key>PrivateUserID</key>
+	<string>Private UserID</string>
+	<key>ProgressBarStyle</key>
+	<string>شكل شريط التقدم</string>
+	<key>PublicUserID</key>
+	<string>Public UserID</string>
+	<key>RedProgressBar</key>
+	<string>شريط التقدم الأحمر</string>
+	<key>RedProgressBarDesc</key>
+	<string>يعيد شريط التقدم الأحمر.</string>
+	<key>RememberLoopMode</key>
+	<string>تذكر وضع التكرار </string>
+	<key>RememberLoopModeDesc</key>
+	<string>يتذكر آخر وضع تكرار تم اختياره في قائمة المشغل.</string>
+	<key>RemoveAds</key>
+	<string>إزالة الإعلانات</string>
+	<key>RemoveAdsDesc</key>
+	<string>يزيل الإعلانات داخل التطبيق.</string>
+	<key>RemoveCast</key>
+	<string>إخفاء زر البث</string>
+	<key>RemoveCastDesc</key>
+	<string>يخفي زر البث من شريط التنقل.</string>
+	<key>RemoveCommentGuidelines</key>
+	<string>إزالة إرشادات المجتمع</string>
+	<key>RemoveCommentGuidelinesDesc</key>
+	<string>يزيل إرشادات المجتمع المثبتة في قسم التعليقات.</string>
+	<key>RemoveCommunityPosts</key>
+	<string>إزالة منشورات المجتمع</string>
+	<key>RemoveCommunityPostsDesc</key>
+	<string>يزيل منشورات المجتمع من المنشورات.</string>
+	<key>RemoveDontRecommendMenu</key>
+	<string>إزالة "لا توصي بالقناة"</string>
+	<key>RemoveDontRecommendMenuDesc</key>
+	<string>يزيل خيار "لا توصي بالقناة" من القائمة.</string>
+	<key>RemoveDownloadMenu</key>
+	<string>إزالة "تنزيل"</string>
+	<key>RemoveDownloadMenuDesc</key>
+	<string>يزيل خيار "تنزيل" من القائمة.</string>
+	<key>RemoveHorizontalFeeds</key>
+	<string>إزالة المنشورات الأفقية</string>
+	<key>RemoveHorizontalFeedsDesc</key>
+	<string>يتم إزالة جميع المنشورات الأفقية (مثل الأخبار، متابعة المشاهدة، مجموعة المنشورات، وغيرها) من علامة التبويب الرئيسية.</string>
+	<key>RemoveIndicators</key>
+	<string>إزالة المؤشرات</string>
+	<key>RemoveInlineComment</key>
+	<string>إزالة قسم التعليقات</string>
+	<key>RemoveInlineCommentDesc</key>
+	<string>يزيل قسم التعليقات أسفل المشغل.</string>
+	<key>RemoveLabels</key>
+	<string>إزالة التسميات</string>
+	<key>RemoveLibraryTab</key>
+	<string>قم بإزالة علامة تبويب "أنت"</string>
+	<key>RemoveLiveVids</key>
+	<string>إزالة البثوث المباشرة</string>
+	<key>RemoveLiveVidsDesc</key>
+	<string>يتم إزالة البثوث المباشرة من علامة التبويب الرئيسية.</string>
+	<key>RemoveMixPlaylists</key>
+	<string>إزالة العناصر المختلطة</string>
+	<key>RemoveMixPlaylistsDesc</key>
+	<string>إزالة قائمة التشغيل المختلطة الذي تم أنشأها بواسطة الـYouTube من المنشورات.</string>
+	<key>RemoveMoreTopics</key>
+	<string>إزالة "المزيد من المواضيع"</string>
+	<key>RemoveMoreTopicsDesc</key>
+	<string>يزيل "المزيد من المواضيع" من المنشورات.</string>
+	<key>RemoveNotInterestedMenu</key>
+	<string>إزالة "غير مهتم"</string>
+	<key>RemoveNotInterestedMenuDesc</key>
+	<string>يزيل خيار "غير مهتم" من القائمة.</string>
+	<key>RemoveNotifications</key>
+	<string>إخفاء زر الإشعارات</string>
+	<key>RemoveNotificationsDesc</key>
+	<string>يخفي زر الإشعارات من شريط التنقل.</string>
+	<key>RemovePlayNext</key>
+	<string>إزالة "تشغيل التالي في قائمة الانتظار"</string>
+	<key>RemovePlayNextDesc</key>
+	<string>يزيل خيار "تشغيل التالي في قائمة الانتظار" من القائمة.</string>
+	<key>RemovePlayables</key>
+	<string>إزالة العناصر القابلة للتشغيل</string>
+	<key>RemovePlayablesDesc</key>
+	<string>يقوم بإزالة العناصر القابلة للتشغيل (مقاطع التشغيل المصغرة) من الخلاصة.</string>
+	<key>RemoveRemixMenu</key>
+	<string>Remove "Remix"</string>
+	<key>RemoveRemixMenuDesc</key>
+	<string>Removes "Remix" option from menu.</string>
+	<key>RemoveReportMenu</key>
+	<string>إزالة "الإبلاغ"</string>
+	<key>RemoveReportMenuDesc</key>
+	<string>يزيل خيار "الإبلاغ" من القائمة.</string>
+	<key>RemoveSaveToPlaylistMenu</key>
+	<string>إزالة "حفظ في قائمة التشغيل"</string>
+	<key>RemoveSaveToPlaylistMenuDesc</key>
+	<string>يزيل خيار "حفظ في قائمة التشغيل" من القائمة.</string>
+	<key>RemoveSearch</key>
+	<string>إخفاء زر البحث</string>
+	<key>RemoveSearchDesc</key>
+	<string>يخفي زر البحث من شريط التنقل.</string>
+	<key>RemoveShareMenu</key>
+	<string>إزالة "مشاركة"</string>
+	<key>RemoveShareMenuDesc</key>
+	<string>يزيل خيار "مشاركة" من القائمة.</string>
+	<key>RemoveShortsLive</key>
+	<string>إزالة مقاطع الفيديو المباشرة</string>
+	<key>RemoveShortsLiveDesc</key>
+	<string>إزالة مقاطع الفيديو المباشرة من الخلاصة.</string>
+	<key>RemoveVoiceSearch</key>
+	<string>إخفاء زر البحث الصوتي</string>
+	<key>RemoveVoiceSearchDesc</key>
+	<string>يخفي زر البحث الصوتي من شريط التنقل.</string>
+	<key>RemoveWatchLaterMenu</key>
+	<string>إزالة "حفظ للمشاهدة لاحقاً"</string>
+	<key>RemoveWatchLaterMenuDesc</key>
+	<string>يزيل خيار "حفظ للمشاهدة لاحقاً" من القائمة.</string>
+	<key>RemoveYTMMenu</key>
+	<string>Remove "YouTube Music"</string>
+	<key>RemoveYTMMenuDesc</key>
+	<string>Removes "Listen with YouTube Music" option from menu.</string>
+	<key>ReplacePrevNext</key>
+	<string>أزرار التقديم السريع والإرجاع</string>
+	<key>ReplacePrevNextDesc</key>
+	<string>يستبدل أزرار الفيديو السابق والتالي بأزرار التقديم السريع والإرجاع في مشغل الفديو.</string>
+	<key>ResetMessage</key>
+	<string>سيقوم هذا الإجراء بإعادة ضبط إعدادات YTPlus إلى الإعدادات الافتراضية وإغلاق YouTube.
+
+هل أنت متأكد أنك تريد المتابعة؟</string>
+	<key>ResetSettings</key>
+	<string>استعادة الإعدادات الافتراضية</string>
+	<key>ResetSpeed</key>
+	<string>إعادة تعيين</string>
+	<key>RestrictShorts</key>
+	<string>الحد من المقاطع القصيرة</string>
+	<key>RestrictShortsDesc</key>
+	<string>يحد من عدد الفيديوهات القصيرة في الخلاصة إلى 10-15. وهو أمر مفيد إذا كنت تريد تجنب عادة التمرير بلا نهاية عبر الخلاصة.</string>
+	<key>RetryLogin</key>
+	<string>تم تنشيط حل مؤقت.
+
+يرجى المحاولة مرة أخرى.</string>
+	<key>RightSideGesture</key>
+	<string>إيماءة للجانب الأيمن</string>
+	<key>RightSideGestureDesc</key>
+	<string>Adjusts the selected setting by swiping vertically on the right side of the screen</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>SaveCommentAsImage</key>
+	<string>حفظ التعليق كصورة</string>
+	<key>SaveCurrentImage</key>
+	<string>حفظ الصورة الحالية</string>
+	<key>SaveImage</key>
+	<string>حفظ الصورة</string>
+	<key>SavePostAsImage</key>
+	<string>حفظ المنشور كصورة</string>
+	<key>SaveProfilePhoto</key>
+	<string>حفظ صورة الملف الشخصي</string>
+	<key>SaveProfilePhotoDesc</key>
+	<string>يحفظ صورة الملف الشخصي في تطبيق الصور بالضغط المطول.</string>
+	<key>SaveProfilePicture</key>
+	<string>حفظ صورة الملف الشخصي</string>
+	<key>SaveToPhotos</key>
+	<string>حفظ إلى الصور</string>
+	<key>Saved</key>
+	<string>تم الحفظ في الصور</string>
+	<key>Sb.Alphabetical</key>
+	<string>Alphabetical (A-Z)</string>
+	<key>Sb.AlphabeticalRev</key>
+	<string>Reverse (Z-A)</string>
+	<key>Sb.Ask</key>
+	<string>يسأل</string>
+	<key>Sb.Channels</key>
+	<string>Channels</string>
+	<key>Sb.ChannelsHere</key>
+	<string>Whitelisted channels appear here</string>
+	<key>Sb.Disable</key>
+	<string>تعطيل</string>
+	<key>Sb.Display</key>
+	<string>إظهار في شريط التقدم</string>
+	<key>Sb.Newest</key>
+	<string>Newest first</string>
+	<key>Sb.Oldest</key>
+	<string>Oldest first</string>
+	<key>Sb.Skip</key>
+	<string>تخطي تلقائي</string>
+	<key>Sb.SkipTo</key>
+	<string>انتقل إلى المقطع</string>
+	<key>Sb.Whitelist</key>
+	<string>Whitelisted channels</string>
+	<key>Sb.Whitelisted</key>
+	<string>Added to the whitelist</string>
+	<key>SbAddToWhitelist</key>
+	<string>Add to the whitelist</string>
+	<key>SbPlayerButton</key>
+	<string>Display button in overlay</string>
+	<key>SbPlayerButtonDesc</key>
+	<string>Adds SponsorBlock button in players overlay.</string>
+	<key>SbRemoveFromWhitelist</key>
+	<string>Remove from the whitelist</string>
+	<key>SbWhitelist</key>
+	<string>Whitelist</string>
+	<key>ScrollToNext</key>
+	<string>التمرير إلى التالي</string>
+	<key>ScrubberColor</key>
+	<string>لون مؤشر التمرير</string>
+	<key>SeekAnywhere</key>
+	<string>أسحب للبحث</string>
+	<key>SeekAnywhereDesc</key>
+	<string>يسمح بالتحكم في التقديم والإرجاع أثناء التشغيل عن طريق السحب لليسار ولليمين.</string>
+	<key>SeekMethod</key>
+	<string>طريقة البحث</string>
+	<key>SeekMethodDesc</key>
+	<string>مستقل: تمرير سريع بحرية خلال الفيديو بالكامل، مع احترام حساسية البحث فقط.
+
+معتمد على المدة: يعتمد التمرير على طول الفيديو وحساسية البحث، وهو مفيد لتجنب تخطي أجزاء كبيرة في الفيديوهات الطويلة.</string>
+	<key>SeekSensitivity</key>
+	<string>حساسية التمرير</string>
+	<key>SegmentDetected</key>
+	<string>%@ detected.
+%@</string>
+	<key>SegmentSkipAudio</key>
+	<string>إشعار صوتي</string>
+	<key>SegmentSkipAudioDesc</key>
+	<string>يقوم بتشغيل إشعار صوتي عند تخطي الشرائح.</string>
+	<key>SegmentSkipped</key>
+	<string>%@ has been skipped</string>
+	<key>Segments</key>
+	<string>الشرائح</string>
+	<key>SegmentsInFeedPlayer</key>
+	<string>عرض الشرائح في المنشورات</string>
+	<key>SegmentsInFeedPlayerDesc</key>
+	<string>يعرض الشرائح الملونة على شريط تقدم المشغل في المنشورات.</string>
+	<key>SegmentsInMiniPlayer</key>
+	<string>عرض الشرائح على المشغل المصغر</string>
+	<key>SegmentsInMiniPlayerDesc</key>
+	<string>يعرض الشرائح الملونة على شريط تقدم المشغل المصغر.</string>
+	<key>Select</key>
+	<string>اختيار</string>
+	<key>SelectAction</key>
+	<string>اختر الإجراء</string>
+	<key>SelectAudioTrack</key>
+	<string>إختار المسار الصوتي</string>
+	<key>SelectCaption</key>
+	<string>حدد الترجمة</string>
+	<key>Selected</key>
+	<string>محدد</string>
+	<key>SelfPromo</key>
+	<string>الترويج الذاتي/غير المدفوع</string>
+	<key>SelfPromoColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>SelfPromoDesc</key>
+	<string>الترويج الذاتي: الترويج لمنتج أو خدمة تتعلق مباشرةً بصانع المحتوى نفسه. غير المدفوع: لن يتلقى صانع المحتوى أي تعويض مالي مقابل هذا الترويج.</string>
+	<key>Share</key>
+	<string>مشاركة</string>
+	<key>Shorts</key>
+	<string>المقاطع القصيرة</string>
+	<key>ShortsInterface</key>
+	<string>واجهة المقاطع القصيرة</string>
+	<key>ShortsModeTurnedOff</key>
+	<string>تم تعطيل وضع الفيديوهات القصيرة (Shorts) فقط</string>
+	<key>ShortsOnlyMode</key>
+	<string>وضع الفيديوهات القصيرة</string>
+	<key>ShortsOnlyModeDesc</key>
+	<string>يحد من وظائف الـYouTube لمشاهدة الفيديوهات القصيرة (Shorts) فقط.</string>
+	<key>ShortsOnlyWarning</key>
+	<string>هل أنت متأكد أنك تريد تفعيل هذا الوضع؟
+
+في هذا الوضع، ستتمكن فقط من مشاهدة فيديوهات القصيرة (Shorts) ولن تتمكن من القيام بأي شيء آخر.
+
+يمكنك تعطيل وضع الفيديوهات القصيرة فقط عن طريق الضغط المطول بإصبعين في مشغل الفيديوهات القصيرة(Shorts).</string>
+	<key>ShortsProgress</key>
+	<string>تمكين شريط التقدم</string>
+	<key>ShortsProgressDesc</key>
+	<string>يعرض شريط التقدم في مشغل الفيديوهات القصيرة (Shorts).</string>
+	<key>ShortsToRegular</key>
+	<string>الفيديوهات القصيرة إلى الفيديوهات العادية</string>
+	<key>ShortsToRegularDesc</key>
+	<string>يفتح الفيديوهات القصيرة (Shorts) كفيديوهات عادية.</string>
+	<key>Show</key>
+	<string>إظهار</string>
+	<key>ShowCurrentImage</key>
+	<string>Show current image</string>
+	<key>ShowNotifications</key>
+	<string>إظهار الإشعارات</string>
+	<key>ShowNotificationsDesc</key>
+	<string>يعرض إشعارات للشرائح التي تم تخطيها تلقائيا. يتم دائما عرض إشعارات الفئات التي تتطلب تخطيا يدويا.</string>
+	<key>ShowProfilePicture</key>
+	<string>Show profile picture</string>
+	<key>ShowThumbnail</key>
+	<string>Show thumbnail</string>
+	<key>SkipAlertDuration</key>
+	<string>تخطي مدة التنبيه</string>
+	<key>SkipSegment</key>
+	<string>Would you like to skip the segment?</string>
+	<key>SkipToSegment</key>
+	<string>Would you like to jump to the highlight?</string>
+	<key>SkippedToSegment</key>
+	<string>Jumped to %@</string>
+	<key>SolidColor</key>
+	<string>لون ثابت</string>
+	<key>SortType</key>
+	<string>Sort type</string>
+	<key>Spanish</key>
+	<string>ترجمها إلى اللغة الإسبانية</string>
+	<key>SpecialThanks</key>
+	<string>شكر خاص</string>
+	<key>SpecialThanks.Test</key>
+	<string>مساهمة لا تقدر بثمن في اختبار الأداة</string>
+	<key>SpeedByLongTap</key>
+	<string>زيادة سرعة تشغيل الفيديوهات القصيرة بالضغط المطول</string>
+	<key>SpeedByLongTapDesc</key>
+	<string>يسمح بتسريع التشغيل عن طريق الضغط المطول على جزء معين من الشاشة.</string>
+	<key>SpeedControls</key>
+	<string>أزرار التحكم في السرعة</string>
+	<key>SpeedControlsDesc</key>
+	<string>يعرض أزرار التحكم في السرعة على مشغل الفديو.</string>
+	<key>SpeedLocation</key>
+	<string>موقع التنشيط</string>
+	<key>SpeedPreserved</key>
+	<string>Speed locked at %@</string>
+	<key>Sponsor</key>
+	<string>إعلان</string>
+	<key>SponsorColor</key>
+	<string>إختار لون ليظهره في شريط التقدم</string>
+	<key>SponsorDesc</key>
+	<string>جزء من الفيديو يروج لمنتج أو خدمة ليست مرتبطة مباشرةً بصانع المحتوى. سيتلقى صانع المحتوى مالًا أو تعويضًا مثل منتجات مجانية.</string>
+	<key>Startup</key>
+	<string>صفحة البدء</string>
+	<key>StartupAnimation</key>
+	<string>الرسوم المتحركة</string>
+	<key>StartupAnimationDesc</key>
+	<string> الرسوم المتحركة الذي تظهر عند فتح الـYouTube.</string>
+	<key>StickSortComments</key>
+	<string>تثبيت رأس التعليقات</string>
+	<key>StickSortCommentsDesc</key>
+	<string>يثبت خيارات ترتيب التعليقات (الأعلى، الأحدث) حتى لا تختفي أثناء التمرير.</string>
+	<key>StickyNavbar</key>
+	<string>شريط التنقل الثابت</string>
+	<key>StickyNavbarDesc</key>
+	<string>يثبت شريط التنقل بحيث يظل مرئيًا عند التمرير لأسفل.</string>
+	<key>StockVolumeHUD</key>
+	<string>واجهة تحكم مستوى الصوت الأساسية</string>
+	<key>StockVolumeHUDDesc</key>
+	<string>تعرض واجهة تحكم مستوى الصوت الخاصة بالنظام في وضع ملء الشاشة.</string>
+	<key>Stop</key>
+	<string>إيقاف التشغيل</string>
+	<key>SupportDevelopment</key>
+	<string>دعم التطوير</string>
+	<key>SupportDevelopmentDesc</key>
+	<string>إذا أعجبك YTPlus وترغب في دعم تطويره، يمكنك فعل ذلك باستخدام أي من الطرق المناسبة أدناه.
+شكرًا ❤</string>
+	<key>SupportMe</key>
+	<string>ادعمني</string>
+	<key>SupporterWall</key>
+	<string>الداعمين</string>
+	<key>Tabbar</key>
+	<string>شريط التبويبات</string>
+	<key>TabsCountRestricted</key>
+	<string>يمكنك أن يكون لديك ما يصل إلى ستة علامات تبويب نشطة فقط</string>
+	<key>TapToReveal</key>
+	<string>Tap to reveal</string>
+	<key>Toast.Brightness</key>
+	<string>السطوع</string>
+	<key>Toast.PlaybackSpeed</key>
+	<string>سرعة التشغيل</string>
+	<key>Toast.Volume</key>
+	<string>الصوت</string>
+	<key>Translated</key>
+	<string>مترجم</string>
+	<key>TranslatedAutoGen</key>
+	<string>مترجمة تلقائيًا</string>
+	<key>TranslucentBar</key>
+	<string>شريط علامات التبويب الشفاف</string>
+	<key>Turkish</key>
+	<string>ترجمها إلى اللغة التركية</string>
+	<key>TwoFingerPanToBrightness</key>
+	<string>ضبط السطوع</string>
+	<key>TwoFingerPanToBrightnessDesc</key>
+	<string>يسمح بضبط سطوع الشاشة عن طريق السحب لأعلى/أسفل باستخدام إصبعين.</string>
+	<key>TwoFingerTapToPause</key>
+	<string>إيقاف التشغيل باستخدام إصبعين</string>
+	<key>TwoFingerTapToPauseDesc</key>
+	<string>إيقاف تشغيل/استئناف التشغيل عن طريق الضغط على الشاشة باستخدام إصبعين.</string>
+	<key>UnderPlayer</key>
+	<string>أسفل المشغل</string>
+	<key>Unskip</key>
+	<string>إلغاء التخطي</string>
+	<key>UnskipAlertDuration</key>
+	<string>إلغاء تخطي مدة التنبيه</string>
+	<key>VLWL</key>
+	<string>المشاهدة لاحقًا</string>
+	<key>VideoEndTime</key>
+	<string>إظهار وقت نهاية التشغيل</string>
+	<key>VideoEndTimeDesc</key>
+	<string>يضيف وقت نهاية تشغيل الفيديو إلى شريط المشغل.</string>
+	<key>Vietnamese</key>
+	<string>ترجمها إلى اللغة الفيتنامية</string>
+	<key>VisitGithub</key>
+	<string>Github مستودع</string>
+	<key>VisitGithubDesc</key>
+	<string>أطلب ميزة أو الإبلاغ عن المشكلات</string>
+	<key>VisitTelegram</key>
+	<string>قناتي على Telegram</string>
+	<key>VisitTelegramDesc</key>
+	<string>كن على علم بآخر التحديثات</string>
+	<key>Warning</key>
+	<string>تحذير</string>
+	<key>Welcome.Content</key>
+	<string>ضبط الواجهة</string>
+	<key>Welcome.ContentDesc</key>
+	<string>إزالة المحتوى والعناصر الغير مرغوب فيها. تمكين ثيم OLED الوضع الداكن الحقيقي</string>
+	<key>Welcome.Download</key>
+	<string>حفظ الوسائط</string>
+	<key>Welcome.DownloadDesc</key>
+	<string>حفظ المحتوى المفضل لديك، سواء كان فيديوهات عادية أو فيديوهات قصيرة أو ملفات صوتية أو صور الملف الشخصي. نسخ المنشورات والتعليقات المثيرة أو حفظها كصور.</string>
+	<key>Welcome.More</key>
+	<string>وأكثر...</string>
+	<key>Welcome.MoreDesc</key>
+	<string>يتضمن YouTube Plus اكثر من 50 خيارًا مختلفًا، بما في ذلك ميزات مثل حفظ الإعدادات ومسح الذاكرة المؤقتة. إعدادات الأداة متوفرة بإسم YouTube Plus ضمن إعدادات الـYouTube.</string>
+	<key>Welcome.Player</key>
+	<string>ضبط سلوك المشغل</string>
+	<key>Welcome.PlayerDesc</key>
+	<string>تخصيص سلوك المشغل، وتحديد التلقائي لجودة الفيديو وسرعة التشغيل. التحكم باستخدام الإيماءات</string>
+	<key>Yes</key>
+	<string>نعم</string>
+	<key>YtlButtonPosition</key>
+	<string>مكان زر الحفظ</string>
+	<key>sb_filler</key>
+	<string>شريحة المشاهد الجانبية</string>
+	<key>sb_interaction</key>
+	<string>جزء التفاعل</string>
+	<key>sb_intro</key>
+	<string>شريحة المقدمة</string>
+	<key>sb_music_offtopic</key>
+	<string>جزء خارج الموضوع</string>
+	<key>sb_outro</key>
+	<string>شريحة البطاقات النهائية</string>
+	<key>sb_poi_highlight</key>
+	<string>Highlight</string>
+	<key>sb_preview</key>
+	<string>معاينة الجزء</string>
+	<key>sb_selfpromo</key>
+	<string>شريحة الترويج الذاتي</string>
+	<key>sb_sponsor</key>
+	<string>شريحة الإعلان</string>
+</dict>
+</plist>
