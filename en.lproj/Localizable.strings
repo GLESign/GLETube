@@ -1336,6 +1336,8 @@ Thanks❤</string>
 	<string>Setup Player Behavior</string>
 	<key>Welcome.PlayerDesc</key>
 	<string>Сustomize the player's behavior, auto-select quality and playback speed. Control using gestures</string>
+	<key>YTLiteAuthor</key>
+	<string>YTLite author (OpenSource)</string>
 	<key>Yes</key>
 	<string>Yes</string>
 	<key>YtlButtonPosition</key>

@@ -1339,6 +1339,8 @@
 	<string>Настройка плеера</string>
 	<key>Welcome.PlayerDesc</key>
 	<string>Кастомизируйте поведение плеера, автовыбор качества и скорости. Управляйте жестами</string>
+	<key>YTLiteAuthor</key>
+	<string>Автор YTLite (OpenSource)</string>
 	<key>Yes</key>
 	<string>Да</string>
 	<key>YtlButtonPosition</key>
